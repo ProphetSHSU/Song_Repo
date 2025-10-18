@@ -1,0 +1,92 @@
+{title:Ordinary World}
+{artist:Duran Duran}
+{key:C#m}
+{Duration:04:38}
+{tempo:140}
+
+Intro:
+[B][F#m][Dsus2][A/C#][Esus2]
+
+[B] [F#m][Dsus2][A/C#][Am/C]
+
+Verse:
+[C#m7]Came in from a rainy
+Thursday [E]on the avenue[F#sus4][C#m7]
+Thought I heard you talking softly
+[E]  [F#sus4]       [C#m7]I turned on the lights the
+T V [E]and the radio[F#sus4][C#m7]
+Still I can't escape the ghost of [E]you[F#sus4][C#m7]
+
+Pre-Chorus:
+What is happening to it all?
+[G#m]Crazy some would say
+[D#7]Where is the life that I recog[E]nize?
+Gone away
+
+Chorus:
+[B] But I won't cry for yesterday[F#m]
+There's an ordinary world[Dsus2]     Somehow I[A/C#]
+have to find[E]
+[B] And as I try to make my [F#m]way
+To the ordinary world[Dsus2]     I will learn[A/C#]
+to survive[Am/C][C#m7][F#sus4]
+
+Verse:
+[C#m7]Passion or coincidence
+Once [E]prompted you to say[F#sus4][C#m7]
+Pride will tear us both a part
+[E]  [F#sus4]      Well now [C#m7]pride's gone out the window,
+Across the roof[E]tops run away[F#sus4]       [C#m7]    Left me in the vacuum of my [E]heart[F#sus4][C#m7]
+
+Pre Chorus:
+What is happening to me?
+[G#m]Crazy some would say
+[D#7]Where is my friend when I need you[E]most?
+Gone away
+
+Chorus:
+[B] But I won't cry for yesterday[F#m]
+There's an ordinary world[Dsus2]     Somehow I[A/C#]
+have to find[E]
+[B] And as I try to make my [F#m]way
+To the ordinary world[Dsus2]     I will learn[A/C#]
+to survive[E]
+
+Solo 1:
+[B][F#m][Dsus2][A/C#][E]
+
+[B] [F#m][Dsus2][A/C#][Am/C]
+
+Verse:
+[C#m7]Papers in the roadside
+Tell of [E]suffering and greif[F#sus4][C#m7]
+Feared today forgot tomorrow
+[E]  [F#sus4]      Oo [C#m7]here be side the news of
+Holy war[E] and ho lyneed[F#sus4][C#m7]
+Ours is just a little sorrowed [E]talk[F#sus4]
+
+Solo 2:
+[B]  [F#m]    [Dsus2]      [A/C#]     [E]Just blown away
+[B] [F#m][Dsus2][A/C#][E]
+
+Chorus:
+[B] And I won't cry for yesterday[F#m]
+There's an ordinary world[Dsus2]     Somehow I[A/C#]
+have to find[E]
+[B] And as I try to make my [F#m]way
+To the ordinary world[Dsus2]     I will learn[A/C#]
+to survive[E]
+Every [B]World
+
+Outro:
+[F#m]   Is my World[Dsus2]     I will learn[A/C#]
+to survive[E]
+Any World[B]
+[F#m]   Is my World[Dsus2]     I will learn[A/C#]
+to survive[E]
+Any World[B]
+[F#m]   Is my World[Dsus2][A/C#]
+[E] Every World[B]
+
+{comment: Outro (Fade Out)}
+[F#m]   Is my World[Dsus2][A/C#][E]

@@ -1,0 +1,125 @@
+{title:Closer}
+{artist:The Chainsmokers}
+{key:Ab}
+{Duration:04:04}
+{tempo:95}
+{color:P}
+
+{c:capo 1}
+
+{c: single hits}
+Intro:
+[C][D][Em][D]
+[C][D][Em][D]
+
+{c: Jake}
+Verse:
+[C]Hey, [D]I was doing just [Em]fine before I met y[D]ou
+I drink too [C]much and that's an issue
+[D]But I'm OK [Em]   [D]  
+
+[C]Hey , [D]you tell your [Em]friends it was nice to meet t[D]hem
+But I [C]hope I never see [D]them
+Again[Em][D]
+
+{c: arpegiate?}
+[C]  I know it breaks [D]your heart
+[Em]Moved to the city in a broke [D]down car
+[C]  And four years, [D]no calls
+[Em]Now you're looking pretty in a ho[D]tel bar
+And [C]I, I, I, I, I[D]  can't stop [Em] [D]  
+No,[C] I, I, I, I,[D]I  can't stop [Em] [D]
+
+{c: both, single hits}
+Pre-Chorus:
+So, [C]baby, pull me clos[D]er
+In the [Em]back seat of your Ro[D]ver
+That I [C]know you can't affor[D]d
+Bite that [Em]tattoo on your shoul[D]der
+
+{c:chugs}
+Pull the [C]sheets right off the cor[D]ner
+Of that [Em]mattress that you stole[D]
+From your [C]roommate back in Boul[D]der
+We ain't [Em]ever getting ol[D]der
+
+{c: strummy - synth}
+Chorus:
+[C]  [D]  [Em]   [D]  
+[C]  [D]      We a[Em]in't ever getti[D]ng older
+[C]  [D]  [Em]   [D]  
+[C]  [D]      We a[Em]in't ever getti[D]ng older
+
+{c: Lisa, single hits}
+Verse:
+[C]You  [D] look as [Em]good as the day I met y[D]ou
+I for[C]get just why I left you,
+[D]I was insane [Em]   [D]
+
+[C]Stay  [D] and play that [Em]Blink182 s[D]ong
+That we [C]beat to death in Tuc[D]son, OK [Em] [D]
+
+{c: both, arpegiate?}
+[C]   I know it breaks y[D]our heart
+[Em]Moved to the city in a broke [D]down car
+[C]  And four years, [D]no call
+[Em]Now I'm looking pretty in a ho[D]tel bar
+And [C]I, I, I, I, I[D]  can't stop [Em] [D]
+No,[C] I, I, I, I, I[D]  can't stop [Em] [D]
+
+{c: single hits}
+Pre-Chorus:
+ So,[C] baby, pull me clo[D]ser
+In the [Em]back seat of your Ro[D]ver
+That I [C]know you can't affor[D]d
+Bite that [Em]tattoo on your shoul[D]der
+
+{c: chugs}
+Pull the [C]sheets right off the co[D]rner
+Of that [Em]mattress that you stole[D]
+From your [C]roommate back in Bou[D]lder
+We ain't [Em]ever getting ol[D]der
+
+{c: strummy - synth}
+Chorus:
+[C]  [D]  [Em]   [D]  
+[C]  [D]      We a[Em]in't ever getti[D]ng older
+[C]  [D]  [Em]   [D]  
+[C]  [D]      We a[Em]in't ever getti[D]ng older
+
+{c: Jake, single hits}
+Interlude:
+So, [C]baby, pull me clo[D]ser
+In the [Em]back seat of your Ro[D]ver
+That I [C]know you can't affor[D]d
+Bite that [Em]tattoo on your shoul[D]der
+
+{c: both, single hits}
+Pull the [C]sheets right off the cor[D]ner
+Of that [Em]mattress that you stole[D]
+From your [C]roommate back in Bou[D]lder
+We ain't [Em]ever getting ol[D]der
+
+{c: CHUGS}
+We ain't [C]ever getting o[D]lder
+No, we [Em]ain't ever getting ol[D]der
+
+We ain't [C]ever getting o[D]lder
+No, we [Em]ain't ever getting (High)ol[D]der
+
+We ain't [C]ever getting o[D]lder
+We ain't [Em]ever getting ol[D]der
+
+We ain't [C]ever getting o[D]lder
+No, we [Em]ain't ever getting ol[D]deer<BREAK>
+
+{c: strummy - synth}
+Chorus:
+[C]  [D]  [Em]   [D]  
+[C]  [D] We ain't [Em]ever getting ol[D]deeeeeeeeeeer
+[C]  [D]  [Em]   [D]  
+[C]  [D]    No, we ain't [Em]ever getting ol[D]der
+
+{c: single strums}
+Outro:
+[C][D][Em]

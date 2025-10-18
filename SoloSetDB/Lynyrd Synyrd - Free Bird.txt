@@ -1,0 +1,39 @@
+{title:Free Bird}
+{artist:Lynyrd Synyrd}
+{key:C major}
+{duration:9:12}
+{tempo:118}
+{color:P}
+
+{comment: Capo 0}
+
+[G]If I [D]leave here to[Em]morrow
+[F]Would you [C]still remember [D]me?
+[G]For I must be [D]travelling [Em]on now
+[F]Cos there's too many [C]places I must [D]see
+
+[G]If I [D]stay here with [Em]you girl
+[F]Things just [C]couldn't be the [D]same
+[G]Cos I'm as [D]free as a [Em]bird now
+[F]And this [C]bird you cannot [D]change
+[F]And this [C]bird you cannot [D]change
+[F]And this [C]bird you cannot [D]change
+[F]Lord [C]knows I can't [D]change
+
+[G]Bye bye, [D]it's been a [Em]sweet love
+[F]Though this [C]feeling I can't [D]change
+[G]But please don't [D]take it so [Em]badly
+[F]Cos the Lord knows [C]I'm to [D]blame
+
+[G]But if I [D]stay here with [Em]you girl
+[F]Things just [C]couldn't be the [D]same
+[G]Cos I'm as [D]free as a [Em]bird now
+[F]And this [C]bird you cannot [D]change oh oh oh
+[F]And this [C]bird you cannot [D]change
+[F]And this [C]bird you cannot [D]change
+[F]Lord [C]knows I can't [D]change
+
+[F]Lord [C]help me I can't [D]change
+[G]Lord [Bb]I can't [C]change
+[G]Oh [Bb]I can't [C]change
+[G]Fly [Bb]high [C]freebird oh [G]yeah! . . .

@@ -1,0 +1,47 @@
+{title:The Dance}
+{artist:Garth Brooks}
+{key:G major}
+{duration:3:40}
+{tempo:134}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G][C][G][C][G][D][C][G]
+
+Verse:
+Looking[G] back on the[C] memory of the[D]dance we shared
+Beneath the [G]stars above[D], for a [G]moment all the [C]world was right.
+How could I[D] have known that you'd e[C/E]ver say goodb[D/F#]ye?
+
+Chorus:
+And [C]now, I'm glad I didn't [D]know the way it all would [Bm]end,
+the way it all would [C]go.[D]
+Our [C]lives, are better left to [D]chance. I could have missed the [Bm]pain
+but I'd have had to [C]miss [D]the [G]dance
+
+Verse:
+Holding [G]you I held e[C]verything.  For a m[D]oment wasn't [G]I the king?[D]
+But if I'd [G]only known how the [C]king would fall, hey [D]who's to say
+you know I [C/E]might have changed it [D]all.
+
+Chorus:
+And [C]now, I'm glad I didn't [D]know the way it all would [Bm]end,
+the way it all would [C]go.[D]
+Our [C]lives, are better left to [D]chance. I could have missed the [Bm]pain
+but I'd have had to [C]miss [D]the [G]dance
+
+Yes my [C]life, it's better left to [D]chance.
+I could have have missed the [Bm]pain,
+but I'd have had to [C]miss [D]the [N.C.]dance.
+
+Piano Solo:
+[Em][C][D][Em]
+
+{comment: Piano + Slide Guitar}
+[Em] [C][D][Em]
+
+[Em][C][D][Em]
+
+(repeat and fade)

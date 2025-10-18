@@ -1,0 +1,121 @@
+{title:Check Yes Juliet}
+{artist:We the Kings}
+{key:G major}
+{duration:3:40}
+{tempo:167}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+  D
+e|-----------------------|
+B|---3---2---3---2-------|
+G|-----------------2-----|
+D|-0---0---0---0-----4---| x4
+A|-----------------------|
+E|-----------------------|
+ 
+[D Bm G]
+
+ 
+Verse:
+[D]Check yes Juliet are you with me
+Rain is falling down on the sidewalk
+[Bm]I won’t go until you come out[G]side
+[D]Check yes Juliet kill the limbo
+I’ll keep tossing rocks at your window
+[Bm]There’s no turning back for us to[G]night
+
+Refrain:
+[Em]Lace up your shoes
+(ay oh ay oh)
+Here’s how we do
+
+Chorus 1:
+Run baby [Bm]run
+Don’t [D]ever look [G]back
+They’ll [A]tear us a[Bm]part if
+you [D]give them the [G]chance
+(give them the chance)[A]
+Don’t sell your [Bm]heart
+Don’t [D]say we’re [G]not
+meant to [A]be
+Run baby [Bm]run
+
+For[D]ever we’ll [G]be[A]
+You and me
+
+Interlude:
+[D] [D]
+
+Verse:
+[D]Check yes Juliet I’ll be waiting
+Wishing wanting yours for the taking
+[Bm]Just sneak out and don’t tell a soul good[G]bye
+[D]Check yes Juliet here’s the countdown
+3-2-1, now fall in my arms now
+[Bm]They can change the locks
+don’t let them change your [G]mind
+
+Refrain:
+[Em]Lace up your shoes
+(ay oh ay oh)
+Here’s how we do
+
+Chorus 1:
+Run baby [Bm]run
+Don’t [D]ever look [G]back
+They’ll [A]tear us a[Bm]part if
+you [D]give them the [G]chance
+(give them the chance)[A]
+Don’t sell your [Bm]heart
+Don’t [D]say we’re [G]not
+meant to [A]be
+Run baby [Bm]run
+For[D]ever we’ll [G]be[A]
+You and me
+
+Bridge:
+[G]  We’re flying through the [Em]night
+We’re flying through the [D]night
+Way [A]up high
+[G]  The view from [Em]here is getting
+better [D]with you [A]by my si[D]de[Bm][G]
+
+Instrumental:
+[D][Bm][G][D]
+[Bm][G][D][Bm][G]
+
+Chorus 1:
+Run baby [Bm]run
+Don’t [D]ever look [G]back
+They’ll [A]tear us a[Bm]part if
+you [D]give them the [G]chance
+(give them the chance)[A]
+Don’t sell your [Bm]heart
+Don’t [D]say we’re [G]not
+meant to [A]be
+Run baby [Bm]run
+For[D]ever we’ll [G]be[A]
+You and me
+
+Chorus 2:
+Silence:
+Run baby [Bm]run
+Don’t [D]ever look [Em]back
+They’ll [D]tear us a[Bm]part if
+you [D]give them the [Em]chance[A]
+
+[Distortion:]Bm
+Don’t sell your heart
+Don’t [D]say we’re [G]not
+meant to [A]be
+Run baby [Bm]run
+For[D]ever we’ll [G]be[A]
+You and [D]me[Bm][G]
+You and [D]me[Bm][G]
+You and [D]me[Bm][G]
+
+Outro:
+[D][Bm][G]

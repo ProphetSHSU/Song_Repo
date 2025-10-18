@@ -1,0 +1,9 @@
+{title:Sojourn of a Burning Sun}
+{artist:Daniel Rodriguez}
+{key:}
+{Duration:2:16}
+{tempo:78}
+{color:P}
+
+{comment: Capo 0}
+

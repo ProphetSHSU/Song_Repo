@@ -1,0 +1,102 @@
+{title:What I Like About You}
+{artist:The Romantics}
+{key:A}
+{Duration:02:55}
+{tempo:160}
+
+{c: A-Harmonica}
+{c:Esus4 - 022200}
+
+Intro: 
+{c:solo only with clapping}
+[Esus4 E A D D/A A]
+[Esus4 E A D/A A]
+[Esus4 E A D D/A A]
+[Esus4 E A D/A A]Hey
+
+[E A D/F# D/A A]Uh huh huh      
+[E A D/F# A]Hey
+[E A D/F# D/A A]Uh huh huh
+[E A D/F# A]What I like about you
+    
+Verse 1:
+[E  A D/F# D/A A]You hold me tight   
+[E A D/F# A]Tell [E]me I'm the only [A]one
+[D/F#]You wanna come [D/A A]over tonight,
+[E A]yeah[D/F# A]
+ 
+ 
+Chorus 1:
+{c:ahhh ahhhs, the 'thats what I likes'}
+[E]Keep on [A]whispering [D/F#]in  my   [D/A A]ear
+[E]Tell me all the [A]things that I 
+[D/F#]wanna [A]to hear            
+Cause it's true
+[E A D/F#]That's what I [D/A A]like about you
+[E A D/F#]That's what I [A]like about you
+
+Verse 2:
+[E A D/F#]You really [D/A A]know how to dance          
+[E A D/F# A]When you go 
+[E]up, down, [A]jump around             
+[D/F#]Think about   [D/A A]true romance,   
+[E A D/F# A]yeah
+ 
+ 
+Chorus 2:                
+[E]Keep on [A]whispering [D/F#]in  my   [D/A A]ear
+[E]Tell me all the [A]things that I [D/F#]wanna [A]to hear            
+Cause it's true
+[E A D/F#]That's what I [D/A A]like about you
+[E A D/F#]That's what I [A]like about you
+[E A D/F#]That's what I [D/A A]like about you
+Wow
+
+Interlude:
+[G D G A]
+{c:hard stop on 3 final B}
+[D/A A B Bsus4 B]
+Hey
+
+Solo/Harmonica:
+{c: (-5 -4)trill [45] x2}
+{c: -[45] [45] -4 [45] x2}
+{c: -4 -4 -5   5 4   -[45]x3 [45] -[45]}
+
+[E A D/F# D/A A] 
+[E A D/F# A]
+[E A D/F# D/A A 
+[E A D/F#]That's what I [D/A A]like about you
+ 
+ 
+Verse 3:
+[E A D/F#]You keep me [D/A A]warm at night   
+[E A D/F# A] 
+[E]Never wanna [A]let you go               
+[D/F#]Know you make me [D/A A]feel alright,   
+[E A D/F# A]yeah
+
+Chorus 3:
+[E]Keep on [A]whispering [D/F#]in  my   [D/A A]ear
+[E]Tell me all the [A]things that I [D/F#]wanna [A]to hear            
+Cause it's true
+[E A D/F#]That's what I [D/A A]like about you
+[E A D/F#]That's what I [A]like about you
+[E A D/F#]That's what I [D/A A]like about you
+[E A D/F#]That's what I [A]like about you
+ 
+Bridge:
+{c:whisper part}
+[E A D/F#]That's what I [D/A A]like about you
+[E A D/F#]That's what I [A]like about you
+[E A D/F#]That's what I [D/A A]like about you
+{c:loud again}
+Hey
+
+Outro:
+[Esus4 E A D D/A A]Uh huh huh 
+[Esus4 E A D/A A]Hey
+[Esus4 E A D D/A A]Uh huh huh 
+[Esus4 E A D/A A]Brrrrr
+[Esus4 E A D D/A A]Uh huh huh 
+[Esus4 E A D/A A]Hey

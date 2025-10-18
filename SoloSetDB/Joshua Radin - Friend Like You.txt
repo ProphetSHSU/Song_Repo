@@ -1,0 +1,40 @@
+{title:Friend Like You}
+{artist:Joshua Radin}
+{key:B major}
+{duration:2:20}
+{tempo:88}
+{color:P}
+
+{comment: Capo 4 5/6kc}
+
+Intro: 
+[G][C][G]
+
+1st Verse:
+[G]I like the way you[C]’re not [G]afraid
+You’ve [C]got the world pla[G]nned in your m[Bm]ind
+[G]People say you cannot do it[C]
+[G]But they don’t k[Em]now a fri[D]end like y[G]ou
+
+2nd Verse:
+[G]The girl you love h[C]as gone[G]away
+Still t[C]oo young to[G] know her he[Bm]art
+[G]She’ll return her love [C]renewed
+[G]Cause she’ll never [Em]find a fr[D]iend like y[G]ou
+
+[G][Em][D][G]
+
+3rd Verse:
+[G]When I had no[C] one to c[G]all
+All [C]the world h[G]ad shut me d[Bm]own
+[G]I showed up at your door so[C]blue
+[G]Thank G[Em]od I had a frie[D]nd like y[G]ou
+
+4th Verse:
+[G]Many times[C] I’ve gone with[G]out
+A home[C], a meal, [G]a pair of sh[Bm]oes
+[G]If you had three you’d give [C]me two
+[G]There ain’t no [Em]other fr[D]iend like y[G]ou
+
+Outro:
+[G][Em][D][G]

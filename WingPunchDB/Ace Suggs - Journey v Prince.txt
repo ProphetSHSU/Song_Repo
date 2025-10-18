@@ -1,0 +1,140 @@
+{title:Journey v Prince}
+{artist:Ace Suggs}
+{key:Eb}
+{Duration:08:25}
+{tempo:72}
+{color:P}
+
+{c: Capo 3}
+
+Intro:
+[G][Em][D] [C]
+
+{d_time: 0:19}
+Verse:
+Highway [G]run Into the [Em]midnight sun
+[C]Wheels go round and round
+You're on my [G]mind
+[G]
+Restless [G]hearts
+Sleep a[Em]lone tonight
+[C]Sending all my love
+Along the [D]wi____[Dsus4]re
+
+{d_time: 0:55}
+Chorus:
+They [C]say that the road Ain't no
+place to start a f[G]amily
+[C]Right down the line
+ It's been you and [G]me
+And [C]lovin' a music man
+Ain't always what it's [G]supposed to be
+Oh, [Am]girl, you stand  by [C]me
+I'm fo[Am]rever yours [C]
+
+Faithfully
+
+{d_time: 1:36}
+Interlude:
+[G] [Em][D][C]
+
+{d_time: 1:52}
+Verse:
+Circu[G]s life
+Under the [Em]big top world
+[C]We all need the clowns
+make us [G]smile
+[G]
+Through space and t[G]ime
+Always a[Em]nother show
+[C]Wondering where Iam
+Lost wit[D]hout  [Dsus4]you
+
+{d_time: 2:28}
+Chorus:
+And [C]being apart Ain't easy on this
+[G]love affair
+[C]Two strangers learn to fall in love
+ag[G]ain
+[C]I get the joy of
+redisc[G]overing you
+Oh, [Am]girl, you stand  by [C]me
+I'm fo[Am]rever yours [C]
+
+Faithfully  
+
+{d_time: 3:08}
+Interlude:
+[G] [Em][D][C]
+
+{d_time: 3:25}
+Verse:
+[G]   I never meant to cause you any s[Em]orrow
+[D] I never meant to cause you any p[C]ain
+[G]  I only wanted to one time to see you la[Em]ughing
+I [D]only want to see you
+Laughing [D]in the purple [X]rain
+
+{d_time: 3:58}
+Chorus:
+Purple rain, purple rain [C]
+[C] Purple rain, purple rain [G]
+[Em] Purple rain, purple [D]rain
+[D]
+I [D]only want to see you
+Laughing [D]in the the purple ra[X]in
+
+{d_time: 4:28}
+Verse:
+Honey, I know, I know
+I know times are [G]changing 
+[Em][D]
+It's time we all reach out
+For something new [C]
+that means you too
+
+[G] You say you want a leader
+[Em]But you can't seem to make up your mind
+I think you better [D]close it
+
+And let me guide you [D]
+to the purple r[X]ain
+  
+
+{d_time: 5:03}
+Chorus:
+Purple rain, purple r[C]ain
+[C] Purple rain, purple rain [G]
+[Em]
+Purple rain, purple rain[D]
+[D]
+[D]Only want to see you, Only want to see you
+ In the purple rain
+
+{d_time: 5:36}
+Solo:
+[G][Em][D][C]
+[G][Em][D][C]
+
+[G][Em][D][C]
+[G][Em][D][C]
+
+[G][Em][D][C]
+
+{d_time: 7:00}
+Interlude - Prince:
+[G]  oo[Em]oo [D]oo [C]oooo ooo
+[G]  oo[Em]oo [D]oo [C]oooo ooo
+[G]  oo[Em]oo [D]oo [C]oooo ooo 
+
+{d_time: 7:49}
+Interlude - Journey:
+[G]  o o o o [Em]  o o o o
+[D]  o o o o [C]  oooooooo
+Faithful[G]ly
+Faithful[Em]ly
+I'm for[D]ever yours  [C]
+
+{d_time: 8:20}
+Faithfu[G]lly
+ 

@@ -1,0 +1,93 @@
+{title:The Days}
+{artist:Avicii}
+{key:C major}
+{duration:4:38}
+{tempo:127}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+1 2 3 4 1 2 3 4 1 2 3 4 1 2  3 4
+C      |  G F  |F      |  Em Am       
+
+Verse:
+[C]Under the tree where the grass d[G]on't gr[F]ow[F][Em][Am]
+[C]We made a promise to nev[G]er get o[F]ld[F][Em][Am]
+[C]You had a chance and you took it [G]on [F]me[F][Em][Am]
+[C]And I made a promise that I coul[G]dn't k[F]eep[F][Em][Am]
+
+Pre-Chorus:
+[F]Heartache, heartbreaks
+[G]All over t[Am]own
+But something f[F]lipped like a switch
+When you[G] came ar[Am]ound
+And I'm in pi[F]eces
+Pick me up and p[G]ut me tog[Am]ether[Gsus4][G]
+
+Chorus:
+[F]These are the d[C]ays
+We've been w[G]aiting f[Am]or
+[F]On days like th[C]ese
+Who could a[G]sk for m[Am]ore?
+
+[F]Keep on c[C]oming
+Cause we're n[G]ot done y[Am]et
+[F]These are the d[C]ays
+We w[G]on't regr[Am]et
+[F]These are the d[C]ays
+We w[G]on't forg[Am]et
+
+[F]These are the d[C]ays
+We've been w[G]aiting f[Am]or
+[F]Rattle the c[C]age
+And sl[G]am that d[Am]oor
+And the w[F]orld is c[C]alling us
+But n[G]ot just y[Am]et
+[F]These are the d[C]ays
+We w[G]on't regr[Am]et
+[F]These are the d[C]ays
+We w[G]on't forg[Am]et
+
+Interlude:
+
+[C] | [G][F] | [F] | [Em][Am]
+
+Verse:
+[C]Out on the midnight, the wild o[G]nes ho[F]wl[F][Em][Am]
+
+[C]Last of the lost boys have thrown [G]in the t[F]owel[F][Em][Am]
+[C]We used to believe we were stars [G]ali[F]gned[F][Em][Am]
+[C]You made a wish and I fell [G]out of
+
+Pre-Chorus:
+[F]Time flew, cut through
+[G]All over t[Am]own
+You made me bl[F]eed when I look up
+And you'[G]re not ar[Am]ound
+But I'm in pi[F]eces
+Pick me up and p[G]ut me tog[Am]ether[Gsus4][G]
+
+We w[G]on't forg[Am]et
+
+[F]These are the d[C]ays
+We've been w[G]aiting f[Am]or
+[F]Neither of u[C]s
+Knows wh[G]at's in st[Am]ore
+You just p[F]ull your wi[C]ndow down
+And pl[G]ace your b[Am]ets
+[F]These are the d[C]ays
+We w[G]on't regr[Am]et
+[F]These are the d[C]ays, we'll never forget
+
+Bridge:
+And t[F]hese are t[C]he days
+(t[G]hese are the d[Am]ays)[F][C][G][Am]
+And t[F]hese are t[C]he days
+(t[G]hese are the d[Am]ays)[F][C][G][Am]
+
+Instrumental:
+
+[F   C   G   Am]    
+
+til' the end

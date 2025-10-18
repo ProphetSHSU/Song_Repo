@@ -1,0 +1,73 @@
+{title:Old Time Rock and Roll}
+{artist:Bob Seger}
+{key:F#}
+{Duration:03:15}
+{tempo:124}
+
+{c: capo 2}
+
+Intro:
+[E][B]
+
+[E]  [B]   Just take those old record[E]s off the shelf
+
+Verse:
+I'll sit and listen to 'em [A]by myself
+Today's music ain't [B]got the same soul
+I like that old time [E]rock 'n' roll
+Don't try to take me to a [E]disco
+You'll never even get me [A]out on the floor
+In ten minutes I'll be [B]late for the door
+I like that old time [E]rock 'n' roll
+[B]  Still like that old time[E]rock 'n' roll
+
+Chorus:
+That kind of music just [A]soothes my soul
+I reminisce about the [B]days of old
+With that old time [E]rock 'n' rol[B]l
+
+{comment: Solo 1 (Guitar)}
+[E][A][B][E]
+
+[B]  Won't go to hear 'em play a[E]tango
+
+Verse:
+I'd rather hear some blues or [A]funky old soul
+There's only one sure way to [B]get me to go
+Start playing old time [E]rock 'n' roll
+Call me a relic, call me [E]what you will
+Say I'm old fashioned, say I'm [A]over the hill
+Today's music ain't [B]got the same soul
+I like that old time [E]rock 'n' roll
+[B]  Still like that old time[E]rock 'n' roll
+
+Chorus:
+That kind of music just [A]soothes the soul
+I reminisce about the [B]days of old
+With that old time [E]rock 'n' rol[B]l
+
+{comment: Solo 2 (Sax)}
+[E][A][B][E]
+
+[B]  Still like that old time[E]rock 'n' roll
+
+Chorus:
+That kind of music just [A]soothes my soul
+I reminisce about the [B]days of old
+With that old time [E]rock 'n' roll
+[B]  Still like that old time[E]rock 'n' roll
+
+Break:
+That kind of music just [A]soothes my soul
+I reminisce about the [B]days of old
+With that old time [E]rock 'n' roll
+[B]  Still like that old time[E]rock 'n' roll
+
+Chorus:
+That kind of music just [A]soothes my soul
+I reminisce about the [B]days of old
+With that old time [E]rock 'n' roll
+[B]  Still like that old time[E]rock 'n' roll
+
+{comment: Outro (Fade Out)}
+A B E B

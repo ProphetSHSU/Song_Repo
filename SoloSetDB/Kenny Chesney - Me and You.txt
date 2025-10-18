@@ -1,0 +1,50 @@
+{title:Me and You}
+{artist:Kenny Chesney}
+{key:G major}
+{duration:3:40}
+{tempo:144}
+{color:P}
+
+{comment: Capo 0}
+
+Intro: 
+e|-------------------------------------------3---|
+B|-----0-------------------------------------3---|
+G|-------0------7----------4-----2--4--5--4--0---|
+D|---0-------7-----5--5--4----2--2--4--5--4--0---|
+A|-------------------------------------------2---|
+E|-3-----------------------------------------3—|
+ 
+ 
+Verse:
+[G]Ordinar[D]y? [Em]No, Really don[D]'t think s[C]o
+Not a lov[G]e this tr[D]ue
+[G]Common De[D]stin[Em]y, we were [Bm]meant to [C]be.......m[D]e and y[G]ou
+
+Verse:
+[G]Like a per[D]fect s[Em]cene fr[D]om a movie[C]screen
+We're a [G]dream come t[D]rue
+[G]Suited [D]perfect[Em]ly for [Bm]eternit[C]y.......[D]me and [G]you
+
+Chorus:
+[C]Every[G]day I [D]need you even [G]mo[C]re
+And the [G]nighttime, [D]too
+[C]There's no [G]way I could [D]ever let you [Em]go
+[Am]Even if i wanted [D]to
+
+Verse:
+[G]Every[D]day i [Em]live i try [D]my best to [C]give
+All I h[G]ave to [D]you
+[G]Thank the[D] stars [Em]above that we [Bm]share this [C]love......[D]me and [G]you
+
+Chorus:
+[C]Every[G]day I [D]need you even [G]mo[C]re
+And the [G]nighttime, [D]too
+[C]There's no [G]way I could [D]ever let you [Em]go
+[Am]Even if i wanted [D]to
+
+Verse:
+[G]Ordinar[D]y? [Em]No, Really don[D]'t think s[C]o
+Just a[G] precious [D]few
+[G]Ever [D]make it [Em]last get as [Bm]lucky [C]as......[D]me and [G]you
+[D]Me and [G]You

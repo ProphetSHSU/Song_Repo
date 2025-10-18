@@ -1,0 +1,47 @@
+{title:Baby I Love Your Way}
+{artist:Peter Frampton}
+{key:G major}
+{duration:4:13}
+{tempo:72}
+{color:P}
+
+{comment: Capo 0/5kc}
+F9 - 131213:
+
+Intro:
+[G] [D/F#][Em][C][Bm7][Am7][D7sus2]
+
+Verse:
+ Sha[G]dows Grow So[D/F#] Long Before My E[Em]yes, And They're M[C]oving, Across The [F9]Page
+ Sud[G]denly The Day[D/F#] Turns Into Nigh[Em]t, Fa[C]r Away, From The Cit[F9]y
+ But [Bm7]Don't, [E7]Hesitate, Cause You[Am]r Love, Won't [D7]Wait
+
+Chorus:
+         [G]   Ooh, [D]Baby I Love Your [Am]Way[C]
+         [G]   Wanna [D]Tell You I Love Your [Am]Way[C]
+         [G]   Wanna [D]Be With You Night And [Am]Day[C]
+
+Verse:
+ M[G]oon Appears To Shi[D/F#]ne, And Light The S[Em]ky, With The H[C]elp, Of Some F[F9]irefly
+ W[G]onder How They H[D/F#]ave, The Power To Shi[Em]ne, Shine, Shine
+ I Can Se[C]e Them, Un[F]der The Pine
+ But D[Bm7]on't, [E7]Hesitate, Cause Your [Am]Love, Won't [D7]Wait
+
+Chorus:
+         [G]   Ooh, [D]Baby I Love Your [Am]Way[C]
+         [G]   Wanna [D]Tell You I Love Your [Am]Way[C]
+         [G]   Wanna [D]Be With You Night And [Am]Day[C]
+
+Verse:
+ [G]I Can See The S[D/F#]unset In Your Ey[Em]es, Brown And Gr[C]ey, And Bl[F9]ue Besides
+ [G]Clouds Are Stalking [D/F#]Islands In The S[Em]un, I Wish I Could[C] Buy One, Out Of [F9]Season
+ But [Bm7]Don't, H[E7]esitate, Cause Your L[Am]ove, Won't W[D7]ait
+
+Chorus:
+         [G]   Ooh, [D]Baby I Love Your [Am]Way[C]
+         [G]   Wanna [D]Tell You I Love Your [Am]Way[C]
+         [G]   Wanna [D]Be With You Night And [Am]Day[C]
+         [G]   Ooh, [D]Baby I Love Your [Am]Way[C]
+
+Outro:
+[G][D][Am][C][G]

@@ -1,0 +1,61 @@
+{title:Collide}
+{artist:Howie Day}
+{key:B major}
+{duration:4:09}
+{tempo:94}
+{color:P}
+
+{comment: Capo 4}
+
+Intro:
+[G][G5/F#][Em][Cmaj7]
+
+[G] [G5/F#][Em][Cmaj7]
+
+Verse:
+[G]  The dawn is br[G5/F#]eaking
+[Em]   A light shin[Cmaj7]ing through
+[G]  You're barely w[G5/F#]aking and I'm t[Em]angled up in y[Cmaj7]ou
+Yeah[G][G5/F#][Em][Cmaj7]
+
+Verse:
+[G]  I'm open, you'[G5/F#]re closed
+[Em]   Where I follow, you'[Cmaj7]ll go
+[G]  I worry [G5/F#]I won't see your f[Em]ace l[Cmaj7]ight up again
+
+Chorus:
+Even the b[G]est fall down somet[G5/F#]imes
+Even the w[Em]rong words seem to r[Cmaj7]hyme
+Out of the d[G]oubt that fills my m[G5/F#]ind
+I so[Em]mehow find y[Cmaj7]ou and I col[G]lide[G5/F#][Em][Cmaj7]
+
+Verse:
+[G]  I'm quiet you[G5/F#]know
+[Em]   You make a fir[Cmaj7]st impression
+[G]  I've found I'm s[G5/F#]cared to know I'm a[Em]lways on your m[Cmaj7]ind
+
+Chorus:
+Even the b[G]est fall down somet[G5/F#]imes
+Even the s[Em]tars refuse to s[Cmaj7]hine
+Out of the [G]back you fall in t[G5/F#]ime
+I s[Em]omehow find y[Cmaj7]ou and I collide
+
+Bridge:
+[Em]    [C]   [D]Don't stop here
+[Em]    [C]   [D]I lost my place
+[Em]    [C]   [D]   I'm close behi[G]nd[G5/F#][Em][Cmaj7]
+
+[G][G5/F#][Em][Cmaj7]
+
+Chorus:
+Even the b[G]est fall down somet[G5/F#]imes
+Even the w[Em]rong words seem to r[Cmaj7]hyme
+Out of the d[G]oubt that fills your m[G5/F#]ind
+You fi[Em]nally find y[Cmaj7]ou and I col[G]lide[G5/F#]
+
+Outro:
+You fi[Em]nally find y[Cmaj7]ou and I col[G]lide[G5/F#]
+You fi[Em]nally find y[Cmaj7]ou and I col[G]lide[G5/F#]
+[Em][Cmaj7][G][G5/F#]
+
+[Em][Cmaj7][G]

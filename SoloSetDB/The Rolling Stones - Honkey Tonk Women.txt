@@ -1,0 +1,52 @@
+{title:Honkey Tonk Women}
+{artist:The Rolling Stones}
+{key:G}
+{Duration:03:03}
+{tempo:119}
+
+{c:(Drum cowbell)}
+{c:SING CHORUS}
+{c:super thin - stacco hits and wait}
+
+Intro:
+[G]
+
+ 
+ 
+Verse 1:
+I [G]met a ginsoaked barroom queen in Memphis.[C]
+She [G]tried to take me up[A]stairs for a ride.[D]
+She [G]had to heave me right across her shoul[C]der.
+'Cause I just[G] can't seem to [D]drink you off my mind.
+
+ 
+{c:JAKE HELP CHORUS}
+Chorus:
+[G] It's the ho[D]nky tonk [G]women,
+That [G]gimme, gimme, [D]gimme the honky tonk [G]blues.
+ 
+ 
+Verse 2:
+I [G]laid a divorcee in New York [C]City.
+I [G]had to pull out of some[A] kind of a fight.[D]
+The [G]lady, then she covered me with ro[C]ses.
+She [G]blew my nose and [D]then she blew my mind.[G]Hey! Yeah!
+
+ 
+{c:JAKE HELP CHORUS}
+Chorus:
+It's the [G]Hon[D]ky tonk [G]women
+That [G]gimme, gimme, [D]gimme the honky tonk [G]blues.
+Yeah, alright!
+
+Solo:
+[G C G AD] 
+[G C G DG]
+ 
+{c:JAKE HELP CHORUS}
+Chorus:
+[G] It's the ho[D]nky tonk [G]women,
+That [G]gimme, gimme, [D]gimme the honky tonk [G]blues.
+
+[G] It's the ho[D]nky tonk [G]women,
+That [G]gimme, gimme, [D]gimme the honky tonk [G]blues.

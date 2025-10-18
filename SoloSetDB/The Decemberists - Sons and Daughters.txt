@@ -1,0 +1,71 @@
+{title:Sons and Daughters}
+{artist:The Decemberists}
+{key:D major}
+{duration:5:14}
+{tempo:115}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[D][G][D][G]
+
+Verse:
+[D]When we a[G]rrive, sons and daughters
+[D]We'll make our [G]homes on the water
+[D]We'll build our [G]walls aluminum
+[D]We'll fill our [G]mouths with cinnamo[D]n now[G]
+
+Instrumental:
+[D][G][D][G]
+
+Verse:
+[D]These currents [G]pull us 'cross the border
+[D]Steady your [G]boats, arms to shoulder
+'[D]till tides are pulled, [G]hold our grounds
+[D]Making this [G]cold harbor now[D] home[G]
+
+Instrumental:
+[D][G]
+
+Verse:
+[D]Take up your [G]arms, sons and daughters
+[D]We will ar[G]ise from the bunkers
+[D]By land, by s[G]ea, by dirigible
+[D]We'll leave our [G]tracks untraceabl[D]e now[G]
+
+Bridge:
+[D][G][D][G][D][G][D][G][D][G]
+
+Chorus:
+[D]When we arr[G]ive, sons and daughters
+[D]We'll make our [G]homes on the water
+[D]We'll build our [G]walls aluminum
+[D]We'll fill our [G]mouths with cinnamo[D]n now[G]
+
+[D]When we arr[G]ive, sons and daughters
+[D]We'll make our [G]homes on the water
+[D]We'll build our [G]walls aluminum
+[D]We'll fill our [G]mouths with cinnamo[D]n now[G]
+
+Instrumental:
+[D][G][D][G]
+
+Chorus:
+[D]When we arr[G]ive, sons and daughters
+[D]We'll make our [G]homes on the water
+[D]We'll build our [G]walls aluminum
+[D]We'll fill our [G]mouths with cinnamo[D]n now[G]
+
+[D]When we arr[G]ive, sons and daughters
+[D]We'll make our [G]homes on the water
+[D]We'll build our [G]walls aluminum
+[D]We'll fill our [G]mouths with cinnamo[D]n now[G]
+
+Instrumental:
+[D][G][D][G][D][G][D][G]
+
+Outro:
+[D][G]
+
+(Here all the bombs fade away)  (x20)

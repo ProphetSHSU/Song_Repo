@@ -1,0 +1,81 @@
+{title:House of the Rising Sun}
+{artist:The Animals}
+{key:A minor}
+{duration:4:30}
+{tempo:117}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[Am][C][D][F]
+[Am][E][Am][E]
+
+Verse:
+[Am]There[C] is a hou[D]se in New Or[F]leans
+They [Am]call the [C]Risin' [E]Sun[E]
+And it's [Am]been the [C]ruin of [D]many a poor [F]boy.
+And [Am]God, I [E]know I'm [Am]one.
+
+Instrumental:
+[C][D][F]
+[Am][E][Am][E]
+
+Verse:
+[Am]My moth[C]er was[D] a tailor.[F]
+She [Am]sewed my [C]new blue [E]jeans.[E]
+My [Am]father [C]was a [D]gamblin' [F]man
+[Am]Down in [E]New Or-[Am]leans.
+
+Instrumental:
+[C][D][F]
+[Am][E][Am][E]
+
+Verse:
+[Am]Now, [C]the only[D] thing a[F]gambler needs
+Is a [Am]suitcase [C]and a [E]trunk[E]
+And the [Am]only [C]time that [D]he's satisf[F]ied
+Is [Am]when he's [E]on a [Am]drunk
+
+Instrumental:
+[C][D][F]
+[Am][E][Am][E]
+
+Organ Solo:
+[Am][C][D][F]
+[Am][C][E][E]
+[Am][C][D][F]
+[Am][E]
+[Am][C][D][F]
+[Am][E][Am][E]
+
+Verse:
+[Am]Oh, Mot[C]her, tell y[D]our child[F]ren
+Not to [Am]do what [C]I have [E]done.[E]
+[Am]Spend your [C]lives in [D]sin and mis[F]ery
+In the [Am]house of the [E]risin' [Am]sun.
+
+Instrumental:
+[C][D][F]
+[Am][E][Am][E]
+
+Verse:
+[Am]Well, I've [C]got one [D]foot on the plat[F]form.
+the [Am]other [C]foot on the [E]train.[E]
+I'm [Am]goin' [C]back to [D]New Orleans[F]
+To [Am]wear that [E]ball and [Am]chain.
+
+Instrumental:
+[C][D][F]
+[Am][E][Am][E]
+
+Verse:
+[Am]Well,[C] there is[D] a house in [F]New Orleans
+They [Am]call the [C]Risin' [E]Sun[E]
+And it's [Am]been the [C]ruin of [D]many a poor [F]boy.
+And [Am]God, I [E]know I'm [Am]one.
+
+Instrumental:
+[C][D][F]
+[Am][E]
+[Am][Dm][Am][Dm][Am][Dm]

@@ -1,0 +1,63 @@
+{title:Small Town Saturday Night}
+{artist:Hal Ketchum}
+{key:G♯/A♭ major}
+{duration:2:58}
+{tempo:154}
+{color:P}
+
+{comment: Capo 1}
+
+Intro:
+[C][G][D][G][C][G][D][G]
+
+Verse:
+[G]There's an Elvis movie on the [D]marquee s[G]ign
+[C]We've all se[G]en at least th[D]ree time[G]s
+Everybody's broke B[D]obby's got a [G]buck
+To put a [C]dollar's worth of [G]gas in his p[D]ickup t[G]ruck
+
+Chorus:
+We're goin' [C]ninety miles an hour down a dead end road
+[G]What's the hurry son [D]where're you gonna [Em]go
+We're gonna [C]howl at the [G]moon s[D]hoot out the [G]light
+It's a [C]small [G]town S[D]aturday n[G]ight
+It's a [C]small [G]town S[D]aturday n[G]ight
+
+Instrumental:
+[C][G][D][G]
+
+Verse:
+L[G]ucy's got her lipstick on a l[D]ittle too [G]bright
+[C]Bobby's gettin' [G]drunk and [D]lookin' for a [G]fight
+Liquor on his breath and [D]trouble on his [G]mind
+A[C]nd Lucy's just a k[G]id alo[D]ng for the [G]ride
+
+Chorus:
+Got a [C]six-pack of beer and a bottle of wine
+[G]Gotta be bad just to [D]have a good [Em]time
+They're gonna [C]howl at the [G]moon [D]shoot out the [G]light
+It's a [C]small [G]town [D]Saturday n[G]ight
+It's a [C]small t[G]own [D]Saturday [G]night
+
+Instrumental:
+[C][G][D][G][C][G][D][G]
+
+Verse:
+Bobby told Lucy the [D]world ain't rou[G]nd
+[C]Drops off s[G]harp at the e[D]dge of [G]town
+Lucy you know the w[D]orld must be fl[G]at
+Cause when [C]people leave [G]town they [D]never come [G]back
+
+Chorus:
+They go [C]ninety miles an hour to the city limit sign
+[G]Put the pedal to the metal ‘fore their [D]change their [Em]mind
+They [C]howl at the [G]moon [D]shoot out the li[G]ght
+It's a [C]small [G]town [D]Saturday [G]night
+They h[C]owl at the [G]moon [D]shoot out the l[Em]ight
+It's a [C]small [G]town [D]Saturday [G]night
+
+It's a [C]small [G]town S[D]aturday n[G]ight
+It's a s[C]mall [G]town S[D]aturday nig[G]ht
+
+Outro:
+[C][G][D][G]

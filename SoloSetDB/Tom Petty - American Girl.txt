@@ -1,0 +1,59 @@
+{title:American Girl}
+{artist:Tom Petty}
+{key:D}
+{duration:3:35}
+{tempo:115}
+{color:P}
+
+Intro:
+[D]
+
+Verse:
+[D] Well she was an A[E]merican girl
+[G] Raised on [A]promises
+[D] She couldn't help [E]thinkin' that there
+Was a [G]little more to life
+[A]Somewhere else
+After all it was a [D]great big world
+[G] With lots of places to [E]run to
+[A]Yeah, if she had to die
+Tryin' she had one little promise
+She was gonna keep
+
+Chorus:
+[G] Oh yeah,[A]all right
+[D]Take it easy baby
+[Bm]Make it last all night
+[G] She was[A] an American [D]girl
+
+Verse:
+[D] Well, It was kind of [E]cold that night
+[G]She stood alone on her [A]balcony
+[D] Yeh, she could hear the [E]cars roll by
+Out on [G]four fourty one
+Like [A]waves crashin' in on the beach
+And for one desperate [D]moment there
+[G]He crept back in her [E]memory
+[A]God it's so painful
+Something that's so close
+And still so far out of reach
+
+Chorus:
+[G] Oh yeah,[A]all right
+[D]Take it easy baby
+[Bm]Make it last all night
+[G] She was[A] an American [D]girl
+
+Interlude:
+[G][A][D][G][A][D]
+[G][A][D][G][A]
+[D][E][G][A]
+[D][E][G][A]
+
+Outro:
+[D][E][G][A]
+[D][E][G][A]
+[D][E][G][A]
+
+Fade Out:
+[D][E][G][A]

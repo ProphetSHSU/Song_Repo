@@ -1,0 +1,71 @@
+{title:Authority Song}
+{artist:John Mellencamp}
+{key:D major}
+{duration:3:48}
+{tempo:156}
+{color:P}
+
+{comment: Capo 0}
+
+Intro: 
+[D]
+
+Verse:
+[D]Oh, they like to get you in a [G]compro[A]mising [D]position.[G][A]
+[D]They like to get you [G]there and smile [A]in your [D]face.[G][A]
+Well, they [D]think they're so cute when they [G]got you in
+[A]that con[D]dition.[G][A]
+Well, [D]I think it's a [G]to..[A]tal dis[D]grace..[G]and I [A]said..
+
+Chorus:
+[D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+Well, [D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+Well, I've been [D]doing it since I was a [G]young kid..
+I [A]come out [D]grinnin'.[G][A]
+Well, [D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+
+Interlude:
+[D]
+
+Verse:
+[D]So, I call up my preacher,I say, '[G]Give me [A]strength
+for [D]Round Five.'[G][A]
+He said , '[D]You don't need no [G]strength, you need to
+[A]grow up, [D]son.'[G][A]
+I said, '[D]Growing up leads to [G]growing old and [A]then
+to [D]dying.[G][A]
+Ohhh, and [D]dying to me don't [G]sound like [A]all that much [D]fun.'
+So, I [A]said..
+
+Chorus:
+[D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+Well, [D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+Well, I've been [D]doing it since I was a [G]young kid..
+I [A]come out [D]grinnin'.[G][A]
+Well, [D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+
+Interlude:
+[D][G][D][G]
+
+[D][G][D]
+
+Verse:
+[D]I said, oh, no..no, no.....I said, oh, no..no, no.....
+
+I said, oh, no..no, no.....
+[D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+[D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+Well, I've been [D]doing it since I was a [G]young kid..
+I [A]come out [D]grinnin'.[G][A]
+Well, [D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+
+Chorus:
+Well, I [D]fight authority, [G]authority [A]always [D]wins.[G][A]
+Well, [D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+Well, I've been [D]doing it since I was a [G]young kid..
+I [A]come out [D]grinnin'.[G][A]
+Well, [D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+
+Outro:
+Well, [D]I fight authority, [G]authority [A]always [D]wins.[G][A]
+Well, [D]I fight authority, [G]authority [A]always [D]wins.[G] ([A]Fade.)

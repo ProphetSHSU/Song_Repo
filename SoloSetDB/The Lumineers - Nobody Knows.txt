@@ -1,0 +1,49 @@
+{title:Nobody Knows}
+{artist:The Lumineers}
+{key:A}
+{duration:3:10}
+{tempo:82}
+{color:P}
+
+{comment: Capo 2}
+
+Intro:
+[G][Cadd9][G][D/F#]
+[Em][C][G]
+
+Verse:
+[G]Nobody knows how to [Cadd9]say  good[G]bye[D/F#]
+[Em]  It seems so easy [C]'til you try[G][D/F#]
+[Em]Then the moments [C]passed you [G]by[D/F#]
+[Em]Nobody knows how to [C]say good[G]bye[D/F#][Em][C][G]
+
+Verse:
+[G]Nobody knows how to [Cadd9]get  back [G]home[D/F#]
+[Em]  And we set out so [C]long ago[G][D/F#]
+[Em]Search the heavens and the [C]Earth below[G][D/F#]
+[Em]Nobody knows how to [C]get back [G]home[D/F#][Em][C]
+
+Verse:
+[G]Through [G]the darkness to [Cadd9]the  dawn[G] And[D/F#]
+[Em]  when I looked back you [C]were gone
+[G]Heard[D/F#]     [Em]your voice leading [C]me on[G] Through[D/F#]
+[Em]the darkness to [C]the dawn[G]
+
+Interlude:
+[G][Cadd9][G][D/F#]
+[Em][C][G][D/F#]
+[Em][C][G][D/F#]
+[Em][C][G]
+
+Verse:
+[G]Love is deep as the [Cadd9]road is [G]long[D/F#]
+[Em]  And moves my feet to car[C]ry on[G][D/F#]
+[Em]Beats my heart when [C]you are gone[G][D/F#]
+[Em]Love is deep as the [C]road is long[G][D/F#][Em][C][G]
+
+Outro:
+[G]Nobody knows how the [Cadd9]story [G]ends[D/F#]
+[Em]  Live the day, doing [C]what you can[G][D/F#]
+[Em]This is only where [C]it began[G][D/F#]
+[Em]Nobody knows how the [C]story [G]ends[D/F#]
+[Em]Nobody knows how the [C]story [G]ends

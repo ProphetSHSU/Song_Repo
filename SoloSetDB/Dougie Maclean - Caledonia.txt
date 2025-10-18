@@ -1,0 +1,65 @@
+{title:Caledonia}
+{artist:Dougie Maclean}
+{key:E major}
+{duration:5:00}
+{tempo:198}
+{color:P}
+
+{comment: Capo 4}
+
+Verse:
+[C]I don't know if [G]you can see,
+The [Am]changes that have come [F]over me.
+In these [C]last few days I've [G]been afraid,
+That I [Am]might drift [F]away.
+I've been [C]telling stories, [G]singing songs,
+That [Am]make me think about [F]where I come from.
+[C]That's the reason [G]why I seem
+So [Am]far away [F]today.
+
+Chorus:
+[C]Let me tell you that I [G]love you,
+That I [Am]think about you all the [F]time.
+Caledonia you're [C]calling me,
+Now I'm [G]going [C]home.
+But [C]if I shall become a [G]stranger,
+Know that [Am]it would make me more than [F]sad,
+Caledonia's been [G]everything I've ever [C]had.
+
+Verse:
+[C]Now I have moved an[G]d kept on moving,
+[Am]Proved the points th[F]at I needed proving,
+[C]Lost the friends[G]that I needed losing,
+[Am]Found others on [F]the way.
+[C]I have tried and kept on[G]trying,
+[Am]Stolen dreams, yes th[F]ere's no denying,
+[C]I have travelled hard sometimes [G]with conscience flying,
+[Am]Somewhere with t[F]he wind.
+
+Chorus:
+[C]Let me tell you that I [G]love you,
+That I [Am]think about you all the [F]time.
+Caledonia you're [C]calling me,
+Now I'm [G]going [C]home.
+But [C]if I shall become a [G]stranger,
+Know that [Am]it would make me more than [F]sad,
+Caledonia's been [G]everything I've ever [C]had.
+
+Verse:
+[C]Now I'm sitting here be[G]fore the fire,
+[Am]The empty room, [F]a forest choir,
+The [C]flames that couldn't[G]get any higher,
+They've withe[Am]red now the[F]y've gone.
+But[C] I'm steady thinking m[G]y way is clear,
+[Am]And I know what I will d[F]o tomorrow,
+[C]When hands have shaken, [G]and kisses flown,
+[Am]Then I wil[F]l disappear.
+
+Chorus:
+[C]Let me tell you that I [G]love you,
+That I [Am]think about you all the [F]time.
+Caledonia you're [C]calling me,
+Now I'm [G]going [C]home.
+But [C]if I shall become a [G]stranger,
+Know that [Am]it would make me more than [F]sad,
+Caledonia's been [G]everything I've ever [C]had.

@@ -1,0 +1,66 @@
+{title:Breakfast at Tiffanys}
+{artist:Deep Blue Something}
+{key:D major}
+{duration:4:18}
+{tempo:110}
+{color:P}
+
+{comment: Capo 0}
+
+Verse:
+[D]You'l[G/B]l say, we'[A]ve got noth[D]ing in comm[G/B]on, no [A]common gro[D]und to start from
+   and [G/B]we're fal[A]ling a[D]part[G/B][A]
+You'll [D]say, the [G/B]world has [A]come be[D]tween us, our [G/B]lives have [A]come be[D]tween us
+   still [G/B]I know [A]you just don't [D]care[G/B][A]
+
+Chorus:
+[D]And I said what a[A]bout Breakfas[G/B]t at Tiffany's,[D] she said I think[A]I remember
+   the [G/B]film and as [D]I recall I think we [A]both kind of [G/B]liked it, and [D]I said w[A]ell that's
+   the [A]one thing we've [G/B]got
+Solo:
+[D][G/B][A/C#][D][G/B][A]
+
+Verse:
+[D]I see you, t[G/B]he onl[A]y one w[D]ho knew me a[G/B]nd now your[A] eyes s[D]ee through me
+[G/B]   I [A]guess I[D] was wrong[G/B].[A]
+So [D]what now. it's [G/B]plain to [A]see we're [D]over and I [G/B]hate when [A]things are o[D]ver
+   when [G/B]so much is [A]left un[D]done[G/B][A]
+
+Chorus:
+[D]And I said what a[A]bout Breakfas[G/B]t at Tiffany's,[D] she said I think[A]I remember
+   the [G/B]film and as [D]I recall I think we [A]both kind of [G/B]liked it, and [D]I said w[A]ell that's
+   the [A]one thing we've [G/B]got
+
+Verse:
+[D]You'l[G/B]l say, we'[A]ve got noth[D]ing in comm[G/B]on, no [A]common gro[D]und to start from
+   and [G/B]we're fal[A]ling a[D]part[G/B][A]
+You'll [D]say, the [G/B]world has [A]come be[D]tween us, our [G/B]lives have [A]come be[D]tween us
+   still [G/B]I know [A]you just don't [D]care[G/B][A]
+
+Chorus:
+[D]And I said what a[A]bout Breakfas[G/B]t at Tiffany's,[D] she said I think[A]I remember
+   the [G/B]film and as [D]I recall I think we [A]both kind of [G/B]liked it, and [D]I said w[A]ell that's
+   the [A]one thing we've [G/B]got
+
+Solo:
+[D][G/B][A/C#][D][G/B][A/C#]
+
+[D][G/B][A/C#][D][G/B][A]
+
+Chorus:
+[D]And I said what a[A]bout Breakfas[G/B]t at Tiffany's,[D] she said I think[A]I remember
+   the [G/B]film and as [D]I recall I think we [A]both kind of [G/B]liked it, and [D]I said w[A]ell that's
+   the [A]one thing we've [G/B]got
+
+Solo:
+[D][G/B][A][D][G/B][A]
+
+[D][G/B][A][D][G/B][A][D] 
+
+   e|-------------------------------------|
+   B|-------------------------------------|
+   G|-------------------------------------|
+   D|--5-5-5--4--2----------------2-------|
+   A|---------------5----2--5--4-----5----|
+   E|-------------------------------------|
+

@@ -1,0 +1,54 @@
+{title:Nutshell}
+{artist:Alice in Chains}
+{key:E♭ minor}
+{duration:4:32}
+{tempo:68}
+{color:P}
+
+Intro:
+[Em][G][D][C]
+[Em][G][D][C]
+[Em][G][D][C]
+[Em][G][D][C]
+[Em][G][D][C]
+[Em][G][D]
+
+Verse:
+[C]We chase misprinted lies[Em][G][D]
+[C]We face the path of ti[Em]me [G][D]
+[C]And yet I fight
+And yet I fight
+This battle all alone[Em][G][D]
+[C]No one to cry to
+No place to call ho[Em]me [G][D]
+
+Chorus:
+[C]Ooh
+Ooh
+[Em]Ooh[G][D][C]
+Ooh[Em][G][D]
+
+Verse:
+[C]My gift of self is ra[Em]ped[G][D]
+[C]My privacy is rak[Em]ed [G][D]
+[C]And yet I find
+And yet I find
+Repeating in my he[Em]ad [G][D]
+[C]If I can't be my own
+I'd feel better de[Em]ad [G][D]
+
+Chorus:
+[C]Ooh
+Ooh[Em][G][D]
+[C]Ooh
+Ooh[Em][G][D]
+
+Solo:
+[C][Em][G][D]
+[C][Em][G][D]
+[C][Em][G][D]
+[C][Em][G][D]
+
+Outro:
+[C][Em][G][D][C][Em][G][D]
+[C]

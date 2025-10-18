@@ -1,0 +1,119 @@
+{title:Beggin}
+{artist:Maneskin}
+{key:B Minor}
+{duration:3:27}
+{tempo:134}
+{color:Y}
+
+Intro:
+{c: acapella - ~15seconds}
+[Bm]Put your loving hand out, baby
+'Cause I'm beggin'
+
+[Bm]
+
+Chorus:
+[Bm]  I'm beggin',[G] beggin' you[C#m7]
+So put your loving [F#]hand out baby
+[Bm]I'm beggin',[G] beggin' you[C#m7]
+So put your loving [F#]hand out darlin'
+
+Verse:
+{c:hit hit hit}
+[Bm]  Ridin' high,[G]when I was king
+[C#m7]    I played it hard and [F#]fast, 'cause I had everything
+[Bm]  I walked away,[G]you won me then
+[C#m7]    But easy come and [F#]easy go
+And it would end
+
+{c:drop out all but guitar, play normal}
+So, [Bm]any time I bleed, you let me go
+Yah, [G]any time I feed you get me? No
+[C#m7]Any time I seek you let me know
+But I [F#]planted that seed, just let me grow
+I'm [Bm]on my knees while I'm beggin'
+'Cause [G]I don't want to lose you[C#m7]
+Hey yeah,[F#]ra-ta-ta-ta
+
+Chorus:
+[Bm]  I'm beggin',[G] beggin' you[C#m7]
+And put your loving [F#]hand out baby[Bm]
+I'm beggin',[G] beggin' you[C#m7]
+And put your loving [F#]hand out darlin'
+
+Break - Also Jake Part:
+{c: arpeggios}
+Verse:
+[Bm]  I need you to [G]understand
+[C#m7]    Tried so hard to [F#]be your man
+[Bm]  The kind of man you [G]want in the end
+Only [C#m7]then can I begin to [F#]live again
+
+{c:hit hit hit}
+[Bm]An empty shell
+[G]I used to be
+[C#m7]    The shadow of my [F#]life
+Was hangin over me
+
+[Bm]A broken man
+[G]But I don't know
+[C#m7]    Won't even stand the [F#]devil's dance
+To win my soul
+
+Verse:
+What we [Bm]doin'? What we chasin'?
+What a[G]bout 'em, why the basement?
+Why we [C#m7]got good shit, don't embrace it?
+Why the [F#]feel for the need to replace me?
+
+You on a [Bm]runway track from the good
+I want to paint in the [G]pictures any way we could, react
+Like the [C#m7]heart in a trash where you should
+You done gave it a[F#]way, ya' had it till you took it back
+
+But I[Bm]keep walkin' on Keep rockin' dawns
+[G]Keep walking forward Now the court is yours
+[C#m7]Keep browsin' halls 'Cause I don't wanna [F#]live in a broken home Girl I'm beggin'
+
+{c:5 hits, drop out}
+
+Chorus:
+[Bm]Mhh yeeeah
+I'm beggin',[G] beggin' you[C#m7]
+So put your loving [F#]hand out baby[Bm]
+I'm beggin',[G] beggin' you[C#m7]
+So put your loving [F#]hand out darlin'
+
+Break - Also Jake Part:
+{c: arpeggios}
+
+Verse:
+[Bm]I'm fightin' hard
+To [G]hold my own
+[C#m7]    Just can't make it [F#]all alone
+[Bm]I'm holdin' on
+I [G]can't fall back
+I'm [C#m7]just a con about to [F#]fade to black
+
+{c:1 hits, drop out}
+
+Chorus:
+[Bm]  I'm beggin',[G] beggin' you[C#m7]
+Put your loving[F#]  hand out baby[Bm]
+I'm beggin',[G] beggin' you[C#m7]
+So put your loving[F#]  hand out darlin'[Bm]
+
+{c: full band}
+I'm beggin',[G] beggin' you[C#m7]
+So put your loving [F#]hand out baby[Bm]
+I'm beggin',[G] beggin' you[C#m7]
+So put your loving [F#]hand out darlin'[Bm]
+
+{c:vox and bass only}
+Outro:
+I'm beggin',[G] beggin' you[C#m7]
+So put your loving [F#]hand out baby[Bm]
+I'm beggin',[G] beggin' you[C#m7]
+So put your lo[F#]ving hand out[Bm]
+
+{c: end on Bm arpeggio}

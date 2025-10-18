@@ -1,0 +1,118 @@
+{title:Jenny 867-5309}
+{artist:Tommy Tutone}
+{key:D}
+{Duration:03:46}
+{tempo:138}
+{color:P}
+
+{c:Capo 2}
+{c: slightly dirty - 166?}
+
+Intro:
+{c:Solo only}
+[Em C G A] 
+[Em C G A]
+
+{c:Join}
+[Em C G A]   
+[Em C G A]
+Hey!
+
+Verse 1:
+[Em]Jenny [C]Jenny [G]who can [A]I turn to?
+[Em C G A] 
+[Em]You give me [C]some thing [G]I can hold [A]on to
+[Em C G A]                                        
+[Em]I know you'll [C]think i'm [G]like the [A]others before
+[Em]Who saw your [C]name and [G]number [A]on the wall
+[Em C G A]
+
+Pre-Chorus:
+[D]Jenny i've [C]got your number
+[D]I need to [G]make you [C]mine
+[D]Jenny don't [C]change your [G]number
+
+Chorus:
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine 
+ 
+Verse 2:
+[Em]Jenny [C]Jenny [G]you're the girl [A]for me
+[Em C G A]
+[Em]You don't [C]know me but you [G]make me so [A]happy
+[Em C G A]
+[Em]I tried to [C]call you be [G]fore but I [A]lost my nerve
+[Em C G A]       
+[Em]I tried [C]my imagi[G]nation but [A]I was disturbed
+[Em C G A]
+ 
+ 
+Pre-Chorus:
+[D]Jenny i've [C]got your number
+[D]I need to [G]make you [C]mine
+[D]Jenny don't [C]change your [G]number
+ 
+ 
+Chorus:
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine 
+ 
+ 
+Bridge:
+[Bm]I got it, I got it, [D]I got it
+[Em]I got your [G]number on the [A]wall
+[Bm]I got it, I got it, [D]I got it
+For a [Em]good time, for a [G]good time [A]call
+ 
+ 
+Interlude:
+{c:Solo only}
+[Em C G A] 
+[Em C G A]
+
+{c:Join}
+[Em C G A]   
+[Em C G A]
+ 
+ 
+Solo:
+[Em C G A]   
+[Em C G A]
+[Em C G A]   
+[Em C G A]
+
+Pre-Chorus:
+[D]Jenny i've [C]got your number
+[D]I need to [G]make you [C]mine
+[D]Jenny don't [C]change your [G]number
+ 
+ 
+Chorus:
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine 
+
+ 
+ 
+Outro:
+[Em]Jenny, [C]Jenny, [G]who can I [A]turn to?
+[Em]Eight six [C]seven five [G]three o [A]nine
+For the [Em]price of a dime I can [G]always [A]turn to you
+[Em]Eight six [C]seven five [G]three o [A]nine
+
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine
+[Em]Eight six [C]seven five [G]three o [A]nine
+
+{c:5.3.0.9}
+[Em]Eight six [C]seven five [G]three o [A]nine
+{c:5.3.0.9}
+[Em]Eight six [C]seven five [G]three o [A]nine
+{c:5.3.0.9}
+[Em]Eight six [C]seven five [G]three o [A]nine

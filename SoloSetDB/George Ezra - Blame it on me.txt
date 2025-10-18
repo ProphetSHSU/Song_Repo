@@ -1,0 +1,59 @@
+{title:Blame it on me}
+{artist:George Ezra}
+{key:D♯/E♭ major}
+{duration:3:16}
+{tempo:104}
+{color:P}
+
+{comment: Capo 3}
+{comment: Csus4  [ x 3 3 0 1 0 ] }
+{comment: Gsus4  [ 3 2 0 0 1 3 ] }
+
+Intro:
+[C][C4]
+
+Verse:
+[C]The garden wa[C4]s blessed by th[C]e gods of me and [C4]you
+[C]We headed wes[C4]t for to find o[C]urselves some tru[C4]th
+
+[Am] Oh, what you waiting f[F]or, now what you waiting[C] fo[C4]r[C][C4]
+
+[C]We counted al[C4]l our reasons, [C]excuses that we m[C4]ade
+[C]We found ours[C4]elves some trea[C]sure and threw it[C4]all away
+
+Bridge:
+[Am]Oh, what you waiting fo[F]r, now what you waiting fo[C]r[C4]
+[Am]Oh, what you waiting fo[F]r, now what you waiting fo[G4]r
+
+Chorus:
+[G4]  When I dance [F]alone and the sun's bleeding[C] down, blame it on[G4]me
+[G4]  When I lose con[F]trol and the veil's overused[C], blame it on me[G4]
+
+[Am]What you waiting f[F]or, now what you waiting f[C]or[C4][C][C4]
+Verse:
+[C]Caught in the tide of blossom, [C]caught in the carnival
+[C]Your confidence forgotten, I[C]see the gypsies run
+
+Bridge:
+Oh[Am], what you waiting fo[F]r, now what you waiting fo[C]r
+Oh[Am], what you waiting fo[F]r, now what you waiting fo[G4]r
+
+Chorus:
+[G4]  When I dance [F]alone and the sun's bleeding[C] down, blame it on[G4]me
+[G4]  When I lose con[F]trol and the veil's overused[C], blame it on me[G4]
+
+Bridge:
+[Am]Oh, what you waiting fo[F]r, now what you waiting fo[C]r
+[Am]Oh, what you waiting fo[F]r, now what you waiting fo[G4]r
+
+Chorus:
+[G4]  When I dance [F]alone and the sun's bleeding[C] down, blame it on[G4]me
+[G4]  When I lose con[F]trol and the veil's overused[C], blame it on me[G4]
+
+[G4]  When I dance al[F]one, I know, I'll [C]go, blame it on me[G4]
+[G4]  When I lose cont[F]rol, I know, I'll g[C]o,blame it on me[G4]
+
+Bridge:
+Oooh,[Am] what you waiting f[F]or, now what you waiting f[C]or
+[Am]Oh, what you waiting fo[F]r, now what you waiting fo[G4]r
+

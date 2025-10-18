@@ -1,0 +1,80 @@
+{title:Swing}
+{artist:Josiah and the Bonnevilles}
+{key:B major}
+{duration:3:03}
+{tempo:168}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G#m][E][B]
+[G#m][F#][B]
+[G#m][F#][B]
+
+Verse:
+[G#m]I step int[E]o my c[B]orner
+[G#m]I gather [E]up my [B]might
+[G#m]She's standing [E]over my [B]shoulder
+[G#m]It's gonna [F#]be one [B]hell of a fight
+[G#m]She moves [E]in my [B]direction
+[G#m]She's such a [E]lovely [B]thing
+[G#m]I put aside [E]my a[B]ffection
+[G#m]She s[F#]ays so [B]me
+
+Refrain:
+Baby, take a s[G#m]wing[E][B][G#m][F#][B]
+Take a swi[G#m]ng[E][B][G#m][F#][B]
+
+Verse:
+[G#m]She falls [E]back into the [B]ocean
+[G#m]Full of [E]blood and [B]rage
+[G#m]She [E]rises up as a [B]cloud forms
+[G#m]Bringing her [F#]friend, the [B]rain
+[G#m]Now she's so [E]high up a[B]bove me
+[G#m]She's coming [E]down in [B]waves
+[G#m]But I [E]never [B]worry
+[G#m]Baby, I don't [F#]feel your [B]pain
+
+Refrain:
+Take a swi[G#m]ng[E][B][G#m][F#][B]
+Take a swi[G#m]ng[E][B][G#m][F#][B]
+
+Instrumental:
+[G#m][F#][B]
+[G#m][F#][B]
+[G#m][F#][B]
+[G#m][F#][B]
+
+Verse:
+[G#m]You think [E]you got the [B]best of me
+[G#m]You think [E]you left me [B]hurt
+[G#m]But I've b[E]een had much [B]better
+[G#m]And I've b[F#]een left much [B]worse
+[G#m]I still sh[E]ot in the d[B]arkness
+[G#m]I still wa[E]lk through the [B]fire
+[G#m]And I come [E]out on the [B]other side
+[G#m]And the a[F#]ngels take me h[B]igher
+
+Refrain:
+Take a swi[G#m]ng[E][B][G#m][F#][B]
+Take a swi[G#m]ng[E][B][G#m][F#][B]
+
+Instrumental 2:
+[G#m][E][B][G#m][F#][B]
+[G#m][E][B][G#m][F#][B]
+
+Verse:
+[G#m]I step [E]into my [B]corner
+[G#m]I gather[F#] up my [B]might
+[G#m]She's [E]standing over my [B]shoulder
+[G#m]I'm getting [F#]ready for one [B]hell of a fight
+[G#m]She moves [E]in my [B]direction
+[G#m]She's such a [F#]lovely [B]thing
+[G#m]But I, there's[E] no more [B]affection
+[G#m]Come [F#]onto [B]me
+
+Refrain:
+Baby, take a s[G#m]wing[E][B][G#m][F#][B]
+Take a swi[G#m]ng[E][B][G#m][F#][B]
+Baby, take a s[G#m]wing[E][B][G#m][F#][B]

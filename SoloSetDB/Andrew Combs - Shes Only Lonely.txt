@@ -1,0 +1,44 @@
+{title:She's Only Lonely}
+{artist:Andrew Combs}
+{key:Eb}
+{Duration:4:00}
+{tempo:120}
+{color:P}
+
+{comment: Capo 3}
+
+Intro:
+[C][Em][F][C][C][Em][G]
+
+Verse:
+Was it the [C]right place or the [Em]wrong time
+[F]She came to me with her [C]arms open wide
+[C]Said I looked like som[Em]e boy she used to[G]know
+She had [C]diamonds in her ears, [Em]diamonds 'round her neck
+[F]A glass of wine and a [C]white cotton dress
+[C]What a woman like [Em]her could do to m[G]y soul
+
+Chorus:
+She's only [F]lone[C]ly, I must be the [F]onl[C]y foolish [Em]kid in this [G]town
+I should know [F]bet[C]ter, [C]yeah I should [F]forget [C]her
+[C]'Cause Lord knows that [Em]she will bring me [G]down
+[G]She's only [C]lonely[Em][F][C][C][Em][G]
+
+Verse:
+Maybe it's her [C]voice, or her [Em]smile, [F]and I would follow [C]her for miles
+[C]Only to [Em]be left out[F] in the [G]cold
+Chorus:
+[F]She's only [C]lonely, I must be the [F]onl[C]y foolish [Em]kid in this [G]town
+I should know [F]bet[C]ter, [C]yeah I should [F]forget [C]her
+[C]'Cause Lord knows that [Em]she will bring me [G]down
+[G]She's only [C]lonely
+
+Bridge:
+[G]And I suppose that I should know [Am]lonely girls just [F]come and go
+[G]Passin' their time with fools like [Am]me,[-]  [G]  [-]  [F]   fools like me[C][G]
+
+Chorus:
+[F]She's only [C]lonely, I must be the [F]on[C]ly [C]foolish [Em]kid in this [G]town
+I should know [F]bet[C]ter, [C]yeah I should [F]forget [C]her
+[C]'Cause Lord knows that [Em]she will bring me [G]down
+[G]She's only [C]lonely[Em][F][C][C][Em][G]

@@ -1,0 +1,63 @@
+{title:Ophelia}
+{artist:The Lumineers}
+{key:F major}
+{duration:2:40}
+{tempo:76}
+{color:P}
+
+Intro:
+[Dm][Bb][F]
+[Dm][Bb][F]
+
+Verse:
+[Dm]  Ah, ah,[Bb]  when I was [F]younger
+[Dm]  I, I[Bb]  should've known [F]better
+And I[Dm]  can't feel [Bb]no remorse
+[F] And you[Dm]  don't feel [Bb]nothing back[F]
+
+Bridge:
+[Dm][Bb][F]
+[Dm][Bb][F]
+
+Verse:
+[Dm]  Ah, ah![Bb]  got a new [F]girlfriend
+He[Dm]  feels like[Bb]  he's on top[F]
+And I[C] don't feel [Bb]no remorse
+[F] And you[Dm]  can't see [Bb]past my blind[F]ness
+
+Chorus:
+[Dm]Oh, O[Bb]phelia[F]
+You've been on my [C]mind, girl, [Bb]since the flood[F]
+[Dm]Oh, O[Bb]phelia[F]
+Heaven help the [C]fool who [Bb]falls in love[F]
+
+Bridge:
+[Dm][Bb][F]
+[Dm][Bb][F]
+
+Verse:
+[Dm]  I, I[Bb]  got a little [F]paycheck
+You got[Dm]  big plans[Bb]  and you gotta move[F]
+And I[C] don't feel [Bb]nothing at all[F]
+And you[Dm]  can't feel [Bb]nothing small[F]
+Honey, I [Bb]love [F]you
+
+Break:
+That's [C]all she [F]wrote
+
+Pre-Chorus:
+[Dm]Oh, O[Bb]phelia[F]
+You've been on my [C]mind, girl, [Bb]like a drug[F]
+[Dm]Oh, O[Bb]phelia[F]
+Heaven help the [C]fool who [Bb]falls in love[F]
+
+Chorus:
+[Dm]Oh, O[Bb]phelia[F]
+You've been on my [C]mind, girl, [Bb]since the flood[F]
+[Dm]Oh, O[Bb]phelia[F]
+Heaven help the [C]fool who [Bb]falls in love[F]
+[Dm]Oh, O[Bb]phelia[F]
+You've been on my [C]mind, girl, [Bb]like a drug[F]
+[Dm]Oh, O[Bb]phelia[F]
+Heaven help the [C]fool who [Bb]falls in love[F]
+

@@ -1,0 +1,60 @@
+{title:Unwell}
+{artist:Matchbox 20}
+{key:F♯/G♭ minor}
+{duration:4:20}
+{tempo:81}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G][Cadd9][Em7][D]
+[G][Cadd9][Em7][D]
+
+Verse:
+[Cadd9]All   d[D]ay [G]staring at the [Em7]ceiling making
+[Cadd9]friends with [D]shadows on my [Em7]wall
+[Cadd9]All    [D]night [G]I'm hearing voices [Em7]telling me that
+[Cadd9]I should get some sleep because [D]tomorrow might be good for something
+
+Pre-Chorus:
+[Bm7]Hold   [Cadd9]on  I'm [G]feeling like I'm [D]headed for a
+[Bm7]Break  [Cadd9]down  and [G]I don't know [D]why
+
+Chorus:
+But [G]I'm not crazy I'm just a little u[Cadd9]nwell  I know right now you can't tell
+[Em7]But stay a while and maybe then you'll [D]see  a different side of me
+[G]I'm not crazy I'm just a little im[Cadd9]paired I know right now you don't care
+[Em7]But soon enough you're gonna think of [D]me, and how I used to
+
+Verse:
+[Cadd9]Be,    [D]me [G]talking to [Em7]myself in public and [Cadd9]dodging [D]glances on the [Em7]train
+[Cadd9]and     [D]I know I[G] know they've all been [Em7]talking about me
+[Cadd9]I can hear them whisper and it [D]makes me think there must be somethin’ wrong
+Pre-Chorus:
+[Bm7]With  [Cadd9]me     [G]out of all the [D]hours thinking
+
+[Bm7]Some  [Cadd9]how     [G]I've lost my [D]mind
+
+Chorus:
+But [G]I'm not crazy I'm just a little u[Cadd9]nwell  I know right now you can't tell
+[Em7]But stay a while and maybe then you'll [D]see  a different side of me
+[G]I'm not crazy I'm just a little im[Cadd9]paired I know right now you don't care
+[Em7]But soon enough you're gonna think of [D]me, and how I used to be
+
+Bridge:
+[Cadd9]       [Em7]  I've been talkin' in my [Cadd9]sleep
+[Em7]pretty soon they'll come to [Cadd9]get me
+[Em7]yeh they're takin' me [D]away
+
+Chorus:
+But [G]I'm not crazy I'm just a little u[Cadd9]nwell  I know right now you can't tell
+[Em7]But stay a while and maybe then you'll [D]see  a different side of me
+[G]I'm not crazy I'm just a little im[Cadd9]paired I know right now you don't care
+[Em7]But soon enough you're gonna think of [D]me, and how I used to be
+
+Outro:
+[G]   [Cadd9]     hey how I used to [Em7]be yeah
+[D]   How I use to [G]be yeah
+[Cadd9]Well I'm just a little [Em7]unwell
+[D]   How I used to [G]be    (fade)

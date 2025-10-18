@@ -1,0 +1,44 @@
+{title:A Change Gonna Come}
+{artist:Sam Cooke}
+{key:A♯/B♭ major}
+{duration:3:11}
+{tempo:174}
+{color:P}
+
+{comment: Capo 3}
+F9 - 131213:
+Eb9 - Xx1021:
+
+Intro:
+[F9][Eb9][D7]
+
+Verse:
+I was [G]born by the river, in a little tent,
+Oh and,[Am7] just like that river, I've, been running,[Em]ever since.
+It's been a [G]long... a [Am7]long time coming, but I [C7]know, oh-oh-[B7]oh,
+[Em] A change is gonna come, oh, [G]yes it will.
+
+Verse:
+It's been [G]too hard living, but I'm afraid to die,
+[Am7] 'Cos I don't know what's out there,[Em]beyond the sky.
+It's been a [G]long... a [Am7]long time coming, but I [C7]know, oh-oh-[B7]oh,
+[Em] A change is gonna come, oh, [G]yes it will.
+
+Verse:
+I [G]go to the movie and I go downtown,
+[Am7] Somebody keep telling me; don't,[Em]hang around.
+It's been a [G]long... a [Am7]long time coming, but I [C7]know, oh-oh-[B7]oh,
+[Em] A change is gonna come, oh, [G]yes it will.
+
+Bridge:
+[Am7] Then I go to my [G6]brother,
+[Am7] And I say; brother, help me [Em]please.
+[Am7] But he winds up,[Em]knockin' me,
+[A9] Back down on my [D7]knees, oh…
+
+Verse:
+There been [G]times when I thought, I couldn't last for long,
+[Am7] But now I think I'm able to,[Em]carry on.
+It's been a [G]long... a [Am7]long time coming, but I [C7]know, oh-oh-[B7]oh,
+[Em] A change is gonna come, oh, [G]yes it will.
+

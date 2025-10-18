@@ -1,0 +1,69 @@
+{title:Johnny B Goode}
+{artist:Chuck Berry}
+{key:Bb}
+{duration:2:42}
+{tempo:168}
+
+Intro:
+[Bb][Eb][Bb][F]
+
+[Eb]
+
+[Bb]
+
+Verse:
+Way [Bb]down Louisiana close to New Orleans,
+Way back up in the woods among the evergreens.
+There [Eb]stood a log cabin made of earth and wood,
+Where [Bb]lived a country boy named Johnny B Good.
+He [F]never ever learned to read and write so well,
+But he could [Bb]play the guitar just like the ringin' a bell.
+
+Chorus:
+Go, g[Bb]o.
+Go, Johnny go, go.
+Go, Johnny go, g[Eb]o.
+Go, Johnny go, g[Bb]o.
+Go, Johnny go, g[F]o.
+Johnny B Go[Bb]od.
+
+Verse:
+He used to [Bb]carry his guitar in a gunny sack
+And sit beneath the trees by the railroad track.
+Oh, en[Eb]gineers would see him sitting in the shade
+[Bb]Strumming to the rhythm that the drivers made.
+[F]People passing by they would stop and say:
+"Oh, m[Bb]y how that little country boy could play."
+
+Chorus:
+Go, g[Bb]o.
+Go, Johnny go, go.
+Go, Johnny go, g[Eb]o.
+Go, Johnny go, g[Bb]o.
+Go, Johnny go, g[F]o.
+Johnny B Go[Bb]od.
+
+Solo:
+[Bb][Eb][Bb][F]
+
+[Bb][Bb][Eb][Bb]
+
+[F] [Bb]
+
+Verse:
+His [Bb]mama told him: "Someday you will be a man,
+And you will be the leader of a big old band.
+Ma[Eb]ny people coming from miles around
+To [Bb]hear you play your music when the sun go down.
+Ma[F]ybe someday your name will be in lights
+Sayin' [Bb]Johnny B Good tonight."
+
+Chorus:
+Go, go, g[Bb]o,
+Johnny, go.
+Go, go, go, Johnny go.
+Oh, go, g[Eb]o, Johnny go.
+Oh, go, g[Bb]o, Johnny, go.
+
+Outro:
+G[F]o. Johnny B Go[Bb]od.

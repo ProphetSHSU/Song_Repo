@@ -1,0 +1,103 @@
+{title:Heartbreaker}
+{artist:Pat Benatar}
+{key:Fm}
+{Duration:03:29}
+{tempo:144}
+
+{c:falsetto choruses - help Lisa!}
+
+Intro:
+[-  Ab] 
+[Fm Ab] 
+[Fm Ab] 
+[Fm Ab] 
+
+ 
+ 
+Verse 1:
+[Fm]  Your love is like a [Eb]tidal wave,
+[Db]  Spinning over my head[Bb][C][Eb]
+[Fm]  Drownin' me in your prom[Eb]ises,
+[Db]  Better left unsaid[Bb][C][Eb]
+
+ 
+ 
+Pre-Chorus:
+[Fm]  You're the right[Eb]  kind of sin[Db]ner
+To release[Bb]  my inner fan[C]tasy
+[Fm]  The invin[Eb]cible win[Db]ner
+And you know[Bb]  that you were born[C]to be
+
+ 
+ 
+Chorus:
+You're a[Fm]  heartbrea[G5]ker,[Ab]  dream maker,[Bb]  love ta[C]ker
+Don't you mess [Db]around with me[C]
+You're a[Fm]  heartbrea[G5]ker,[Ab]  dream maker,[Bb]  love ta[C]ker
+Don't you mess [Db]around [C]no no no[Fm][Ab][Fm]
+
+{d_time:00:57}
+Verse 2:
+[Fm]  Your love has set my [Eb]soul on fire,
+[Db]  Burnin' out of control[Bb][C][Eb]
+[Fm]  You taught me the ways[Eb]of desire,
+[Db]  Now it's takin' its toll[Bb]   [C]  [Eb]   [Fm]  
+You're the right[Eb]  kind of sin[Db]ner
+
+ 
+ 
+Pre-Chorus:
+To release[Bb]  my inner fan[C]tasy
+[Fm]  The invin[Eb]cible win[Db]ner
+And you know[Bb]  that you were born[C]to be
+
+ 
+{d_time:01:24}
+Chorus:
+You're a[Fm]  heartbrea[G5]ker,[Ab]  dream maker,[Bb]  love ta[C]ker
+Don't you mess [Db]around with me[C]
+You're a[Fm]  heartbrea[G5]ker,[Ab]  dream maker,[Bb]  love ta[C]ker
+Don't you mess [Db]around [C]no no no
+
+ 
+ 
+Interlude:
+[Fm Ab Fm Ab]
+
+ 
+{d_time:01:42} 
+Bridge:
+[Eb Fm C Bb Ab G5 Fm Eb D]
+[Eb Fm C Bb Ab Eb Bb G5 Fm]
+[C]
+
+{d_time:02:01} 
+Pre-Chorus:
+[Fm]  You're the right[Eb]  kind of sin[Db]ner
+To release[Bb]  my inner fan[C]tasy
+[Fm]  The invin[Eb]cible win[Db]ner
+And you know[Bb]  that you were born[C]to be
+
+ 
+ 
+Chorus:
+{c:n.c.}
+You're a heartbreaker, dream maker, love taker
+Don't you mess around with me
+You're a[Fm]  heartbrea[G5]ker,[Ab]  dream maker,[Bb]  love ta[C]ker
+Don't you mess [Db]around with me[C]
+You're a[Fm]  heartbrea[G5]ker,[Ab]  dream maker,[Bb]  love ta[C]ker
+Don't you mess [Db]around with me[C]
+You're a[Fm]  heartbrea[G5]ker,[Ab]  dream maker,[Bb]  love ta[C]ker
+Heartbreak[Db]er[C]
+
+ 
+{d_time:02:39} 
+Outro (Solo):
+[Fm Ab Bb Db C]
+[Fm Ab Bb Db C]
+[Fm Ab Bb Db C]
+[Fm Ab Bb Db C]
+[Fm Ab Bb Db C]
+[Fm Ab Bb Db C]
+[Fm]

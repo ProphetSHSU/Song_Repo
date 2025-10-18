@@ -1,0 +1,76 @@
+{title:Wake me up}
+{artist:Aloe Blacc}
+{key:G major}
+{duration:4:02}
+{tempo:124}
+{color:P}
+
+{comment: Capo 2}
+
+Intro:
+[Am][F][C][C]
+
+[Am][F][C][C]
+
+[Am][F][C][C]
+
+[Am][F][C][C]
+
+Verse:
+[Am]C              Am
+Feeling my way through the darkness
+Guided by a beating [C]heart[Am]
+I can't tell where the [C]journey will end[Am]
+But I know where to [C]start[Am]
+
+They tell me [F]I'm too [C]young to understand[Am]
+They say I'm [F]caught up in a [C]dream[Am]
+Well life will [F]pass me by if [C]I don't open up my eyes[Am]
+Well that's [F]fine by [C]me
+
+Chorus:
+(2x)
+
+So wake me [Am]up when [F]it's all [C]over
+When I'm [Am]wiser [F]and I'm [C]older
+All this [Am]time I was [F]finding my[C]self
+And I [Am] didn't [F]know I was [C]lost (x2)
+
+{comment: Beat Break + Harmonies}
+e|------------------------------------0--------------------------------------|
+B|---------1-----------1-1-----3p1h3-----1-----------------------------------|
+G|-2-2-0h2---2--0h2p0-------2------------------------------------------------|
+D|---------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------|
+
+Verse:
+[Am]C                     Am
+I tried carrying the weight of the world
+But I only have two [C]hands[Am]
+Hope I get the chance to [C]travel the world [Am]
+But I don't have any [C]plans[Am]
+
+Wish that [F]I could stay for[C]ever this young[Am]
+Not af[F]raid to close my [C]eyes[Am]
+Life's a [F]game made for [C]everyone[Am]
+And [F]love is the [C]prize
+
+Chorus:
+So wake me [Am]up when [F]it's all [C]over
+When I'm [Am]wiser [F]and I'm [C]older
+All this [Am]time I was [F]finding my[C]self
+And I [Am] didn't [F]know I was [C]lost (x2)
+
+Outro:
+[Am]F          C       Am
+I didn't know I was lost
+I didn't [F]know I was [C]lost[Am]
+I didn't [F]know I was [C]lost[Am]
+I didn't [F]know I was [C]lost
+
+Chorus:
+So wake me [Am]up when [F]it's all [C]over
+When I'm [Am]wiser [F]and I'm [C]older
+All this [Am]time I was [F]finding my[C]self
+And I [Am] didn't [F]know I was [C]lost

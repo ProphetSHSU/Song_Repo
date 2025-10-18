@@ -1,0 +1,54 @@
+{title:Forever Young}
+{artist:Rod Stewart}
+{key:E major}
+{duration:4:05}
+{tempo:102}
+{color:P}
+
+{comment: Capo 2}
+
+Intro:
+[D][G][D][D]
+[D][G][D][D]
+
+Verse:
+May the [D]good Lord be with you down [G]every road you [D]roam
+And may [D]sunshine and happiness surr[G]ound you when you're far from [D]home
+And may you [D]grow to be proud, [G]dignified and [D]true
+And [D]do unto others as [G]you'd have done to [D]you
+Be cou[Em]rageous and be [G]brave and in my [Bm]heart you'll always [G]stay
+
+Chorus:
+Forever [D]young, forever [G]young
+Forever [D]young, forever [D]young
+
+May good [D]fortune be with you, may your [G]guiding light be [D]strong
+Build a [D]stairway to heaven with a [G]prince or a vaga[D]bond
+And may you [Em]never love in [G]vain, and in my [Bm]heart you will re[G]main
+
+Chorus:
+Forever [D]young, forever [G]young
+Forever [D]young, forever [D]young
+[Em]For......[G]ever [D]young
+[Em]For......[G]ever [D]young
+
+Instrumental:
+[A][A][G][D]
+[A][A][G][A]
+[D][D][D][D]
+
+Verse:
+And when you [D]finally fly away I'll be [G]hoping that I served you [D]well
+For all the [D]wisdom of a lifetime, [G]no one can ever [D]tell
+But what[Em]ever road you [G]choose, I'm right be[Bm]hind you, win or [G]lose
+
+Chorus:
+Forever [D]young, forever [G]young
+Forever [D]young, forever [D]young
+
+Outro:
+[Em]For......[G]ever [D]young
+[Em]For......[G]ever [D]young
+[Em]For..... [G]For-ever [D]young
+[Em]For......[G]ever [D]young
+

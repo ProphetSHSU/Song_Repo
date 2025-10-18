@@ -1,0 +1,77 @@
+{title:High and Dry}
+{artist:Radiohead}
+{key:E major}
+{duration:4:17}
+{tempo:88}
+{color:P}
+
+{comment: Capo 0}
+
+[Intro]
+ 
+e|--4--4--4--4\2--2--2--2--2----4--4--4--4\0--0--0--0--0----0-|
+B|--0--0--0--0\0--0--0--0--0----0--0--0--0\0--0--0--0--0----0-|
+G|--6--6--6--6\4--4--4--4--4----6--6--6--6\2--2--2--2--2----1-|
+D|--6--6--6--6\4--4--4--4--4----6--6--6--6\2--2--2--2--2----2-|
+a|--x--x--x--x\x--X--X--X--X----x--x--x--x\0--0--0--0--0----2-|
+E|--x--x--x--x\x--X--X--X--X----x--x--x--x\x--x--x--x--x----0-|
+ 
+e|--4--4--4--4\2--2--2--2--2----4--4--4--4\0--0--0--0--0----0-|
+B|--0--0--0--0\0--0--0--0--0----0--0--0--0\0--0--0--0--0----0-|
+G|--6--6--6--6\4--4--4--4--4----6--6--6--6\2--2--2--2--2----1-|
+D|--6--6--6--6\4--4--4--4--4----6--6--6--6\2--2--2--2--2----2-|
+A|--x--x--x--x\x--X--X--X--X----x--x--x--x\0--0--0--0--0----2-|
+E|--x--x--x--x\x--X--X--X--X----x--x--x--x\x--x--x--x--x----0-|
+ 
+ 
+Verse:
+[F#m7add11]Two jumps in a week, I bet you t[Asus2]hink that's pretty clever don't you [E]boy.[Esus4][E]
+[F#m7add11]Flying on your motorcycle. W[Asus2]atching all the ground beneath you [E]drop.[Esus4][E]
+You'd [F#m7add11]kill yourself for recognition. [Asus2]Kill yourself to never ever s[E]top.[Esus4][E]
+You [F#m7add11]broke another mirror. You're t[Asus2]urning into something you are [E]not.[Esus4][E]
+
+Chorus:
+Don't leave me[F#m7add11] high,    [Asus2] don't leave me dry,[E]
+Don't leave me[F#m7add11] high,    [Asus2] don't leave me dry.[E]
+ 
+e|--4--4--4--4\2--2--2--2--2----4--4--4--4\0--0--0--0--0----0-|
+B|--0--0--0--0\0--0--0--0--0----0--0--0--0\0--0--0--0--0----0-|
+G|--6--6--6--6\4--4--4--4--4----6--6--6--6\2--2--2--2--2----1-|
+D|--6--6--6--6\4--4--4--4--4----6--6--6--6\2--2--2--2--2----2-|
+A|--x--x--x--x\x--X--X--X--X----x--x--x--x\0--0--0--0--0----2-|
+E|--x--x--x--x\x--X--X--X--X----x--x--x--x\x--x--x--x--x----0-|
+ 
+e|--4--4--4--4\2--2--2--2--2----4--4--4--4\0--0--0--0--0----0-|
+B|--0--0--0--0\0--0--0--0--0----0--0--0--0\0--0--0--0--0----0-|
+G|--6--6--6--6\4--4--4--4--4----6--6--6--6\2--2--2--2--2----1-|
+D|--6--6--6--6\4--4--4--4--4----6--6--6--6\2--2--2--2--2----2-|
+A|--x--x--x--x\x--X--X--X--X----x--x--x--x\0--0--0--0--0----2-|
+E|--x--x--x--x\x--X--X--X--X----x--x--x--x\x--x--x--x--x----0-|
+ 
+ 
+Verse:
+[F#m7add11]Drying up in conversation, y[Asus2]ou will be the one who cannot t[E]alk.[Esus4][E]
+[F#m7add11]All your insides fall to pieces. Y[Asus2]ou just sit there wishing you could still ma[E]ke love.[Esus4][E]
+
+[F#m7add11]They're the ones who'll hate you when you t[Asus2]hink you've got the world all suss[E]ed out.[Esus4][E]
+[F#m7add11]They're the ones who'll spit at you. Y[Asus2]ou will be the one screaming [E]out.[Esus4][E]
+
+Chorus:
+Don't leave me[F#m7add11] high,    [Asus2] don't leave me dry,[E]
+Don't leave me[F#m7add11] high,    [Asus2] don't leave me dry.[E]
+
+Solo:
+[F#m7add11] [Asus2][E][Esus4][E]
+
+[F#m7add11] [Asus2][E][Esus4][E]
+
+Bridge:
+It's the [F#m7add11]best thing that you ever had. [Asus2] The best thing that you ever, eve[E]r had.[Esus4][E]
+It's the [F#m7add11]best thing that you ever had. [Asus2]The best thing that you had has gone[E] away.[Esus4][E]
+
+Chorus:
+Don't leave me[F#m7add11] high,    [Asus2] don't leave me dr[E]y,
+Don't leave me[F#m7add11] high,    [Asus2] don't leave me dr[E]y.
+Don't leave me[F#m7add11] high,[Asus2]
+Don't leave me[F#m7add11] high,    [Asus2] don't leave me dr[E]y.
+

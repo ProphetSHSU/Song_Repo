@@ -1,0 +1,61 @@
+{title:Take On Me}
+{artist:A-Ha}
+{key:F#m}
+{Duration:03:45}
+{tempo:84}
+{color:P}
+
+{comment: CAPO 2/0?}
+
+Verse:
+[Am]We're talking aw[D]ay
+Well [G]i dont know what [C]im to say
+Ill [Am]say it anywa[D]y
+To[G]day's another d[C]ay to find you
+[Am]Shying awa[D]y
+[Em]Ill be coming for your [C]love, ok?
+
+Chorus:
+[G]Take   [D]on   [Em]me ([C]take on me)
+[G]Take   [D]me   [Em]on ([C]take on me)
+[G]Ill    [D]be   [Em]gone[C]
+In a day or [G]two..[D].[Em][C]
+
+Verse:
+So [Am]needless to s[D]ay
+Im [G]odds and ends, [C]but ill be
+[Am]Stumbling a[D]way
+[G]Slowly learning that [C]life is ok
+[Am]Say after [D]me
+[Em]Its no better to be [C]safe than sorry
+
+Chorus:
+[G]Take   [D]on   [Em]me ([C]take on me)
+[G]Take   [D]me   [Em]on ([C]take on me)
+[G]Ill    [D]be   [Em]gone[C]
+In a day or [G]two..[D].[Em][C]
+
+Bridge:
+[Bm][F][Bm][F][Am][D]
+
+Verse:
+Oh, [Am]the things that you say[D]
+Yeah, [G]is it life or [C]just to play
+My [Am]worries awa[D]y?
+You're [G]all the things ive [C]got to remember
+You're [Am]shying awa[D]y
+[Em]Ill be coming for [C]you anyway
+
+Chorus:
+[G]Take   [D]on   [Em]me ([C]take on me)
+[G]Take   [D]me   [Em]on ([C]take on me)
+[G]I'll   [D]be   [Em]gone[C]
+In a [G]day..[D]. [Em][C]
+
+Outro:
+([G]Take   [D]on   [Em]me) [C]Take on me
+([G]Take   [D]me   [Em]on) [C]Take on me
+ [G]Ill    [D]be   [Em]gone[C]
+ In a [G]day..[D].[Em][C]
+
+[G    D     Em    Cadd9]

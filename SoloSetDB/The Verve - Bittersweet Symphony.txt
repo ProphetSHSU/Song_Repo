@@ -1,0 +1,67 @@
+{title:Bittersweet Symphony}
+{artist:The Verve}
+{key:A major}
+{duration:6:00}
+{tempo:171}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[E][Bm][D][A]
+[E][Bm][D][A]
+
+Verse:
+'Cause it's a [E]bitte[Bm]rswee[D]t symp[A]hony, thi[E]s [Bm]lif[D]e[A]
+Trying to [E]make ends[Bm]meet
+You're a [D]slave to the [A]money then you [E]di[Bm]e[D][A]
+I'll take you [E]down the[Bm] onl[D]y road I'v[A]e eve[E]r been[Bm] do[D]wn[A]
+You know the [E]one that[Bm] takes you to th[D]e places
+Where [A]all the veins [E]meet, yea[Bm]h[D][A]
+
+Chorus:
+No [E]change, I can [Bm]change
+I can [D]change, I can cha[A]nge
+But I'm [E]here in my[Bm]mold
+I am [D]here in my m[A]old
+But I'm a [E]million different[Bm] people fro[D]m one day to th[A]e next
+I can't [E]change my mold
+[Bm]No, no,[D] no, no,[A]no
+
+Interlude:
+[E][Bm][D][A]
+[E][Bm][D][A]
+
+Verse:
+Well I've [E]never[Bm]prayed
+But to[D]night I'm [A]on my [E]knees, yea[Bm]h[D][A]
+I need to [E]hear some[Bm] sounds tha[D]t recognize th[A]e pain i[E]n me, y[Bm]eah[D][A]
+I let the [E]melody[Bm] shine, let i[D]t cleanse m[A]y mind, I fee[E]l free [Bm]now[D][A]
+But the [E]airwaves are[Bm] clean and there'[D]s nobod[A]y singing t[E]o me [Bm]now[D][A]
+
+Chorus:
+No [E]change, I can [Bm]change
+I can [D]change, I can cha[A]nge
+But I'm [E]here in my[Bm]mold
+I am [D]here in my m[A]old
+But I'm a [E]million different[Bm] people fro[D]m one day to th[A]e next
+I can't [E]change my mold
+[Bm]No, no,[D] no, no,[A]no
+
+Bridge:
+'Cause it's a [E]bitte[Bm]rswee[D]t symp[A]hony, thi[E]s [Bm]lif[D]e[A]
+Trying to [E]make ends[Bm]meet
+Trying to f[D]ind some [A]money then you [E]di[Bm]e[D][A]
+
+Chorus:
+No [E]change, I can [Bm]change
+I can [D]change, I can cha[A]nge
+But I'm [E]here in my[Bm]mold
+I am [D]here in my m[A]old
+But I'm a [E]million different[Bm] people fro[D]m one day to th[A]e next
+I can't [E]change my mold
+[Bm]No, no,[D] no, no,[A]no
+
+Outro:
+[F#][C#m][E][B]
+

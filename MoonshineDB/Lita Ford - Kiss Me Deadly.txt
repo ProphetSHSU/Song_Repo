@@ -1,0 +1,104 @@
+{title:Kiss Me Deadly}
+{artist:Lita Ford}
+{key:C}
+{Duration:04:01}
+{tempo:156}
+
+{c: Synth in C!!! - note per two beats on metronome}
+
+{c:Synth 1! downward c b a g - a g f d e - b ~ c ~ }
+Intro:
+I [C]went to a party last Saturday night
+I [F]didn't get laid I got in a fight uh-huh[C]
+It ain't no big[F]thing
+
+[C]Late for my job and the traffic was bad
+Had to [F]borrow ten bucks from my old man uh-huh[C]
+It ain't no big[F]thing
+
+Verse 1:
+I [C]went to a party last Saturday night
+I [F]told you that story would be alright uh-huh[C]
+It ain't no big[F]thing
+But I know what I like[C]
+
+ 
+{c:Synth 2! c b - c g - c b - c f - - g - - }
+Pre-Chorus:
+[C/E]    [F] I [G]know I like dancing with you[C]
+[C/E]    [F]  [G] And I know what you like[C]
+[C/E]    [F] I [G]know you like dancing with me[C]
+[C/E F G]
+
+ 
+ 
+{c:Synth 3! C hit C hit - - C C - - C - F G}
+Chorus:
+[C]Kiss me once
+[F]  [G]  [C]Kiss me twice
+[F]  [G]  [C]Come on pretty ba[C/E]by kiss me dead[F]ly[G]
+
+{c:Synth 1! downward c b a g - a g f d e - b ~ c ~ }
+Verse 2:
+[C]Had a few beers getting high
+[F]Sitting watching the time go by uh-huh[C]
+It ain't no big[F]thing
+[C]Nothing to eat and no T.V.
+[F]Looking in the mirror don't get it for me uh-huh
+[C]It ain't no big[F]thing
+But I know what I like[C]
+
+ 
+{c:Synth 2! c b - c g - c b - c f - - g - - }
+Pre Chorus:
+[C/E]    [F] I [G]know I like dancing with you[C]
+[C/E]    [F]  [G] And I know what you like[C]
+[C/E]    [F] I [G]know you like dancing with me[C]
+[C/E F G]
+
+ 
+{c:Synth 3! C hit C hit - - C C - - C - F G}
+Chorus:
+[C]Kiss me once
+[F]  [G]  [C]Kiss me twice
+[F]  [G]  [C]Come on pretty ba[C/E]by kiss me dead[F]ly
+[G]  [C]Kiss me once
+[F]  [G]  [C]Kiss me twice
+[F]  [G]  [C]Come on pretty ba[C/E]by kiss me dead[F]ly[G]
+
+{c: quiet 4 bars}
+
+Bridge:
+{c:Synth 4! c b - c g - c b - c f - - }
+{c:Synth 4! c b - c g - c b - c f - - }
+{c:Synth 4! c b - c g - c b - c f - - }
+{c:Synth 4! c b - c g - c b - c f - - }
+[C][C][F][C]
+[F][C][F]
+
+[F] You know I like dancing with you[C]
+Dancing with[F] you,[G]come on
+
+ 
+ 
+{c:Synth 3! C hit C hit - - C C - - C - F G}
+Chorus:
+[C]Kiss me once
+[F]  [G] Kiss[C]me twice
+[F]  [G]  [C]Come on pretty ba[C/E]by kiss me dead[F]ly
+[G]  [C]Kiss me once
+[F]  [G] Kiss[C]me twice
+[F]  [G]  [C]Come on pretty ba[C/E]by kiss me
+[F]Come on pretty ba[D]by kiss me
+ 
+ 
+Outro:
+[F]Come on pretty ba[G]by kiss me deadly
+[C C/E F G]
+[C C/E F G]
+[C C/E F G]
+[C C/E F G]
+ 
+ 
+Fade Out:
+[C C/E F G]

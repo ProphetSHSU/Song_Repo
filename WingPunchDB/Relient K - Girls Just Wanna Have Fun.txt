@@ -1,0 +1,96 @@
+{title:Girls Just Wanna Have Fun}
+{artist:Relient K}
+{key:D}
+{Duration:02:50}
+{tempo:126}
+{color:P}
+
+Intro Riff:
+[B][B4][B][F#][B][B][B][B4][B][F#E][F#]
+
+[B][B4][B][F#][B][B][B][B4][B][F#E][F#]
+
+[B][B4][B][F#][B][B][B][B4][B][F#E][F#]
+
+[B] [B4][B][F#][B][B][B][B4][B][F#E][F#]
+
+{d_time: 0:15}
+Verse:
+[B5]I come home in the morning light
+[E]My[F#] mo[G#5]ther says 'when you gonna live your life right?'
+[G#5]Oh m[F#]oth[E]er dear, we're not the fortunate ones,
+And [G#5]girls, they [F#]want to have [E]fun,
+Oh [G#5]girls just [F#]want to have fun
+
+Interlude:
+[B][B4][B][F#][B][B][B][B4][B][F#E][F#]
+
+[B][B4][B][F#][B][B][B][B4][B][F#E][F#]
+
+{d_time: 0:40}
+Verse:
+[B5]The phone rings in the middle of the night
+[E]My[F#] fa[G#5]ther yells 'what you gonna do with your life?'
+[G#5]Oh d[F#]add[E]y dear, you know you're still number one,
+But [G#5]girls, they [F#]want to have [E]fun,
+[E]  [F#]Oh [G#5]girls just [F#]want to have [E]
+
+{d_time: 0:57}
+{c: Lisa harmony}
+Chorus:
+[B5]That's all they really want.....
+[E]  [F#]   [G#5]some fun...
+[E]  [F#]   [B5]When the working day is done
+Oh [G#5]girls they [F#]want to have f[E]un
+[E]  [F#]Oh [G#5]girls just [F#]want to have [E]fun
+
+[B][B4][B][F#][B][B][B][B4][B][F#E][F#]
+
+[B] [B4][B][F#][B][B][B][B4][B][F#E][F#]
+
+{d_time: 1:22}
+{c: chugs}
+Verse:
+[B5]Some boys take a beautiful girl
+[E] A[F#]nd [G#5]hide her away from the rest of the world
+[G#5]I wa[F#]nt [E]to be the one to walk in the sun
+{c: 4 per}
+Oh [G#5]girls, they [F#]want to have [E]fun,
+[E]  [F#]Oh [G#5]girls just [F#]want to have [E]
+
+{d_time: 1:39}
+Break:
+[B] [B4][B][F#][B][B]
+
+{d_time: 1:42}
+{c: Lisa harmony}
+Chorus:
+[B5]That's all they really want.....
+[E]  [F#]   [G#5]some fun...
+[E]  [F#]   [B5]When the working day is done
+Oh [G#5]girls they [F#]want to have f[E]un
+Oh [G#5]girls just [F#]want to have [E]fun
+
+{d_time: 1:58}
+{c: chugs}
+Build:
+[B][B2]
+[B][B2]
+[B][B2]
+[B][B2]
+
+[B]They just [B2]wanna, they just wanna...
+They [G#5]just wanna, they [F#]just wanna...
+They [E]just wanna, they just wanna...
+{c: chugs}
+Oh [G#5]girls they [F#]want to have f[E]un
+Oh [G#5]girls just [F#]want to have
+
+{d_time: 2:22}
+{c: Lisa descant}
+Chorus:
+[B5]That's all they really want.....
+[E]  [F#]   [G#5]some fun...
+[E]  [F#]   [B5]When the working day is done
+Oh [G#5]girls they [F#]want to have f[E]un
+Oh [G#5]girls just [F#]wan[(let]t to [ring)]have 

@@ -1,0 +1,92 @@
+{title:A Little Bit of Everything}
+{artist:Dawes}
+{key:F major}
+{duration:5:39}
+{tempo:144}
+{color:P}
+
+{comment: Capo 5}
+G6Sus4    3X2013:
+{comment: G7        3x3003 (no 5)}
+
+Intro:
+[C][F][C]
+
+[G6sus4][G7][C]
+
+[Am][G6sus4][F]
+
+[C][F][C]
+
+Verse:
+[C]With his back against [F]the San Francisco tra[C]ffic
+[G6sus4]On the bridges side that [G7]faces towards the ja[C]il
+[Am]Setting out t[G6sus4]o join a demographi[F]c,
+[C]He hoists his firs[F]t leg up over the r[C]ail.
+
+[C]A phone call's made, pol[F]ice cars show up qui[C]ckly.
+[G6sus4]The sergeant sl[G7]ams his passenger do[C]or.
+[Am]He says, Hey son why[G6sus4] don't you talk through this with [F]me,
+[C]Just tell me what [F]you're doing it for.[C]
+
+Chorus:
+[Am]Oh, it's a little bit of e[C]verything,
+[Am]It's the mountains, [Em]it's the fog,
+[F]It's the news at six o'c[C]lock,
+It's th[G6sus4]e death of my first [G7]dog.
+[C]It's the angels up abov[F]e me,
+[C]It's the song th[C/B]at they don't [Am]sing,
+[G6sus4]It's a little bit of[G7] everything.[C]
+
+Verse:
+There's an [C]older man who s[F]tands in a buffet lin[C]e,
+He is s[G6sus4]miling and he's h[G7]olding out his pl[C]ate,
+And the f[Am]urther he looks b[G6sus4]ack into his timeli[F]ne,
+That h[C]ard road always l[F]ed him to today.[C]
+
+Making [C]up for when his br[F]ight future had left hi[C]m,
+[G6sus4]Making up for the f[G7]act that his only son is [C]gone,
+[Am]And letting everythin[G6sus4]g out once, his server as[F]ks him,
+[C]Have you figured out [F]yet, what it is you w[C]ant?
+
+Chorus:
+[Am]I want a little bit of ev[C]erything,
+[Am]The biscuits and the[Em]beans,
+[F]Whatever helps me to f[C]orget about
+The th[G6sus4]ings that brought me[G7]to my knees.
+[C]So pile on those mashe[F]d potatoes,
+[C]And an ext[C/B]ra chicken win[Am]g,
+[G6sus4]I'm having a l[G7]ittle bit of e[C]verything.
+
+Solo:
+Verse:
+[C]Somewhere a pret[F]ty girl is writing[C]invitations,
+[G6sus4]To a wedding she ha[G7]s scheduled for the fall,[C]
+[Am]Her man says, Baby[G6sus4], can I make an observati[F]on?
+[C]You don't seem to be h[F]aving any fun at all.[C]
+
+[C]She said, You just worry about your g[F]roomsmen and your s[C]hirt-size,
+[G6sus4]And rest assured th[G7]at this is making me feel[C]good,
+[Am]I think that love is so muc[G6sus4]h easier than you r[F]ealize,
+[C]If you can give yours[F]elf to someone, then [C]you should.
+
+Chorus:
+[Am]Cause it's a little bit of[C]everything,
+[Am]The way you joke, [Em]the way you ache,
+[F]It is getting up before[C]you,
+So I[G6sus4] could watch you as yo[G7]u wake.
+[C]So on the day in late [F]September,
+[C]It's not so[C/B]me stupid litt[Am]le ring,
+[G6sus4]I'm getting a little [G7]bit of every[C]thing.
+
+[Am]Oh, it's a little bit of e[C]verything,
+[Am]It's the matador and [Em]the bull,
+[F]It's the suggested dail[C]y dosage,
+It'[G6sus4]s the red moon when [G7]it's full.
+[C]All these psychics and[F]these doctors,
+[C]They're all[C/B] right and the[Am]y're all wrong,
+It's like t[C]rying to make out ev[F]ery word,
+When they should s[C]imply hum al[Am]ong.
+It's not some m[C]essage written in the da[F]rk,
+Or some [C]truth that [C/B]no one's [Am]sees,
+It[G6sus4]'s a little bit of [G7]everything.[C]

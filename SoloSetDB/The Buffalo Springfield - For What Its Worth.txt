@@ -1,0 +1,73 @@
+{title:For What It's Worth}
+{artist:The Buffalo Springfield}
+{key:D major}
+{duration:2:41}
+{tempo:99}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[E][Asus2]
+[E][Asus2]
+
+Verse:
+[E] There's somethin' happenin'[Asus2]here
+ What it [E]is ain't exactly c[Asus2]lear
+ There's a [E]man with a gun, over t[Asus2]here
+ Tellin' [E]me I got to be[Asus2]ware
+
+Chorus:
+ [E]Stop, children, [D]what's that sound?
+ [A]Everybody look - what's [Bbdim]goin' down?
+
+[E][Asus2]
+[E][Asus2]
+
+Verse:
+[E] There's battle lines bein' [Asus2]drawn
+ Nobody's [E]right if everybody's [Asus2]wrong
+ [E] Young people speakin' their [Asus2]minds
+ Gettin' [E]so much resistance [Asus2]from behind
+
+Chorus:
+ [E]Stop, children, [D]what's that sound?
+ [A]Everybody look - what's [Bbdim]goin' down?
+
+[E][Asus2]
+[E][Asus2]
+
+Verse:
+ [E] What a field day for the [Asus2]heat
+ A [E]thousand people in the [Asus2]street
+ Singin' [E]songs and they carryin' [Asus2]signs
+ Mostly [E]say,"hooray for our s[Asus2]ide"
+
+Chorus:
+ [E]Stop, hey,  what[D]'s that sound?
+ [A]Everybody look - what's [Bbdim]goin' down?
+
+[E][Asus2]
+[E][Asus2]
+
+Verse:
+ [E]Paranoia strikes [Asus2]deep
+ [E]Into your life it will [Asus2]creep
+ It [E]starts when you're always a[Asus2]fraid
+ Step out of [E]line, the man come and [Asus2]take you away
+
+Outro:
+ [E]Stop, hey, what'[D]s that sound?
+ [A]Everybody look - what's [Bbdim]goin..
+
+ (we better..)
+ [E]Stop, hey, what'[D]s that sound?
+ [A]Everybody look - what's [Bbdim]goin..
+
+ (we better..)
+ [E]Stop, hey, what'[D]s that sound?
+ [A]Everybody look - what's [Bbdim]goin..
+
+ (we better..)
+ [E]Stop, children, [D]what's that sound?
+ [A]Everybody look - what's [Bbdim]goin' down?

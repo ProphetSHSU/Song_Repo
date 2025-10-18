@@ -1,0 +1,66 @@
+{title:Daughters}
+{artist:John Mayer}
+{key:D major}
+{duration:3:58}
+{tempo:125}
+{color:P}
+
+{comment: Capo 0}
+
+{comment:E7sus4/B - 7x7700}
+{comment:Em7      - 0x5700}
+{comment:Em7/A.   - x05700}
+{comment:D6.      - 0547xx}
+
+Intro:
+[E7sus4/B] [Em7][Em7/A][D6][E7sus4/B][Em7][Em7/A][D]
+
+Verse:
+[E7sus4/B]  I know a gir[Em7]l she puts the [Em7/A]color inside of my world[D].
+But [E7sus4/B]she's just like a maz[Em7]e, where all of the wal[Em7/A]ls all continually change[D].
+[Em7]    A[D]nd[E7sus4/B] I've don[Em7]e all I can to stand on [Em7/A]her steps with my heart in[D6]my hand.
+[Em7]    Now[E7sus4/B] I'm star[Em7]ting to see, maybe [Em7/A]its got nothing to do[D]with me.
+
+Chorus:
+[E7sus4/B]Fathers b[Em7]e good to[Em7/A] your da[D]ugh-ters.
+[E7sus4/B]Daughters[E7] will love l[Em7/A]ike you [D6]do.
+[E7sus4/B]Girls bec[Em7]ome lovers, [Em7/A]who turn into mo[D]thers
+So, [E7sus4/B]mothers b[Em7]e good to you[Em7/A]r daughter[D6]s too.
+
+Instrumental:
+[Bm] [Em7][Em7/A][D][Em7][D/F#]
+
+Bridge:
+[Bm]Oooh, you see that s[Em7]kin?
+It's the same[Em7/A] she's been standing in.[D]..
+[Em7]    s[D/F#]ince the d[Bm]ay, she saw him w[Em7]alking away, now she's l[Em7/A]eft...
+cleaning up the mess he m[D]ade.[Em7]
+[D/F#]So
+
+Chorus:
+[E7sus4/B]Fathers b[Em7]e good to[Em7/A] your da[D]ugh-ters.
+[E7sus4/B]Daughters[E7] will love l[Em7/A]ike you [D6]do.
+[E7sus4/B]Girls bec[Em7]ome lovers, [Em7/A]who turn into mo[D]thers
+So, [E7sus4/B]mothers b[Em7]e good to you[Em7/A]r daughter[D6]s too.
+
+Verse:
+[D9]  Boys[Gm/D] you can break[D], you'll [A7/D]find out how much they can tak[E7sus4/B]e.
+Boys will be strong[Em7], and boys soldier on[D/F#] but boys would be g[Gm11]one without
+warmth from a wo[A13]man's good, good heart.
+
+Instrumental:
+[E7sus4/B][Em7][Em7/A][D][E7sus4/B][Em7][Em7/A][D]
+
+Bridge:
+On behalf of e[E7sus4/B]very man,[Em7] looking out for [Em7/A]every girl
+[D]you are the [E7sus4/B]god and t[E7]he weight of [Em7/A]her world.
+[D]So…
+
+Chorus:
+[E7sus4/B]Fathers b[Em7]e good to[Em7/A] your da[D]ugh-ters.
+[E7sus4/B]Daughters[E7] will love l[Em7/A]ike you [D6]do.
+[E7sus4/B]Girls bec[Em7]ome lovers, [Em7/A]who turn into mo[D]thers
+So, [E7sus4/B]mothers b[Em7]e good to you[Em7/A]r daughter[D6]s too.
+So,[E7sus4/B] mothers [Em7]be good to yo[Em7/A]ur daughte[D6]rs too.
+So,[E7sus4/B] mothers [Em7]be good to yo[Em7/A]ur daughte[D6]rs too.[let][ring]
+

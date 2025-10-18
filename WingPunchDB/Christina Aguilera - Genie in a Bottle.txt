@@ -1,0 +1,84 @@
+{title:Genie in a Bottle}
+{artist:Christina Aguilera}
+{key:C# Minor}
+{duration:2:40}
+{tempo:88}
+{color:Y}
+
+Intro:
+[C#m]    [B]  [A]  [C#m]    [B]  [A], [G#7]
+[C#m] [B][A] [G#7]
+
+{c: 2 full riffs}
+
+Verse:
+{c: Lisa}
+I [C#m]feel like I've been locked[B]up tight
+For a cen[A]tury of lon[B]ely nights
+[C#m]Waiting for someone[B]  to releas[A]e  [G#7]me
+You're [C#m]lickin' your lips and blowin' [B]kisses my way
+But that[A]  don't mean I'm gonna[B]give it away
+[C#m]Baby, baby, ba[B]by[A][G#7]
+
+Pre-Chorus:
+{c: Lisa}
+[C#m]Oh, oh, oh,[B]  oh, o[A]h
+[B]
+[C#m]Oh, oh, oh,[B]  oh, o[A]h
+[B]
+
+Chorus:
+{c: Jake = melody, Lisa = harmony}
+[C#m]  If you [B]wanna be with[A]me
+Baby, [B]there's a price to[C#m]pay
+I'm a [B]genie in a bo[A]ttle
+You gotta [G#7]rub me the right [C#m]way
+If you [B]wanna be with[A]me
+I can [B]make your wish come[C#m]true
+You gotta [B]make a big impre[A]ssion
+Gotta [G#7]like what you do[C#m]
+
+Post-Chorus:
+{c: Jake}
+I'm a genie in a [B]bottle, baby
+[A]  You gotta rub me the[G#7]right way, honey (mmm)
+[C#m]  I'm a genie in a [B]bottle, baby
+[A]  Come, come,[G#7]come on and let me out
+
+Verse:
+{c: Lisa}
+The [C#m]music's bangin' and the [B]lights down low
+Just one[A]  more dance and then we're[B]good to go
+[C#m]Waiting for someone[B]  who need[A]s  [G#7]me
+Hor[C#m]mones racin' at the [B]speed of light
+But that[A]  don't mean it's gotta[B]be tonight
+[C#m]Baby, ba[B]by[A][B]
+
+Pre-Chorus:
+{c: Lisa}
+[C#m]Oh, oh, oh,[B]  oh, o[A]h
+[B]
+[C#m]Oh, oh, oh,[B]  oh, o[A]h
+[B]
+
+Chorus:
+{c: Jake = melody, Lisa = harmony}
+[C#m]  If you [B]wanna be with[A]me
+Baby, [B]there's a price to[C#m]pay
+I'm a [B]genie in a bo[A]ttle
+You gotta [G#7]rub me the right [C#m]way
+If you [B]wanna be with[A]me
+I can [B]make your wish come[C#m]true
+You gotta [B]make a big impre[A]ssion
+Gotta [G#7]like what you do[C#m]
+
+Post-Chorus:
+{c: Jake}
+I'm a genie in a [B]bottle, baby
+[A]  You gotta rub me the[G#7]right way, honey (you gotta like what you do)
+[C#m]  I'm a genie in a [B]bottle, baby
+[A]  Come, come,[G#7]come on and let me out (you gotta like what you do)
+[C#m]  I'm a genie in a [B]bottle, baby
+[A]  Gotta rub me the[G#7]right way, honey (ooh ooh ooh ooh)
+[C#m]  I'm a genie in a [B]bottle, baby 
+[A]  Come, come,[G#7]come on and let me out

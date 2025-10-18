@@ -1,0 +1,47 @@
+{title:Warriors}
+{artist:Imagine Dragons}
+{key:E minor}
+{duration:2:50}
+{tempo:78}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G][D][Em][B7]
+
+Verse:
+[Em]As a child, you w[D]ould wait
+and [Cadd9]watch from far away[B7].
+But you [Em]always knew that you'd [D]be the one
+th[Cadd9]at work while t[B7]hey all play.
+[Em]In youth, you[D]'d lay,
+a[Cadd9]wake at night and sch[B7]eme
+of [Em]all the things that [D]you would change,
+but [Cadd9]it was just a dre[B7]am.
+
+Chorus:
+[Em]Here we [G]are, don't turn [Cadd9]away now[B7],
+[Em]we are the [G]warriors that [Cadd9]built this tow[B7]n.
+[Em]Here we [G]are, don't turn [Cadd9]away now[B7],
+[Em]we are the [G]warriors that [Cadd9]built this tow[B7]n
+From [Em]dust
+
+Verse:
+[D]The time will come,
+when you'll [Cadd9]have to ris[B7]e
+a[Em]bove the best, and [D]prove yourself,
+your [Cadd9]spirit never die[B7]s!
+[Em]Farewell, I'[D]ve gone,
+to [Cadd9]take my throne abo[B7]ve,
+but don't [Em]weep for me, 'cuz [D]this will be
+the [Cadd9]labor of my lov[B7]e
+
+Solo:
+Chorus:
+[Em]Here we [G]are, don't turn [Cadd9]away now[B7],
+[Em]we are the [G]warriors that [Cadd9]built this tow[B7]n.
+[Em]Here we [G]are, don't turn [Cadd9]away now[B7],
+[Em]we are the [G]warriors that [Cadd9]built this tow[B7]n
+From [Em]dust
+

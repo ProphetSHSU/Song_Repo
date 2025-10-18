@@ -1,0 +1,52 @@
+{title:You Look Wonderful Tonight}
+{artist:Eric Clapton}
+{key:G major}
+{duration:3:39}
+{tempo:95}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G][D/F#][C][D]
+
+[G][D/F#][C][D]
+
+Verse:
+[G]  It's late in the [D/F#]evening,[C] she's wondering what cl[D]othes to wear.
+[G]  She puts on her [D/F#]make-up,[C] and brushes her [D]long blond hair.
+[C]  And then she a[D]sks me[G] "Do I [D/F#]look all [Em]right?"
+And I say "Y[C]es, you look w[D]onderful toni[G]ght!"
+
+Instrumental:
+[G][D/F#][C][D]
+
+Verse:
+[G]  We'd go to [D/F#]party,[C] and everyone t[D]urns to see
+[G]  This beautiful [D/F#]lady,[C] that's walking ar[D]ound with me.
+[C]  And then she [D]asks me:[G] "Do you feel all r[Em]ight?"
+And I say: "Y[C]es, I feel w[D]onderful ton[G]ight!"
+
+Bridge:
+I feel w[C]onderful bec[D]ause I see the l[G]ove light[D/F#] in your e[Em]yes,
+And the w[C]onder of it a[D]ll is that you j[C]ust don't real[D]ize,
+How much I l[G]ove you!
+
+Instrumental:
+[G][D/F#][C][D]
+
+[G][D/F#][C][D]
+
+Verse:
+[G]  It's time to go [D/F#]home now,[C] and I've got an [D]aching head
+[G]  So I give her the [D/F#]carkeys, [C]and she he[D]lps me to bed.
+[C]  And then I t[D]ell her,[G] as I [D/F#]turn off the l[Em]ight:
+I say: "My d[C]arling, you are w[D]onderful ton[G]ight! [D/F#][Em]
+Oh my d[C]arling, you were w[D]onderful t[G]onight."
+
+Outro:
+[G][D/F#][C][D]
+
+[G][D/F#][C][D]
+
+[G]

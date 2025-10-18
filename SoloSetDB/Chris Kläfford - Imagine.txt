@@ -1,0 +1,57 @@
+{title:Imagine}
+{artist:Chris Kläfford}
+{key:F♯/G♭ major}
+{duration:3:41}
+{tempo:142}
+{color:P}
+
+{comment: Capo 6}
+
+Intro:
+[C] [Fmaj7][C][Fmaj7][C]
+
+Verse:
+[C]Imagine there's no h[Fmaj7]eaven
+It's [C]easy if you [Fmaj7]try[C]
+No hell below[Fmaj7]us
+[C]Above us only [Fmaj7]sky
+
+[Fmaj7]Imagine [Am7]all the[Dm] people[Cadd9]
+[G]Living for to[G]day...you...hooo..
+
+Chorus:
+[F]You may [G]say I'm a [C]dreamer[E7][F]
+But I'm [G]not the only [C]one[E7]
+[F]I hope [G]someday you'll j[C]oin u[E7]s[F]
+And the [G]world will be as[C]one
+
+Verse:
+[C]Imagine there's no c[Fmaj7]ountries[C]
+It isn't hard to [Fmaj7]do[C]
+Nothing to kill or [Fmaj7]die for[C]
+And no religion [Fmaj7]too
+
+[Fmaj7]Imagine [Am7]all the[Dm] people[Cadd9]
+[G]Living life in peac[G]e...you...hooo..
+
+Chorus:
+[F]You may [G]say I'm a [C]dreamer[E7][F]
+But I'm [G]not the only [C]one[E7]
+[F]I hope [G]someday you'll j[C]oin u[E7]s[F]
+And the [G]world will be as[C]one
+
+Verse:
+[C]Imagine no p[Fmaj7]ossessions[C]
+I wonder if you[Fmaj7] can[C]
+No need for greed [Fmaj7]or hunger[C]
+A brotherho[Fmaj7]od of man[C]
+
+[Fmaj7]Imagine al[Am7]l the pe[Dm]ople[Cadd9]
+[G]Sharing all the [G]world...you...hooo..
+
+Chorus:
+[F] And you m[G]ay say I'm[C] a dream[E7]er[F]
+But I'm [G]not the only [C]one[E7]
+[F]I hope someda[G]y you'll [C]join us[E7][F]
+And the wo[G]rld will be as o[C]ne...
+

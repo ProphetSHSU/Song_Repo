@@ -1,0 +1,43 @@
+{title:Heart of Life}
+{artist:John Mayer}
+{key:C♯/D♭ major}
+{duration:3:18}
+{tempo:176}
+{color:P}
+
+{comment: Capo 1}
+
+Intro:
+[C][Am][Em][F][C][G][C]
+
+Verse:
+[C]I hate to see you cry[Am]
+Laying there in that posi[Em]tion[F][C][G]
+[C]There's things you need to hear[Am]
+So turn off your tears and [Em]liste[F]n[C][G]
+
+Chorus:
+[G]Pain throws you heart to [C]the ground[F]
+[G]Love turns the whole t[C]hing around[F]
+[G]No, it won't all g[C]o the way, it [F]should[C]
+But I kno[F]w the heart of[C] life is goo[G]d[C]
+
+Verse:
+[C]You know it's nothing new[Am]
+Bad news never had good ti[Em]ming[F][C][G]
+[C]Then the circle of your friends[Am]
+Will defend the silver lin[Em]ing[F][C][G]
+
+Chorus:
+[G]Pain throws you heart to [C]the ground[F]
+[G]Love turns the whole t[C]hing around[F]
+[G]No, it won't all g[C]o the way, it [F]should[C]
+But I kno[F]w the heart of[C] life is goo[G]d[C]
+
+(Play verse and chorus with no lyrics)
+
+[G]Pain throws you heart to [C]the ground[F]
+[G]Love turns the whole t[C]hing around[F]
+[G]Fear is a fri[C]end who's misunderstood[F][C]
+But I kno[F]w the heart of[C] life is good[G][C]
+I k[G]now it’s good[C]

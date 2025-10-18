@@ -1,0 +1,55 @@
+{title:Crying}
+{artist:Roy Orbison}
+{key:D}
+{Duration:02:46}
+{tempo:97}
+{color:P}
+
+Intro:
+[D] I was all [D]right for awhile
+I could smile for awhile
+
+{c: arpegios}
+Verse:
+(But I saw you last night)
+(You held my [Daug]hand so tight)
+(As you [G][N.C.]stopped to say, "Hel[Gm]lo")
+
+Oh, you [D]wished me well
+You,[A7]you couldn't tell
+
+Chorus:
+That I'd been [D]crying [F#m]over you
+[D]Crying [F#m]over you
+When [G]you said, "So [A]long"
+Left me [G]standing all a[A]lone
+Alone and [D]crying, [Daug]crying
+[G]Crying, [Gm]crying
+
+Post-Chorus:
+It's hard to [D]understand
+(But the [A7]touch of your hand)
+(Can start me [D]crying)
+
+{c: arpegios}
+Verse:
+I thought that I[D]was over you
+But it's truuuuue, so true
+I love you even more
+Than I [Daug]did before
+But, [G][N.c]darling, what can I [Gm]do?
+For you [D]don't love me
+
+(And I'll [A7]always be [D]crying [F#m]over you)
+
+Chorus:
+([D]Crying [F#m]over you)
+{c: D2 roy part}
+[G]Yes, now you're[A]gone
+And[G] from this moment [A]on
+I'll be [D]crying, [Daug]crying
+[G]Crying, [Gm]crying
+
+Outro:
+I'm [D]crying, cry[Bm]ing
+[G]Ov[A]er [D]you[A][D][G][D]

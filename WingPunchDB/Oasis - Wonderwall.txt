@@ -1,0 +1,85 @@
+{title:Wonderwall}
+{artist:Oasis}
+{key:B major}
+{duration:3:00}
+{tempo:209}
+{color:P}
+
+Verse:
+[B]  Today [C#m]is gonna be the day that they're 
+[G#m]gonna throw it back [E]to you
+[B]  And by now[C#m],   you should've somehow real
+[G#m]ised what you gott[E]a do
+Well [B]I don't believe that[C#m] anybody 
+[G#m]feels the way I [E]do about you [B]now
+
+And backbeat, the word is on the street that the 
+fire in your heart is out
+I'm sure you've heard it all before, but you 
+never really had a doubt
+I don't believe that anybody 
+feels the way I do about you now
+
+[B][C#m][G#m][E]
+
+Pre-Chorus:
+And [E]all the roads we [F#m]have to walk are 
+[G#m]winding[B]
+And [E]all the lights that [F#m]lead us there are 
+[G#m]blinding[B]
+[E]There are many [F#m]things that I would 
+[B]like to say to [G#m]you, but I don't know [C#m]how
+
+Chorus:
+Because may[E]be[B][F#m]
+You're [G#m]gonna be the one that 
+sa[E]ves me[B][F#m]
+And [G#m]after 
+all[E][B][F#m]
+You're my [G#m]wonder
+wa[E]ll[B][F#m][G#m]
+[E]
+
+{c: 3 big chords}
+{c: drum fill}
+
+Verse:
+[B]  Today [C#m]was gonna be the day, but they'll 
+n[G#m]ever throw it back to [E]you
+[B]  And by now, you [C#m]should've somehow real
+[G#m]ised what you're not to [E]do
+Well [B]I don't believe that[C#m] anybody 
+[G#m]feels the way I [E]do about you [B]now
+
+[B][C#m][G#m][E]
+
+Pre-Chorus:
+And [E]all the roads that [F#m]lead you there are 
+[G#m]winding[B]
+And [E]all the lights that [F#m]light the way are 
+[G#m]blinding[B]
+[E]There are many [F#m]things that I would 
+[B]like to say to [G#m]you,
+but I don't know [C#m]how
+
+Chorus:
+I said may[E]be[B][F#m]
+You're [G#m]gonna be the one that 
+sa[E]ves me[B][F#m]
+And [G#m]after all[E][B][F#m]
+You're my [G#m]wonder
+wa[E]ll[B][F#m][G#m]
+
+Chorus:
+I said may[E]be...[B][F#m]
+You're [G#m]gonna be the one that 
+sa[E]ves me...[B][F#m]
+And [G#m]after all[E][B][F#m]
+You're my [G#m]wonder
+wa[E]ll[B][F#m]
+
+Solo:
+[B][C#m][G#m][E]
+[B][C#m][G#m][E]
+[B][C#m][G#m][E]
+[B][C#m][G#m][E]

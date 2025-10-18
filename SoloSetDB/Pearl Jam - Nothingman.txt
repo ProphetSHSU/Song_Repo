@@ -1,0 +1,48 @@
+{title:Nothingman}
+{artist:Pearl Jam}
+{key:F major}
+{duration:4:34}
+{tempo:145}
+{color:P}
+
+{comment: Capo 5}
+
+Intro:
+[C][Am][G][Am][F]
+[C][Am][G][Am][F]
+
+Verse:
+[C]Once divided,[Am]   [G] nothing lef[Am]t to su[F]btract
+[C]Some words when spoken[Am]   [G] can't b[Am]e taken [F]back
+[C]Walks on his own[Am]   with[G] thoughts h[Am]e can't hel[F]p thinking
+[C]Future's above,[Am]     but in the[G] past he'[Am]s slow and [F]sinking[Am][(barred,][10th][fret)]
+[F]Caught a bolt of lightning,  [G]  cursed the [F]day he let it go[Am][F][G]
+
+Chorus:
+[C]Nothingman,   [Am]   no[G]thingman
+[C]Isn't it something?  [F]Nothi[G]ngman
+
+{comment: 2nd Verse:}
+[C]She once believed[Am]   in every[G] story h[Am]e had t[F]o tell
+[C]One day she stiffened,[Am]    [G] took th[Am]e other [F]side
+[C]Empty stares[Am]    from each[G] corner of [Am]a shared priso[F]n cell
+[C]One just escapes,[Am]    one's[G] left [Am]inside th[F]e well[Am][(barred,][10th][fret)]
+[F]And he who forgets  [G]  will be [F]destined to reme[Am]mber [F]  oh  oh  oh  [G]oh
+
+Chorus:
+[C]Nothingman,     [Am] not[G]hingman
+[C]Isn't it something?  [F]Nothi[G]ngman
+
+Bridge:
+[Am]Oh, she don't w[F]ant him [G](she don't want him)
+Oh, she won't feed h[F]im, [Am]   after he's f[F]lown aw[G]ay
+Oh[F], into the sun,[G] yeah i[F]nto the sun[G][F]
+[F]Burn, burn, burn  bur[G]n
+
+Chorus:
+[C]Nothingman,    [Am]  no[G]thingman
+[C]Isn't it something? [F] Noth[G]ingman
+[C]Nothingman,     [Am] not[G]hingman
+[C]Coulda been something,[F] noth[G]ingman
+[C]oooooooo[F] uoooo[C]oo
+

@@ -1,0 +1,68 @@
+{title:Crazy Train}
+{artist:Ozzy Osbourne}
+{key:A major}
+{duration:4:56}
+{tempo:138}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[F#m][A][E][F#m][D][E]
+[F#m][A][E][F#m][D][E]
+[F#m][A][E/A][D/A][A]
+[F#m]  [A][E/A][D/A][A]
+
+Verse:
+[A]Cra[E/A]zy, [D/A]     but t[A]hat's how it go[A]es,[E/A]    [D/A]    [A] m[A]illions of p[E/A]eopl[D/A]e,   l[A]iving as f[A]oes[E/A][D/A][A]
+[A]May[E/A]be, [D/A]    [A] it's not to l[A]ate,[E/A]    [D/A]    [A]    to le[A]arn how to [E/A]love[D/A],    and forg[A]et how to [A]hate[E/A][D/A][A]
+
+Chorus:
+[F#m]Mental wounds not h[D]ealing,  l[F#m]ife's a bitter [D]shame
+I'm g[A]oing off the r[E]ails on a crazy t[F#m]rain
+I'm g[A]oing off the r[E]ails on a crazy t[F#m]rain[A][E][F#m][D][E]
+
+Verse:
+I've li[A]stened to preach[E/A]ers,[D/A]    I've li[A]stened to f[A]ools[E/A][D/A][A]
+I've wa[A]tched all the [E/A]dropouts[D/A],  who m[A]ake their own r[A]ules[E/A][D/A][A]
+One p[A]erson condit[E/A]ione[D/A]d,  to r[A]ule and cont[A]rol [E/A][D/A][A]
+The m[A]edia s[E/A]ells it,[D/A]   and y[A]ou live the r[A]ole[E/A][D/A][A]
+Chorus:
+[F#m]Mental wounds still sc[D]reaming, d[F#m]riving me ins[D]ane
+I'm g[A]oing off the r[E]ails on a crazy t[F#m]rain
+I'm g[A]oing off the r[E]ails on a crazy t[F#m]rain[A][E][F#m][D][E]
+
+Bridge:
+[F#m]  I know t[A]hat thi[E]ngs, are going w[F#m]rong for me[D][E]
+[F#m]  You gotta l[A]isten [E]to my w[F#m]ords  Y[D]eh-h[E]
+
+  [solo:] 
+[F#m][D][Bm][F#m]
+[F#m][D][Bm][F#m]
+[F#m][D][Bm][F#m]
+[F#m][D][Bm][F#m]
+
+{comment: Interlude:}
+[F#m]
+[F#m]
+[F#m]
+[F#m]
+
+[D][E][A][E/A][D/A][A]
+[D][E][A][E/A][D/A][A]
+
+Verse:
+He[A]irs of a c[E/A]old war,[D/A]     that's w[A]hat we've be[A]come[E/A][D/A][A]
+Inh[A]eriting tr[E/A]oubles,[D/A]     I'm me[A]ntally n[A]umb[E/A][D/A][A]
+C[A]razy,   [E/A]    [D/A] I j[A]ust cannot b[A]ear [E/A]    [D/A][A]
+I'm li[A]ving with s[E/A]omethin[D/A]g, that ju[A]st isn't f[A]air[E/A]  [D/A][A]
+
+Verse:
+[F#m]Mental wounds not [D]healing,  [F#m]who and what's to bl[D]ame?
+I'm [A]going off the [E]rails on a crazy t[F#m]rain
+I'm [A]going off the [E]rails on a crazy t[F#m]rain[A][E][F#m][D][E]
+
+Outro:
+[F#m][A][E][F#m][D][E]
+[F#m][A][E/A][D/A][A]
+

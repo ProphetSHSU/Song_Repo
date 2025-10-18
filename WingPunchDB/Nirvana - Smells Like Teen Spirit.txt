@@ -1,0 +1,141 @@
+{title:Smells Like Teen Spirit}
+{artist:Nirvana}
+{key:Fm}
+{duration:4:38}
+{tempo:117}
+{color:Y}
+
+{comment: Capo 0, solo thingy}
+
+Intro:
+{c: chicka chicka}
+{c: first two clean}
+[Fm][Bbm][Ab][Db]
+[Fm][Bbm][Ab][Db]
+{c: second four distorted}
+[Fm][Bbm][Ab][Db]
+[Fm][Bbm][Ab][Db]
+
+[Fm][Bbm][Ab][Db]
+[Fm][Bbm][Ab][Db]
+
+{c: ting tings}
+[Fm][Bbm][Ab][Db]
+[Fm][Bbm][Ab][Db] 
+
+Verse:
+[Fm]  Load u[Bbm]p  on gun[Ab]s
+Br[Db]ing your frien[Fm]ds 
+It's fun[Bbm] to lo[Ab]se and t[Db]o prete[Fm]nd 
+She's o[Bbm]ver-bored[Ab]  and self[Db]assur[Fm]ed
+Oh n[Bbm]o  I kn[Ab]ow, a dir[Db]ty wo[Fm]rd
+
+{c: ting ting tingting ting}
+Pre-Chorus:
+Hell[Bbm]o, hell[Ab]o, hell[Db]o, how lo[Fm]w
+Hell[Bbm]o, hell[Ab]o, hell[Db]o, how lo[Fm]w
+Hell[Bbm]o, hell[Ab]o, hell[Db]o, how lo[Fm]w
+Hell[Bbm]o, hell[Ab]o, hell[Db]o
+
+Chorus:
+{c: chicka chicka}
+With the lig[Fm]hts out,[Bbm]   
+it's less dan[Ab]gerous[Db]
+Here we ar[Fm]e now,[Bbm]   
+entertain[Ab]  us[Db]
+I feel stu[Fm]pid[Bbm]   
+and conta[Ab]gious[Db]
+Here we ar[Fm]e now,[Bbm]   
+entertain[Ab]  us[Db]
+A mulat[Fm]to,[Bbm]   an Albi[Ab]no[Db]
+A mosqui[Fm]to,[Bbm]   my libi[Ab]do,[Db]yeah
+
+Bridge:
+[Fm]   [Gb]  Hey,[Fm]   [Bbm]    
+[Fm]   [Gb]  yay[Fm][Bbm]
+
+Intrelude:
+[Fm] [Bbm][Ab][Db]
+[Fm][Bbm][Ab][Db]
+
+{c: ting ting twice instrumental}
+Verse:
+[Fm]  I'm wor[Bbm]se at wh[Ab]at 
+I[Db]  do be[Fm]st
+And fo[Bbm]r  this gi[Ab]ft, 
+I fe[Db]el bles[Fm]sed 
+Our lit[Bbm]tle group[Ab]  
+has al[Db]ways been[Fm]  
+And al[Bbm]ways will[Ab]  
+unt[Db]il the en[Fm]d
+
+Pre-Chorus:
+{c: ting ting tingting ting}
+Hell[Bbm]o, hell[Ab]o, hell[Db]o, how lo[Fm]w
+Hell[Bbm]o, hell[Ab]o, hell[Db]o, how lo[Fm]w
+Hell[Bbm]o, hell[Ab]o, hell[Db]o, how lo[Fm]w
+Hell[Bbm]o, hell[Ab]o, hello[Db]
+
+Chorus:
+{c: chicka chicka}
+With the lig[Fm]hts out,[Bbm]   
+it's less dan[Ab]gerous[Db]
+Here we ar[Fm]e now,[Bbm]   
+entertain[Ab]  us[Db]
+I feel stu[Fm]pid[Bbm]   
+and conta[Ab]gious[Db]
+Here we ar[Fm]e now,[Bbm]   
+entertain[Ab]  us[Db]
+A mulat[Fm]to,[Bbm]   an Albi[Ab]no[Db]
+A mosqui[Fm]to,[Bbm]   my libi[Ab]do,[Db]yeah
+
+Bridge:
+[Fm]   [Gb]  Hey,[Fm]   [Bbm]    
+[Fm]   [Gb]  yay[Fm][Bbm]
+
+Solo:
+{c: just once through the first part!}
+[Fm][Bbm][Ab][Db][Fm][Bbm][Ab][Db]
+[Fm][Bbm][Ab][Db][Fm][Bbm][Ab][Db]
+
+Intrelude:
+{c: long hold} 
+[Fm][Bbm][Ab][Db][Fm][Bbm][Ab][Db]
+
+Verse:
+{c: acapella - drums bass only}
+[Fm]  And I[Bbm]   forge[Ab]t 
+just[Db]  why I tas[Fm]te
+Oh ye[Bbm]ah, I gue[Ab]ss 
+it mak[Db]es me smi[Fm]le
+I fou[Bbm]nd it hard,[Ab]  
+it's ha[Db]rd to fi[Fm]nd
+Oh we[Bbm]ll, whate[Ab]ver, 
+ne[Db]vermi[Fm]nd
+
+Pre-Chorus:
+{c: ting ting tingting ting}
+Hell[Bbm]o, hell[Ab]o, hell[Db]o, how lo[Fm]w
+Hell[Bbm]o, hell[Ab]o, hell[Db]o, how lo[Fm]w
+Hell[Bbm]o, hell[Ab]o, hell[Db]o, how lo[Fm]w
+Hell[Bbm]o, hell[Ab]o, hello[Db]
+
+Chorus:
+{c: chicka chicka}
+With the lights[Fm]  out,[Bbm]   
+it's less dan[Ab]gerous[Db]
+Here we are[Fm]  now,[Bbm]   
+entertain[Ab]  us[Db]
+I feel stu[Fm]pid[Bbm]   
+and conta[Ab]gious[Db]
+Here we are[Fm]  now,[Bbm]   
+entertain[Ab]  us[Db]
+A mulat[Fm]to,[Bbm]   an Albi[Ab]no[Db]
+A mosqui[Fm]to,[Bbm]   my libi[Ab]do,[Db]
+
+Outro:
+A deni[Fm]al,[Bbm]   A deni[Ab]al,[Db]  
+A deni[Fm]al,[Bbm]   A deni[Ab]al,[Db]  
+A deni[Fm]al,[Bbm].  A deni[Ab]al,[Db]  
+A deni[Fm]al,[Bbm]   A deni[Ab]al,[Db]  
+A deni[Fm]al

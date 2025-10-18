@@ -1,0 +1,73 @@
+{title:Small Town}
+{artist:John Mellencamp}
+{key:B major}
+{duration:3:41}
+{tempo:123}
+{color:P}
+
+{comment: Capo 4}
+
+Intro:
+[G][D][C][D]
+[G][D][C][D]
+[G][D][C][D]
+[G][D][C][D]
+
+Verse 1:
+
+[G] Well I was [D]born in a s[C]mall town[D]
+[G] And I l[D]ive in a[C] small town[D]
+[G] Probly [D]die in a [Em]small town
+ Oh, those s[Am]mall communiti[D]es
+
+Verse 2:
+
+[G] All my [D]friends are so [C]small town[D]
+[G] My parents l[D]ive in the [C]same small town[D]
+[G] My [D]job is so [Em]small town
+ Provides l[Am]ittle opportunit[D]y
+
+[G][D][C][D]
+[G][D][C][D]
+
+Verse 3:
+
+[G] Educated [D]in a [C]small town[D]
+[G] Taught the fear of j[D]esus in a s[C]mall town[D]
+[G] Used to day[D]dream i[Em]n that small town
+ A[Am]nother boring romantic thats m[D]e
+
+Verse 4:
+
+ But Ive s[G]een it a[D]ll in a s[C]mall town[D]
+[G] Had myself a [D]ball in a [C]small town[D]
+[G] Married an [D]l.a. doll and brought her [Em]to this small town
+ Now shes s[Am]mall town just like m[G]e
+
+Bridge:
+ No I [C]cannot f[G]orget where it [C]is that I come f[G]rom
+ I can[C]not forget the p[G]eople who l[D]ove me
+ Yeah, I can [C]be my[G]self here [C]in this small [G]town
+ And [C]people let me [G]be just what I w[D]ant to be
+
+[G][D][C][D]
+[G][D][C][D]
+
+ [Am]   [Am G]   [C]   [G]
+ [Am]   [Am G]   [C]   [G]
+ [Am]   [Am G]   [C]   [G]
+ [G]    [G]
+ [C]
+
+Verse 5:
+[G] Got nothing [D]against a [C]big town[D]
+[G] Still hayseed en[D]ough to say l[C]ook whos in the big town[D]
+[G] But my [D]bed is in a [Em]small town
+ Oh, and thats [Am]good enough for m[D]e
+
+Verse 6:
+
+[G] Well I was [D]born in a [C]small town[D]
+[G] And I can [D]breathe in a [C]small town[D]
+[G] Gonna [D]die in this [Em]small town
+ And thats [Am]probly where theyll bury m[D]e

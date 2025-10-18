@@ -1,0 +1,93 @@
+{title:Old Man}
+{artist:Neil Young}
+{key:E minor}
+{duration:3:23}
+{tempo:141}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[Dm9]
+
+[D] [Dsus][D]
+
+Refrain:
+
+[Dm9]Old man look at my life,
+I'm a lot like [D]you we[Dsus]re.[D]
+[Dm9]Old man look at my life
+I'm a lot like [D]you were.
+
+Instrumental:
+
+[F][C][G]
+
+[D] [F][C][F]
+
+Verse:
+[D]Old man look at[F]my life,
+[C]Twenty four
+[G]And there's so much more
+[D]Live alone in a par[F]adise
+[C]That makes me think of t[F]wo.
+
+[D]Love lost, such a c[F]ost,
+[C]Give me things
+[G]That don't get lost.
+[D]Like a coin that won't g[C]et tossed
+[F]Rolling home to[G]you.
+
+Instrumental:
+
+[D][Am7][Em7][G]
+
+Chorus:
+[D]Old man take a look at my life
+[Am7]I'm a lot like [Em7]you[G]
+[D]I need someone to love me
+[Am7]The whole day through[Em7][G]
+[D]Ah, one look in my eyes
+[Am7]And you can tell that'[Em7]s true.[G]
+
+[D][F][C][G]
+
+[D][F][C][F]
+
+Verse:
+[D]Lullabies, look in your eye[F]s,
+[C]Run around the same old tow[G]n.
+[D]Doesn't mean that much to[F]me
+[C]To mean that much to yo[F]u.
+
+[D]I've been first and [F]last
+[C]Look at how the time goes p[G]ast.
+[D]But I'm all alone at la[C]st.
+[F]Rolling home to y[G]ou.
+
+[D][Am7][Em7][G]
+
+Chorus:
+[D]Old man take a look at my life
+[Am7]I'm a lot like [Em7]you[G]
+[D]I need someone to love me
+[Am7]The whole day through[Em7][G]
+[D]Ah, one look in my eyes
+[Am7]And you can tell that'[Em7]s true.[G]
+
+Instrumental:
+
+[Dm9] [D][Dsus][D]
+
+Refrain:
+
+[Dm9]Old man look at my life,
+I'm a lot like [D]you were.[Dsus][D]
+[Dm9]Old man look at my life,
+I'm a lot like you [D]were.
+
+Instrumental:
+
+[F][C][G]
+
+[D]

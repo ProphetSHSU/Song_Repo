@@ -1,0 +1,93 @@
+{title:Learning to Fly}
+{artist:Tom Petty}
+{key:C major}
+{duration:4:02}
+{tempo:117}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[F][C][Am][G]
+[F][C][Am][G]
+[F][C][Am][G]
+[F][C][Am][G]
+
+Verse:
+Well I [F]started [C]out,[Am][G]
+Down a [F]dirty [C]road.[Am][G]
+[F]Started [C]out,[Am][G]
+[F]All a[C]lone.[Am][G]
+
+Verse:
+And the [F]sun went [C]down,[Am][G]
+as I [F]crossed the [C]hill.[Am][G]
+And the [F]town lit [C]up, [Am][G]
+the [F]world got [C]still.[Am][G]
+
+Chorus:
+I'm [F]learning to [C]fly,[Am][G]
+but I [F]aint got [C]wings.[Am][G]
+[F]coming [C]down,[Am][G]
+is the [F]hardest [C]thing.[Am][G]
+
+Verse:
+Well the "[F]Good old [C]days[Am]"[G]
+May [F]not re[C]turn[Am].[G]
+And the [F]rocks might [C]melt[Am],[G]
+and the [F]sea may bu[C]rn.[Am][G]
+
+Chorus:
+I'm [F]learning to [C]fly,[Am][G]
+but I [F]aint got [C]wings.[Am][G]
+[F]coming [C]down,[Am][G]
+is the [F]hardest [C]thing.[Am][G]
+
+Short Solo:
+[G]
+
+[F][C][Am][G]
+[F][C][Am][G]
+[F][C][Am][G]
+[F][C][Am][G]
+
+Verse:
+Well s[F]ome say [C]life[Am],[G]
+will b[F]eat you do[C]wn.[Am][G]
+[F]Break your h[C]eart[Am],[G]
+[F]steal your [C]crow[Am]n.[G]
+
+Verse:
+So [F]start it [C]out,[Am][G]
+for [F]God knows [C]wher[Am]e.[G]
+I [F]guess I'll [C]know[Am],[G]
+when [F]I get th[C]ere.[Am][G]
+
+Chorus:
+I'm [F]learning to [C]fly,[Am][G]
+A[F]round the [C]clouds,[Am][G]
+[F]What goes [C]up,[Am][G]
+[F]Must come [C]down.[Am][G]
+
+Instrumental:
+[G]
+
+[F][C][Am][G]
+[F][C][Am][G]
+[F][C][Am][G]
+[F][C][Am][G]
+
+Chorus:
+I'm [F]learning to [C]fly,(l[Am]earning to [G]fly)
+but I [F]aint got [C]wings.[Am][G]
+[F]coming [C]down,[Am][G]
+is the [F]hardest [C]thing.[Am][G]
+
+I'm [F]learning to [C]fly,(l[Am]earning to [G]fly)
+A[F]round the [C]clouds,[Am][G]
+[F]What goes [C]up,([Am]learning to [G]fly)
+[F]Must come [C]down.[Am][G]
+
+Outro:
+I'm [F]learning to [C]fly,(l[Am]earning to f[G]ly) [F]            [C]     ([Am]learning to [G]fly)
+I'm [F]learning to [C]fly,(l[Am]earnin[G]g to fly)[F]            [C]      [Am](learning to[G]fly)

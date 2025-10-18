@@ -1,0 +1,63 @@
+{title:There She Goes}
+{artist:The La's}
+{key:G major}
+{duration:2:42}
+{tempo:123}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G/F#][G][D][C]
+[G/F#][G][D][C]
+[G/F#][G][D][C]
+[Am][G][C][D]
+
+Chorus:
+[G]There [D]she g[C]oes
+[G]There [D]she g[C]oes again
+[G]Racing [D]through my b[C]rain
+
+Hook:
+[Am]And I just c[G]an't cont[C]ain
+[Am]This feeling t[G]hat rem[C]ains[D]
+
+Chorus:
+[G]There [D]she g[C]oes
+[G]There [D]she g[C]oes again
+[G]Pulsing t[D]hrough my v[C]ein
+
+Hook:
+[Am]And I just c[G]an't con[C]tain
+[Am]This feeling t[G]hat rem[C]ains[D]
+
+Break:
+[G/F#][G][D][C]
+[G/F#][G][D][C]
+[G/F#][G][D][C]
+[Am][G][C]
+[Am][G][C][D]
+
+Chorus:
+[Em]There she [C]goes
+[Em]There she [C]goes again
+She c[D]alls my n[G]ame, p[D]ulls my t[Cadd9]rain
+[D]No one e[G]lse could h[D]eal my p[C]ain
+
+Hook:
+[Am]And I just can't cont[Em]ain
+This f[C]eelin' that rema[D]ins
+
+Chorus:
+[G]There [D]she g[C]oes
+[G]There [D]she g[C]oes again
+[G]Chasin[D]g dow[C]n my lane
+
+Hook:
+[Am]And I just c[G]an't cont[C]ain
+[Am]This feelin' t[G]hat rem[C]ains[D]
+
+Outro:
+[G]There [D]she g[C]oes (There she goes again)
+[G]There [D]she g[C]oes (There she goes again)
+[G]There [D]she g[C]oes (There she goes again)

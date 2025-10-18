@@ -1,0 +1,72 @@
+{title:My Hero}
+{artist:Foo Fighters}
+{key:A major}
+{duration:4:20}
+{tempo:77}
+{color:P}
+
+{comment: Capo 4}
+
+Intro:
+[C][Am]
+
+[C][Am]
+
+[C][Am]
+
+[C][Am]
+
+[C][Am]
+
+[C][Am]
+
+[Dm][F]
+
+Verse:
+[C]Too alarmi[Am]ng now, t[C]o talk a[Am]bout
+[C]Take your pi[Am]ctures down, a[C]nd shake it [Am]out
+[C]Truth or cons[Am]equence, say[C] it alo[Am]ud
+[C]Use that evid[Am]ence, race[C] it arou[Am]nd
+
+Chorus:
+[F]There goes my hero
+Watch him as he go[C]es
+[F]There goes my hero
+He's ordinar[C]y
+
+Post-Chorus:
+[Dm][F]
+
+Verse:
+[C]Don't the [Am]best of them, b[C]leed it ou[Am]t
+[C]While the [Am]rest of them[C], peter ou[Am]t
+[C]Truth or [Am]consequence,[C] say it al[Am]oud
+[C]Use that e[Am]vidence, [C]race it arou[Am]nd
+
+Chorus:
+[F]There goes my hero
+Watch him as he go[C]es
+[F]There goes my hero
+He's ordinar[C]y
+
+Pre-Chorus:
+[Dm][F]
+
+Bridge:
+[C][Am]
+
+(Throughout all instrumental part)
+
+[C]Kudos my [Am]hero, l[C]eaving all the b[Am]est
+[C]You know my [Am]hero, the[C] one that's [Am]on
+
+Chorus:
+[F]There goes my hero
+Watch him as he go[C]es
+[F]There goes my hero
+He's ordinar[C]y
+
+[F]There goes my hero
+Watch him as he go[C]es
+[F]There goes my hero
+He's ordinar[C]y

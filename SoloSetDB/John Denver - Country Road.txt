@@ -1,0 +1,39 @@
+{title:Country Road}
+{artist:John Denver}
+{key:A major}
+{duration:3:10}
+{tempo:82}
+{color:P}
+
+{comment: Capo 2}
+
+Verse:
+ [G]Almost Heaven; [Em]West Virginia, B[D]lue Ridge Mountains, Shenan[C]doah River[G].
+ [G]Life is old there, ol[Em]der than the trees, youn[D]ger than the mountains,
+Gr[C]owin' like a br[G]eeze.
+
+Chorus:
+Country R[G]oads, take me h[D]ome, to the p[Em]lace, I bel[C]ong,
+West Virg[G]inia, mountain m[D]ama, take me h[C]ome, country r[G]oads.
+
+Verse:
+[G] All my memories[Em] gather round her,[D] miner's lady, str[C]anger to blue w[G]ater.
+[G] Dark and dusty, p[Em]ainted on the sky, m[D]isty taste of moonshine,
+Te[C]ardrop in my [G]eye.
+
+Chorus:
+Country R[G]oads, take me h[D]ome, to the p[Em]lace, I bel[C]ong,
+West Virg[G]inia, mountain m[D]ama, take me h[C]ome, country r[G]oads.
+
+Bridge:
+ [Em]  I hear her vo[D]ice in the mor[G]ning hour she ca[G]lls me,
+The r[C]adio remi[G]nds me of my ho[D]me far away.[D]
+And d[Em]riving down the ro[F]ad I get a fe[C]eling
+That I [G]should have been home [D]yesterday, yesterd[D7]ay.
+
+Chorus:
+Country R[G]oads, take me h[D]ome, to the p[Em]lace, I bel[C]ong,
+West Virg[G]inia, mountain m[D]ama, take me h[C]ome, country r[G]oads.
+Country R[G]oads, take me h[D]ome, to the p[Em]lace, I bel[C]ong,
+West Virg[G]inia, mountain m[D]ama, take me h[C]ome, country r[G]oads.
+Take me h[D]ome, country r[G]oads; take me h[D]ome, down country r[G]oads

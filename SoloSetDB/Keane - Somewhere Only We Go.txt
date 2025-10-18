@@ -1,0 +1,72 @@
+{title:Somewhere Only We Go}
+{artist:Keane}
+{key:A major}
+{duration:3:59}
+{tempo:172}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[A][C#m][Bm][E]
+[A][C#m][Bm][E]
+
+Verse:
+[A]I walked across [C#m]an empty land
+[Bm]I knew the pathway like the [D]back of my [E]hand
+[A]I felt the earth [C#m]beneath my feet
+[Bm]Sat by the river, and it [D]made me com[E]plete
+
+Pre-Chorus:
+[F#m]Oh, simple thing, [C#m]where have you gone?
+[Bm]I'm getting old and I need [D]something to re[E]ly on
+[F#m]So tell me when [C#m]you're gonna let me in
+[Bm]I'm getting tired and I [D]need somewhere to be[E]gin
+
+Verse:
+[A]I came across a [C#m]fallen tree
+[Bm]I felt the branches of it [D]looking at [E]me
+[A]Is this the place [C#m]we used to love?
+[Bm]Is this the place that I've been [D]dreaming [E]of?
+
+Pre-Chorus:
+[F#m]Oh, simple thing, [C#m]where have you gone?
+[Bm]I'm getting old and I need [D]something to re[E]ly on
+[F#m]So tell me when [C#m]you're gonna let me in
+I[Bm]'m getting tired and I need [D]somewhere to be[E]gin
+
+Chorus:
+[D]And if you have a [A]minute, why don't [F#m]we g[E]o
+[D]Talk about it [A]somewhere only [F#m]we k[E]now?
+[D]This could be the [A]end of every[F#m]thing
+[Bm]So why don't we go
+[C#m]Somewhere only we know?
+[C#m]Somewhere only we know? (pause)
+
+Pre-Chorus:
+[F#m]Oh, simple thing, [C#m]where have you gone?
+[Bm]I'm getting old and I need [D]something to re[E]ly on
+[F#m]So tell me when [C#m]you're gonna let me in
+[Bm]I'm getting tired and I need [D]somewhere to be[E]gin
+
+Chorus:
+[D]And if you have a [A]minute, why don't [F#m]we g[E]o
+[D]Talk about it [A]somewhere only [F#m]we k[E]now?
+[D]This could be the [A]end of every[F#m]thing
+[Bm]So why don't we go?
+[C#m]So why don't we go?
+
+{comment: Ooh, aah over Instrumental}
+[Bm][A][C#m]
+[Bm][A][C#m]
+
+Outro:
+[Bm]This could be the [A]end of every[E]thing
+[Bm]So why don't we go
+[C#m]Somewhere only [Bm]we know?
+
+[C#m]Somewhere only [Bm]we know
+[C#m]Somewhere only [Bm]we know[A]
+
+[C#m]Somewhere only [Bm]we know
+[C#m]Somewhere only [Bm]we know[A]

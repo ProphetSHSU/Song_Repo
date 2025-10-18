@@ -1,0 +1,69 @@
+{title:Paranoid}
+{artist:Black Sabbath}
+{key:Em}
+{duration:2:48}
+{tempo:164}
+{color:P}
+
+Intro:
+[Em]
+
+Verse:
+[Em]Finished with my woman 'cause she
+[D]Couldn't help me [G]with [D]my [Em]mind
+People think I'm insane because
+[D]I am frowning [G]all [D]the [Em]time
+
+Break:
+[Em][C][D][Em][Em]
+[C] [D][Em]
+
+Verse:
+[Em]All day long I think of things but
+[D]Nothing seems to [G]sa[D]tis[Em]fy
+Think I'll lose my mind if I don't
+[D]Find something to [G]pa[D]ci[Em]fy
+
+Bridge:
+[Em]  Can you help me[D]occupy my brain?
+[Em]  Oh [D]yeah
+
+Main Riff:
+[Em][D][G][D][Em][Em]
+[D] [G][D][Em]
+
+Verse:
+[Em]I need someone to show me the
+[D]Things in life that [G]I [D]can't [Em]find
+I can't see the things that make true
+[D]Happiness, I [G]must [D]be [Em]blind
+
+Guitar Solo:
+[Em][D][G][D][Em][Em]
+[D][G][D][Em][Em][D]
+[G] [D][Em][Em][D][G][D][Em]
+
+Main Riff:
+[Em][D][G][D][Em][Em]
+[D] [G][D][Em]
+
+Verse:
+[Em]Make
+a joke and I will sigh and
+[D]You will laugh and [G]I [D]will [Em]cry
+Happiness I cannot feel and
+[D]Love to me is [G]so [D]un[Em]real
+
+Break:
+[Em][C][D][Em][Em]
+[C] [D][Em]
+
+Verse:
+[Em]And so as you hear these words
+Tell[D]ing you now [G]of [D]my [Em]state
+I tell you to enjoy life I
+[D]Wish I could but [G]it's [D]too [Em]late
+
+Outro:
+[Em][D][G][D][Em][Em]
+[D][G][D][Em]

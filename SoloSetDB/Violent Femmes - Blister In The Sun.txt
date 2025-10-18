@@ -1,0 +1,98 @@
+{title:Blister In The Sun}
+{artist:Violent Femmes}
+{key:C}
+{Duration:02:28}
+{tempo:97}
+
+{c: chords}
+
+Intro:
+[G C G C G]
+[G C G C G]
+
+ 
+ 
+Main Theme:
+[G C G C G] 
+[G C G C G] 
+
+ 
+ 
+Verse 1:
+[G]When I'm out [C]walking, [G]I strut my [C]stuff
+[G]Yeah, and I'm so strung out
+I'm high as a [C]kite, [G]I just [C]might
+[G]Stop to check you out
+
+ 
+ 
+Chorus:
+Let me go [Em]on
+Like I [C]blister in the sun
+
+Let me go [Em]on
+Big hands,[C] I know you're the one[D]
+
+ 
+ 
+Verse 2:
+[G]Body and [C]beats, [G]I stain my [C]sheets
+[G]I don't even know why
+My girl[C]friend, [G]she's at the [C]end
+[G]She is starting to cry
+
+Chorus:
+Let me go [Em]on
+Like I [C]blister in the sun
+
+Let me go [Em]on
+Big hands,[C] I know you're the one[D]
+
+ 
+ 
+Interlude:
+[G C G C G] 
+[G C G C G] 
+
+[G C G C G] 
+[G C G C G] 
+
+ 
+ 
+Verse 3:
+{c:SUPER quiet}
+[G]When I'm out [C]walking, [G]I strut my [C]stuff
+[G]Yeah, and I'm so strung out
+I'm high as a [C]kite, [G]I just [C]might
+[G]Stop to check you out
+
+[G]When I'm out [C]walking, [G]I strut my [C]stuff
+[G]Yeah, and I'm so strung out
+I'm high as a [C]kite, [G]I just [C]might
+[G]Stop to check you out
+
+[G]Body and [C]beats, [G]I stain my [C]sheets
+[G]I don't even know why
+My girl[C]friend, [G]she's at the [C]end
+[G]She is starting to cry
+
+[G]When I'm out [C]walking, [G]I strut my [C]stuff
+[G]Yeah, and I'm so strung out
+I'm high as a [C]kite, [G]I just [C]might
+[G]Stop to check you out
+
+ 
+ 
+[Chorus]
+{c:Loud again}
+Let me go [Em]on
+Like I [C]blister in the sun
+
+Let me go [Em]on
+Big hands,[C] I know you're the one[D]
+
+ 
+ 
+Outro:
+[G C G C G] 
+[G C G C G]

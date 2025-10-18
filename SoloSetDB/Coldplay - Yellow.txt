@@ -1,0 +1,70 @@
+{title:Yellow}
+{artist:Coldplay}
+{key:B major}
+{duration:4:27}
+{tempo:173}
+{color:P}
+
+{comment: Capo 4}
+
+Intro:
+[G][D][C][G]
+
+Verse:
+[G]Look at the stars
+Look how they shine for[D]you
+And everything you do,[C]
+Yeah, they were all yellow.
+[G]I came along,
+I wrote a song for[D]you
+And all the things you do,[C]
+And it was called "Yellow."
+[G]So then I took my[D]turn,
+Oh what a thing to have done[C],
+And it was all yellow.[G]
+
+Chorus 1:
+[C]Your skin,
+[Em]Oh yeah, [D]your skin and bones
+[C]Turn [Em]into somet[D]hing beautiful,
+[C]You know,[Em] you know [D]I love you so,
+[C]You know I love you so.
+
+Instrumental:
+[G][D][C][G]
+
+Verse:
+[G]I swam across,
+I jumped across for[D]you,
+Oh, what a thing to do[C]
+
+'Cause you were all yellow.
+[G]I drew a line,
+I drew a line fo[D]r you,
+Oh, what a thing to do[C]
+And it was all yellow.[G]
+
+Chorus 2:
+[C]Your skin,
+[Em]Oh yeah, [D]your skin and bones
+[C]Turn [Em]into somet[D]hing beautiful,
+[C]And you know,
+[Em]For you I [D]bleed myself [C]dry,
+
+For you I bleed myself dry.
+
+Instrumental:
+[G][D][C][G]
+
+Bridge:
+I[G]t's true, look how they shine for y[D]ou,
+Look how they shine for [C]you
+Look how they shine for,
+[G]Look how they shine for [D]you,
+Look how they shine for [C]you,
+Look how they shine.
+
+Outro:
+[G]Look at the stars,
+Look how they shine for[Dm]you
+And all the things you[C]do.

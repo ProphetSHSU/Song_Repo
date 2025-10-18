@@ -1,0 +1,99 @@
+{title:Material Girl}
+{artist:Madonna}
+{key:C}
+{duration:2:43}
+{tempo:165}
+{color:G}
+
+{c: 4 measures drums & bass, + guitar 4 measures, + 2 full riffs}
+
+Intro:
+[C][C][G][C][G]
+[C][C][G][C][G]
+
+Theme:
+{c: Riff from Bb2}
+{c: Riff from Bb3}
+[Csus4][C][Csus4][C]
+[Csus4][C][Csus4][C]
+
+Verse:
+Some boys[C] kiss me
+Some boys hug me
+I think they're ok
+If they don't[C]     give me proper credit
+I just   walk away
+
+They can[C] beg and they can plead
+But they can't see the light
+'Cause the[C] boy with the cold hard cash
+Is always Mister Right
+
+Chorus:
+'Cause we are [F]living[G] in a material world[Am]
+And I[F] am a ma[G]terial girl[Am]  
+You know that we- are [F]living[G] in a material world[Am]
+And I[F] am a ma[G]terial girl
+
+Theme:
+{c: Bb2 riff once}
+[C][C][G][C][G]
+
+Verse:
+Some boys[C]romance
+Some boys slow dance
+That's all right with me
+
+If they can't[C] raise my interest then I
+Have to let them be
+
+{C: twinkle on G3}
+Some boys[C] try and some boys lie but
+I don't let them play
+Only[C] boys who save their pennies
+Make my rainy day
+
+Chorus:
+'Cause we are [F]living[G] in a material world[Am]
+And I[F] am a ma[G]terial girl[Am]  
+You know that we are [F]living[G] in a material world[Am]
+And I[F] am a ma[G]terial girl
+
+{c: DROP OUT ASAP}
+[C][C][G][C][G]
+
+{c: back}
+[C]A Material
+A Material
+A Material
+A Material World
+
+{c: gang vox}
+Bridge:
+Li[C]ving in a material world
+Living in a material world (material)
+Li[C]ving in a material world
+Living in a material world
+
+Verse:
+Boys may[C] come and boys may go
+And that's all right you see
+Experi[C]ence has made me rich
+And now they're after me
+
+Chorus:
+'Cause we are [F]living[G] in a material world[Am]
+And I[F] am a ma[G]terial girl[Am]  
+You know[G] that we are [F]living[G] in a material world[Am]
+And I[F] am a ma[G]terial girl[Am]
+
+[F]Living[G] in a material world[Am]
+And I[F] am a ma[G]terial girl[Am]  
+You know that we are [F]living[G] in a material world[Am]
+And I[F] am a ma[G]terial girl
+
+Theme:
+{c: Bb2 Riff, Bb3 Closing Riff}
+[C][C][G][C][G]
+[C][C][G][C][G]
+

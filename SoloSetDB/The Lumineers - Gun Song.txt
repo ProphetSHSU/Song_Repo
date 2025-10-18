@@ -1,0 +1,53 @@
+{title:Gun Song}
+{artist:The Lumineers}
+{key:G major}
+{duration:3:37}
+{tempo:96}
+{color:P}
+
+{comment: Capo 1}
+
+Intro:
+[G]
+[G]
+[G]
+
+Verse:
+[G]I don't own a [Cadd9]single g[G]un.
+[G]But if I did you'd [Cadd9]be    the [G]one.
+[G]To hold it, aim it, make all the [Em7]bad   [Dsus4]men   [G]run.
+[G]But [D/F#]I don't [Em7]own [Dsus4]a     [Cadd9]sin-  [Dsus4]gle   [G]gun.
+
+Break:
+[G]
+[G]
+
+Verse:
+And I don't have a sweetheart yet.
+But if I did I'd break my neck.
+To please her, make her wanna stay, in my arms she'd rest.
+But I don't have a sweetheart yet.
+
+Bridge:
+[G]I can't believe what I found in daddy's sock drawer, sock drawer today.
+[G]It was a pistol, a Smith & Wesson, holy holy shit.
+[G]La la la la la
+[G]La la la la la
+[G]La la la la la
+[G]La la la la la
+[G]La la la la la
+[G]La la la la la
+
+Break:
+[G]
+
+Verse:
+The things I knew when I was young.
+Some were true and some were wrong.
+And one day I'll pray I'll be more than my fathers son.
+But I don't own a single gun.
+
+End:
+[G]La la la la la
+[G]La la la la la
+

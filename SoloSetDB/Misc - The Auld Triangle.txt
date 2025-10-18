@@ -1,0 +1,47 @@
+{title:The Auld Triangle}
+{artist:Misc}
+{key:}
+{Duration:4:30}
+{tempo:135}
+{color:P}
+
+{comment: Capo 0}
+
+{comment: G, G7, G? 030030 - Cadd9, Am, D}
+
+Verse:
+A[G] hungry feeling Came[Bm]o'er me stealing
+And the [C]mice were [G]squealing In my [A]prison [C]cell
+And that[G] Auld Triangle went [Bm]jingle-jangle
+All a[C]long the [G]banks of the R[D]oyal Ca[G]nal
+
+Verse:
+To be[G]gin the morning the [Bm]screw bawling
+"Get [C]up out of [G]bed, boy! And [A]Clean up your [C]cell!"
+And that [G]Auld Triangle went j[Bm]ingle-jangle
+All a[C]long the [G]banks of the R[D]oyal Ca[G]nal
+
+Verse:
+On a [G]fine Spring evening, The [Bm]lag lay dreaming
+And the [C]sea-gulls [G]squealing [A]High above the [C]wall
+And that[G] Auld Triangle went [Bm]jingle-jangle
+All a[C]long the [G]banks of the R[D]oyal Ca[G]nal
+
+Verse:
+Oh! The [G]day was dying And the [Bm]wind was sighing
+As I [C]lay there [G]crying In [A]my prison [C]cell
+And that [G]Auld Triangle went j[Bm]ingle-jangle
+All a[C]long the [G]banks of the R[D]oyal Ca[G]nal
+
+Verse:
+Oh! The [G]screw was peeping and the [Bm]lag was sleeping
+As he [C]lay there [G]weeping, For [A]his poor [C]gal
+And that[G] Auld Triangle went [Bm]jingle-jangle
+All a[C]long the [G]banks of the R[D]oyal Ca[G]nal
+
+Verse:
+In the [G]female prison There are [Bm]seventy women
+And I [C]wish to god it was with [A]them That I did [C]dwell
+And that [G]Auld Triangle went j[Bm]ingle-jangle
+All a[C]long the [G]banks of the R[D]oyal Ca[G]nal x2
+

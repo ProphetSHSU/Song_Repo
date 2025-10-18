@@ -1,0 +1,54 @@
+{title:I Miss You}
+{artist:Blink 182}
+{key:B major}
+{duration:3:48}
+{tempo:110}
+{color:P}
+
+{comment: Capo 4}
+
+Intro:
+[G][G/F#][Em][D]
+
+[G][G/F#][Em][D]
+
+Verse:
+He[G]llo there, the [G/F#]angel from my nightmare
+The [Em]shadow in the background of the [D]morgue
+The unsuspecting [G]victim of [G/F#]darkness in the valley
+We can [Em]live like Jack and Sally if we [D]want
+Where you can always [G]find me
+We'll have [G/F#]Halloween on Christmas
+And [Em]in the night we'll wish this never [D]ends
+We'll wish this never e[G]nds
+
+Pre-Chorus:
+[G]   [Gmaj9/F#]          [Em]    [D]    [C]   ([Cm]I miss you)
+[G]   [Gmaj9/F#]          [Em]    [D]    [C]   ([Cm]I miss you)
+
+Verse:
+Where [G]are you and [G/F#]I'm so sorry
+I [Em]cannot sleep I cannot dream to[D]night
+I need somebody and [G]always
+This [G/F#]sick strange darkness
+Comes [Em]creeping on so haunting every [D]time
+And as I stared I [G]counted
+[G/F#]Webs from all the spiders
+[Em]Catching things and eating their in[D]sides
+Like indecision to [G]call you
+and [G/F#]hear your voice of treason
+Will [Em]you come home and stop this pain to[D]night
+
+Stop this pain tonight
+
+Chorus:
+[G]Don't waste your t[G/F#]ime  on   m[Em]e you're alr[D]eady
+The [C]voice inside my [Cm]head (I miss you, miss you)
+[G]Don't waste your t[G/F#]ime  on   m[Em]e you're alr[D]eady
+The [C]voice inside my [Cm]head (I miss you, miss you)
+
+[G]Don't waste your t[G/F#]ime  on   m[Em]e you're alr[D]eady
+The [C]voice inside my [Cm]head (I miss you, miss you)
+[G]Don't waste your t[G/F#]ime  on   m[Em]e you're alr[D]eady
+The [C]voice inside my [Cm]head (I miss you, miss you)
+

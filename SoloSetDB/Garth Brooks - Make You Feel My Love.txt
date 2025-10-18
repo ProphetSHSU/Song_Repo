@@ -1,0 +1,50 @@
+{title:Make You Feel My Love}
+{artist:Garth Brooks}
+{key:D major}
+{duration:3:54}
+{tempo:76}
+{color:P}
+
+{comment: Capo 1}
+
+Intro:
+[D][A/C#][Am/C][G][Gm]
+
+[D][Bm][Em7][A][A7][D]
+
+Verse:
+[D]When the rain is blowing [A/C#]in your face,
+[Am/C]And the whole world is [G]on your case,
+[Gm/Bb]I could offer you a [D/A]warm em[Bm]brace
+[Em7]To make you [A7]feel my [D]love
+
+[D]When the evening shadows and the [A/C#]stars appear,
+[Am/C]And there is no one to [G]dry your tears,
+[Gm/Bb]I could hold you for a [D/A]million [Bm]years
+[Em7]To make you [A7]feel my l[D]ove
+
+[G]I know you haven't made your [D/F#]mind up yet,
+[F#m]But I would n[G]ever do you w[D]rong.
+[G]I've known it from the moment [D/F#]that we met,
+[Em7]No doubt in my mind where y[A7sus]ou bel[A]ong
+
+[D]I'd go hungry; I'd go [A/C#]black and blue,
+[Am/C]I'd go crawling down the [G]avenue.
+[Gm/Bb]There ain’t nothing that I [D/A]wouldn't d[Bm]o
+[Em7]To make you [A7]feel my l[D]ove
+
+[G]The storms are raging on the [D/F#]rolling sea
+[F#m]Down the h[G]ighway of [D]regret.
+[G]The winds of change are blowin’ [D/F#]wild and free,
+[Em7]But you ain't seen nothing like me [A7sus]yet[A7][A7sus][A7]
+
+[D]There ain’t nothing that I [A/C#]wouldn’t do,
+[Am/C]Go to the ends of the [G]Earth for you,
+[Gm/Bb]Make you happy, make your [D/A]dreams come [Bm]true
+[Em7]To make you [A7]feel my [D]love
+[Em7]To make you [A7]feel my [D]love
+
+Outro:
+[D][A/C#][Am/C][G][Gm]
+
+[D][Bm][Em7][A][A7][D]

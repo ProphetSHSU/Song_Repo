@@ -1,0 +1,44 @@
+{title:Every Woman}
+{artist:Garth Brooks}
+{key:E major}
+{duration:2:55}
+{tempo:73}
+{color:P}
+
+{comment: Capo 0/2kc}
+
+Verse:
+She's sun and [D]rain, She's fire and [G]ice.
+A little [A]crazy but it's [Bm]nice.[A]
+And when [G]she gets mad you [D]best leave her alone.[A]
+
+'Cause she'll [D]rage just like a [G]river,
+then she'[A]ll beg you to for[Bm]give her.[A]
+Oh she's [G]every woman [A]that I've ever [D]known.
+
+Verse:
+She's so New Y[D]ork and then L. A.[G]
+And every [A]town along the [Bm]way.[A]
+And she's [G]every place [D]that I've never been.[A]
+
+She's making [D]Love on rainy nights.[G]
+She's a [A]stroll through [Bm]christmas [A]lights
+And she's [G]everything I [A]want to do again.[D]
+
+Chorus:
+[Bm]It needs no expla[G]nation,
+[Bm]'Cause it all makes perfect [G]sense.
+[D]For when it [A]comes down to tempta[Bm]tion,[A]
+she's on [G]both sides of the [A]fence.
+
+Verse:
+She's any[D]thing but typical,[G]
+She's so [A]unpre[Bm]dicta[A]ble.
+Oh, but [G]even at her worst[D] she ain't that [A]bad.
+
+She's as [D]real as real can [G]be,
+And she's [A]every [Bm]fantas[A]y.
+
+Ending:
+Lord, she's [G]every lover [A]that I've ever [Bm]had.
+And she's [G]every lover [A]that I've never [D]had.

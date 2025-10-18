@@ -1,0 +1,45 @@
+{title:Doctor My Eyes}
+{artist:Jackson Browne}
+{key:F major}
+{duration:3:20}
+{tempo:76}
+{color:P}
+
+{comment: Capo 1}
+
+Intro:
+[E][D/E][A/E][E]
+
+Verse:
+[E]Doctor, my eyes have seen the years
+And the slow [G#m]parade of fears without c[C#m]rying
+Now I w[A]ant to und[E]erstand
+
+I have done all that I could, to see the evil and the good
+without hiding.  You must help me if you can
+
+Chorus:
+[C#m]Doctor, my eyes, t[E]ell me what is wrong
+Was I un[C#m]wise to leave them o[B]pen for so 
+lon[A]g[E][D/E][A/E][E]
+
+Verse:
+[E]'Cause I have wandered through this world
+And as each m[G#m]oment has unfurled,  I've[C#m]been waiting
+to awak[A]en from th[E]ese dreams
+
+People go just where they will, I never noticed them until
+
+I got this feeling, that it's later than it seems
+
+Chorus:
+[C#m]Doctor, my eyes, te[E]ll me what you see
+[C#m]I hear their cries, just say if i[B]t's too late fo[D/E**]r 
+me[A][(E][D/E][A/E][E][repeat)]
+
+Instrumental Break:
+
+Chorus:
+[C#m]Doctor, my eyes c[E]annot see the sky
+[C#m]Is this the prize for having l[B]earned how not to 
+c[A]ry[E][D/E][A/E][E]

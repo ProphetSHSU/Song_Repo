@@ -1,0 +1,52 @@
+{title:Swelling Sea}
+{artist:Tow'rs}
+{key:C major}
+{duration:4:06}
+{tempo:97}
+{color:P}
+
+{comment: Capo 0}
+
+Verse:
+[C]Tell t[Am]he keeper to wai[F]t for me [C]
+[C]The moon… must see [Am]something I do[F]n't see [C]
+[C]I'm hot steel ready for molding, Like the waves we[Am]re meant for folding [F][C]
+
+Chorus:
+[F]I am the swel[C]ling sea [Dm][G]
+[F]You're the moon pulling on[C] me [Dm][G]
+Sayin' all [F]in time, [C]all i[Am]n good time [G]
+[F]All in tim[C]e, all[Am] in go[G]od time[C]
+
+Solo:
+[F][Am][F]
+
+Verse:
+[C]I a[Am]m a pendulum clock tha[F]t swings [C]
+[C]You are[Am] ever so patien[F]t with me [C]
+[C]This surface is covered with craters, Only your white lig[Am]ht can fill [F][C]
+
+Chorus:
+[F]I am the swel[C]ling sea [Dm][G]
+[F]You're the moon pulling o[C]n me [Am][G]
+[F]Sayin' a[C]ll in t[Am]ime, [G]all in [C]good time
+[F]All in t[C]ime, al[Am]l in [G]good ti[C]me
+
+Bridge:
+[Am]Come like some swift st[G]rong tide [C]
+l[F]ike the [C]dawn
+[Am]takes the dar[C]kness from the night [F]
+
+[Am]Come (the swelli[C]ng sea, the mo[F]on pulling on me[C]) like some swift st[G]rong tide [C]
+l[F]ike the [C]dawn
+([F]Sayin' a[C]ll in t[Am]ime, [G]all in your g[C]ood time)
+[Am]takes the dar[C]kness from the night [F]
+
+[Am]Come (the swelli[C]ng sea, the mo[F]on pulling on me[C]) like some swift st[G]rong tide [C]
+l[F]ike the [C]dawn
+([F]Sayin' a[C]ll in t[Am]ime, [G]all in your g[C]ood time)
+[Am]takes the dar[C]kness from the night [F]
+
+Outro:
+[F]Sayin' a[C]ll in t[Am]ime, [G]all in [C]good time
+[F]All in t[C]ime, al[Am]l in [G]good ti[C]me

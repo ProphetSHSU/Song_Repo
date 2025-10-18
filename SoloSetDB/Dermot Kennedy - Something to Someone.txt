@@ -1,0 +1,92 @@
+{title:Something to Someone}
+{artist:Dermot Kennedy}
+{key:C major}
+{duration:3:18}
+{tempo:147}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[C][G][Am][F]
+
+Verse:
+[C]There’s lessons in [G]love sometimes[Am]
+The [F]heart is but a win[C]ding road,[G]
+So this story [Am]goes[F]
+
+Verse:
+[C]I get scared of the [G]dark and I,[Am]
+I [F]never even no[C]ticed rooms[G]
+Were made bright by [Am]you[F]
+
+Pre-Chorus:
+[C]Oh you [G]loved me more than anyone,[Am]
+Yea we were [F]up so high
+[C]We were [G]lost when we were young but,[Am]
+You were [F]mine
+
+Chorus:
+Once upon a [C]time
+You were by my [G]side
+I wish I could’ve [Am]known
+That I should hold on [F]tight
+To every single [C]word
+To every summer [G]night
+I wish I could’ve [Am]known
+That forever was a [F]lie
+
+Post-Chorus:
+[N.C.]But once upon a [C]time
+I was [G]something to [Am]someone[F]
+Once upon a [C]time
+I was [G]something to [Am]someone[F]
+
+Verse:
+[C]See your shape under [G]gold street lights[Am]
+But [F]every time I’m close[C] you move[G]
+And I’m just left with the [Am]truth[F]
+
+Pre-Chorus:
+[C]Oh you [G]loved me more than anyone,[Am]
+Yea we were [F]up so high
+[C]We were [G]lost when we were young but,[Am]
+You were [F]mine
+
+Chorus:
+Once upon a [C]time
+You were by my [G]side
+I wish I could’ve [Am]known
+That I should hold on [F]tight
+To every single [C]word
+To every summer [G]night
+I wish I could’ve [Am]known
+That forever was a [F]lie
+
+Post-Chorus:
+[N.C.]But once upon a [C]time
+I was [G]something to [Am]someone[F]
+Once upon a [C]time
+I was [G]something to [Am]someone[F]
+Something to [C]you[G][Am][F]
+Something to [C]you[G][Am][F]
+
+Chorus:
+Once upon a [C*]time
+You were by my [G*]side
+I wish I could’ve [Am*]known
+That I should hold on [F*]tight
+To every single [C*]word
+To every summer [G*]night
+I wish I could’ve [Am*]known
+That forever was a [F*]lie
+
+Post-Chorus:
+(Palm mute)
+[N.C.]But once upon a [C]time
+I was [G]something to [Am]someone[F]
+Once upon a [C]time
+I was [G]something to [Am]someone[F]
+(No palm mute)
+Something to [C]you[G][Am][F]
+Something to [C]you[G][Am][F]

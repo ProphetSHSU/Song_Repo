@@ -1,0 +1,54 @@
+{title:Come Sail Away}
+{artist:Styx}
+{key:C major}
+{duration:6:05}
+{tempo:148}
+{color:P}
+
+{comment: Capo 0}
+
+[C] [Dm][Em][Dm][C][G]
+[C]I'm [Em]sailing a[Am]way,[Am\G\F]
+I'm sailing away,
+set an open course for the [G]virgin sea
+'Cause [C]I've [Em]got to be [Am]free[Am/G],[F]
+free to face the life that's a[G]head of me
+[Am]On board I'm the captain[G], so climb aboard
+[Am]We'll search for tomorrow[G], on every shore
+And I'll [C]try, [G]oh Lord, I'll [Am]try,[Am\G\F]
+to [G]carry [C]on
+
+[C]C [Dm]Em [Em]   [Dm]   [C]   A[G]m  Am\G\F
+I look to the sea,
+
+reflections in the waves spark my [G]memory
+[C]Some [Em]happy, some [Am]sad,[Am\G\F]
+I think of childhood friends, and the [G]dreams we had
+[Am]We lived happily forever[G], so the story goes
+[Am]But somehow we missed out[G], on the pot of gold
+But we'll [C]try, [G]best that we [Am]can,[Am\G\F]
+to [G]carry [C]on
+
+[C]A gathering o[F]f angels,
+a[G]ppeared above my [F]head
+They [C]sang to me this [F]song of hope,
+and [G]this is what they [F]said, they said
+[C]Come sail away, [F]come sail away,
+come [C]sail away with [F]me, lads
+[C]Come sail away, [F]come sail away,
+come [C]sail away with [F]me
+[C]Come sail away, [F]come sail away,
+come [C]sail away with [F]me, lads
+[C]Come sail away, [F]come sail away,
+come [C]sail away with [F]me
+
+[C]I thought that they wer[F]e angels,
+but [G]much to my sur[F]prise;
+we [C]climbed aboard their [F]starship,
+and [G]headed for the [F]skies
+[C]Come sail away, [F]come sail away,
+come [C]sail away with [F]me, lads
+[C]Come sail away, [F]come sail away,
+come [C]sail away with [F]me[C][F][G][F]
+
+x5

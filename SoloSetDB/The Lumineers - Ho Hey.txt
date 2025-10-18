@@ -1,0 +1,60 @@
+{title:Ho Hey}
+{artist:The Lumineers}
+{key:C major}
+{duration:2:43}
+{tempo:80}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[F/C][C]
+[F/C][C]
+[F/C][C]
+
+Verse:
+[C]I've been trying to do it right[F/C][C]
+[C]I've been living a lonely life[F/C][C]
+[C]I've been sleeping here instead[F/C][C]
+[C]I've been sleeping in my bed[F/C][Am]
+[Am]sleeping i[G]n my bed[F/C][C][F/C][C]
+
+Verse:
+[C]So show me family[F/C][C]
+[C]all the blood that I will bleed[F/C][C]
+[C]I don't know where I belong[F/C][C]
+[C]I don't know where I went wrong[Am]
+[Am]But I can write a[G] song.[F/C][C]
+
+Chorus:
+I belong with [Am]you, you belong with[G] me, you're my sweet[C]heart
+I belong with [Am]you, you belong with[G] me, you're my [F/C]sweet[C]
+
+[F/C][C]
+[F/C][C]
+[F/C][C][F/C]
+
+Verse:
+[C]I don't think you're right for him[F/C][C]
+[C]Think of what it might've been if [F/C]you[C]
+[C]Took a bus to Chinatown[F/C][C]
+[C]I'd be standing on Canal... [Am]   and [G]Bowery[F/C][C]
+[Am]And she'd be standing nex[G]t to me[F/C][C]
+
+Chorus:
+I belong with [Am]you, you belong with[G] me, you're my sweet[C]heart
+I belong with [Am]you, you belong with[G] me, you're my sweet[C]heart
+
+Bridge:
+And lo[F/C]ve, [C]we ne[G]ed it now[C]
+Let's h[F/C]ope [C]for some[Gsus][G]
+Cuz [F/C]oh, [C]we're [G]bleeding out[C]
+
+Chorus:
+I belong with [Am]you, you belong with[G] me, you're my sweet[C]heart
+I belong with [Am]you, you belong with[G] me, you're my [F/C]sweet[C]
+
+Outro:
+[F/C][C]
+[F/C][C]
+[F/C][C]

@@ -1,0 +1,39 @@
+{title:Vagabond}
+{artist:Caamp}
+{key:E major}
+{duration:2:09}
+{tempo:142}
+{color:P}
+
+{comment: Capo 4}
+
+Intro:
+[G]
+
+Verse:
+[G]In the night while my[Cadd9] body sl[G]ept in my bed
+[G]my mind was running through the [Cadd9]woods ins[G]tead
+One h[Cadd9]undred miles an hour in the fast lane
+One hundred miles an hour in my h[G]ead.
+
+[G]Vagabond dreamin takes me th[Cadd9]rough the n[G]ight
+sippin whiskey by the river living [Cadd9]out of s[G]ight
+One h[Cadd9]undred miles an hour in the fast lane
+One hundred miles an hour toward the l[G]ight
+
+See the curve in that r[Cadd9]iver's b[G]end
+I look at you and I [Cadd9]see my fr[G]iend
+[Cadd9]One hundred miles an hour in the fast lane
+One hundred miles an hour till the e[G]nd
+
+Instrumental:
+[G][Cadd9][G]
+
+[G][Cadd9][G]
+
+Outro:
+[G]My heart does beat like a Ch[Cadd9]erokee d[G]rum
+and in the morning when that [Cadd9]sun does c[G]ome
+[Cadd9]One hundred miles an hour in the fast lane
+[Cadd9]One hundred miles an hour in the fast lane
+One hundred miles an hour till I'm d[G]one.

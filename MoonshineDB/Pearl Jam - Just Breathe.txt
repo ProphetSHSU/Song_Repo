@@ -1,0 +1,57 @@
+{title:Just Breathe}
+{artist:Pearl Jam}
+{key:C major}
+{duration:3:53}
+{tempo:106}
+{color:P}
+
+{comment: Capo 0}
+
+Verse:
+[C]Yes, I understand that every life must end, uh[G]-huh
+[C]As we sit alone, I know someday we must go, uh-[G]huh
+[C]Oh I'm a lucky man, to count on both hands the one[G]s I love
+[C]Some folks just have one, yeah, others they've got none,[G]uh-huh
+
+Chorus:
+[Am]Stay with me...
+[F]Lets just breathe...
+
+ [Verse]
+[C][G]
+
+[C]Practiced all my sins, never gonna let me win, [G]uh-huh
+[C]Under everything, just another human being, uh-[G]huh
+[C]I don't wanna hurt, there's so much in this world to make[G]me bleed
+
+Chorus:
+[Am]Stay with me
+You're [F]all I see...
+
+Bridge:
+[G]Did I say that I[Dm]need you?
+[G]Did I say that I [Dm]want you?
+[F]Oh, if I didn[Am]'t, I'm a fool you see
+[Dm]No one knows[C] this more t[G]han me
+[G7]As I come clean...
+
+Verse:
+[C]I wonder everyday, as I look upon your face, uh[G]-huh
+[C]Everything you gave and nothing you would take, [G]oh no
+[Am]Nothing you would take,  [F]everything you gave...
+
+Bridge:
+[G]Did I say that I [Dm]need you?
+[G]Oh, did I say that I[Dm]want you?
+[F]Oh, if I didn't, I'm a[Am]fool you see
+[Dm]No one knows[C] this more t[G]han me
+[G7]And I come clean, ah...
+
+[C][G]
+
+[C][G]
+
+Outro:
+[Am]Nothing you would take, e[F]verything you gave
+[Am]Hold me 'till I die
+[F]Meet you on the other side...

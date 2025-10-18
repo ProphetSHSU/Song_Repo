@@ -1,0 +1,56 @@
+{title:Everything}
+{artist:Michael Buble}
+{key:F♯/G♭ minor}
+{duration:3:32}
+{tempo:123}
+{color:P}
+
+{comment: Capo 0}
+
+Verse:
+You're a [D]falling star[Bm7], You're the g[E7]et away car.
+You're the [G]line in the s[A7sus4]and when I g[D]o too far[A7].
+You're the [D]swimming poo[Bm7]l, on an A[E7]ugust day.
+And You're the [G]perfect [A7sus4]thing to s[D]ay.[A7]
+
+And you p[D]lay it coy[Bm7], but it's kinda c[E7]ute.
+Ah, When you [Gm7]smile at me you k[A7sus4]now exactly wh[D]at you do[A7].
+Baby do[D]n't preten[Bm7]d, that you don't k[E7]now it's true.
+Cause you can [Gm7]see it when I l[A7sus4]ook at yo[D]u.
+
+Chorus:
+And in this [G]cra[A]zy [D]life[Bm], and through these cr[G]az[A]y [D]times
+It's [D7]you, it's y[G]ou, You m[F#7]ake me si[Bm]ng.[A]
+You're every [E7]line, you're every w[Gm7]ord, you're ev[A7sus4]erythin[D]g.
+
+Verse:
+You're a [D]carousel, yo[Bm7]u're a wishing[E7]well,
+And you [G]light me up, [A7sus4]when you r[D]ing my bel[A7]l.
+You're a [D]mystery, you[Bm7]'re from outer sp[E7]ace,
+You're every [G]minute of my [A7sus4]everyda[D]y.[A7]
+
+And I can't [D]believe,[Bm7] uh that I'm your [E7]man,
+And I [Gm7]get to kiss you b[A7sus4]aby just becau[D]se I can.[A7sus4]
+Whatever [D]comes our wa[Bm7]y, ah we'll se[E7]e it through,
+And you k[Gm7]now that's what our [A7sus4]love can do[D].
+
+Chorus:
+And in this [G]cra[A]zy [D]life[Bm], and through these cr[G]az[A]y [D]times
+It's [D7]you, it's y[G]ou, You m[F#7]ake me si[Bm]ng.[A]
+You're every [E7]line, you're every w[Gm7]ord, you're ev[A7sus4]erythin[D]g.
+
+[Interlude
+So  L[D]a  [Bm7]La  [E7]La La [Gm7]La  [A7sus4]La      [D]La
+So  L[D]a  [Bm7]La  [E7]La La [Gm7]La  [A7sus4]La      [D]La
+
+Chorus:
+And in this [A]cra[B]zy [E]life[C#m], and through these cr[A]azy[B] ti[E]mes
+It's [E7]you, it's y[A]ou, You m[G#7]ake me si[C#m]ng.[B]
+You're every [F#7]line, you're every w[Am7]ord, you're everyt[C#m7]hing.[C#m7/B]
+You're ever[F#7]y song
+And I sing along[Am7]
+[B7sus4] 'Cause you're my everything[E]
+
+Outro:
+So  La [E] La[C#m7]     [F#7] La La [Am7] La  [B7sus4]    La  [E]La
+So  La [E] La[C#m7]     [F#7] La La [Am7] La      La   [E]La

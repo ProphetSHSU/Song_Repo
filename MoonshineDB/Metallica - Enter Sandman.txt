@@ -1,0 +1,191 @@
+{title:Enter Sandman}
+{artist:Metallica}
+{key:Em}
+{Duration:05:32}
+{tempo:123}
+
+{c:12 bars intro riff}
+Intro:
+[E5][A5]
+[E5][A#5][A5]
+[E5][A#5][A5]
+[E5][A#5][A5]
+[E5][A#5][A5]
+[E5][A#5][A5]
+[E5][A#5][A5]
+[E5][A#5][A5]
+[E5][A#5][A5]
+[E5][E5][G5][F#5][G5][F#5]
+[E5] [E5][G5][F#5][G5][F#5][E5]
+
+{d_time:0:26} 
+{c:4 measures: (7e - b)}
+{c:4 measures: (2e - b,a# - 3e - Fpc)}
+{c:8 measures: (2e - b,a#,a - 2e - Fpc)}
+{c:4 measures: 3 of (Epc - b,a#,a - e) + 1 of (53/42 thing)}
+{c:4 measures: 3 of (Epc - b,a#,a - e) + 1 of (53/42 thing)}
+
+{d_time:1:13}
+Verse:
+{c:2 measures: (7e - Fpc)}
+{c:1 measures: (7e - Gpc)}
+{c:1 measures: (53/42 thing)}
+
+{c:2 measures: (7e - Fpc)}
+{c:1 measures: (7e - Gpc)}
+{c:1 measures: (53/42 thing)}
+
+[E5]  Say your prayers lit[F5]tle [E5]one
+Don't forget my [F5]son[E5]
+To include every[G5]one.[F#5][G5][F#5][E5]
+[E5]  I tuck you in, warm [F5]within,
+Keep you free from [F5]sin,
+'Till the sandman he [G5]comes,[F#5]    [G5]ah.[F#5]
+
+{d_time:1:28}
+Pre-Chorus:
+{c: G Riff}
+[F#5]Sleep with one eye open,
+[F#5]Gripping your pillow tight.
+
+{d_time:1:36}
+Chorus:
+{c:3 measures: (42 3 42 thing)}
+{c:1 measures: (Epc)}
+
+{c:1 measures: (42 3 42 thing)}
+{c:1 measures: (Epc)}
+
+{c:1 measures: (53/42 thing)}
+
+[F#5]Ex_i[B5]t l[F#5]ight,[B5]
+[F#5]En_t[B5]er [E5]night.
+[F#5]Take[B5]  my [E5]hand,
+[G5]Off to [F#5]never ne[G5]ver [F#5]land.[E5]
+
+{d_time:1:49}
+Break:
+{c:4 measures: 3 of (Epc - b,a#,a - e) + 1 of (53/42 thing)}
+{c:4 measures: 3 of (Epc - b,a#,a - e) + 1 of (53/42 thing)}
+[E5][G5][F#5][G5][F#5][E5]
+
+[E5] [G5][F#5][G5][F#5][E5]
+
+{d_time:2:05}
+Verse:
+{c:2 measures: (7e - Fpc)}
+{c:1 measures: (7e - Gpc)}
+{c:1 measures: (53/42 thing)}
+
+{c:2 measures: (7e - Fpc)}
+{c:1 measures: (7e - Gpc)}
+{c:1 measures: (53/42 thing)}
+[E5]  Something's wrong, shut [F5]the light.
+Heavy thoughts to[F5]night,
+[E5]  And they aren't of snow [G5]whit[F#5]e. [G5][F#5][E5]
+[E5]  Dreams of war, dreams [F5]of [E5]lies,
+Dreams of dragon's [F5]fire,
+And of things that will [G5]bite[F#5]    [G5]yeah![F#5]
+
+{d_time:2:20}
+Pre-Chorus:
+{c: G Riff}
+[F#5]Sleep with one eye open,
+[F#5]Gripping your pillow tight.
+
+{d_time:2:28}
+Chorus:
+{c:3 measures: (42 3 42 thing)}
+{c:1 measures: (Epc)}
+
+{c:1 measures: (42 3 42 thing)}
+{c:1 measures: (Epc)}
+
+{c:1 measures: OTHER (53/42 thing)}
+{c:1 measures: (Epc)}
+[F#5]Ex_i[B5]t l[F#5]ight,[B5]
+[F#5]En_t[B5]er [E5]night.
+[F#5]Take[B5]  my [E5]hand,
+[G5]Off to [F#5]never ne[G5]ver [F#5]land,[E5]ha ha.
+
+{d_time:2:41}
+Solo:
+{c:4 measures: 3 of (Epc - b,a#,a - e) + 1 of (53/42 thing)}
+{c:4 measures: 3 of (Epc - b,a#,a - e) + 1 of (53/42 thing)}
+
+{c:4 measures: (G-Riff)}
+
+{c:3 measures: (42 3 42 thing)}
+{c:1 measures: (Epc)}
+
+{c:1 measures: (42 3 42 thing)}
+{c:1 measures: (Epc)}
+
+{c:1 measures: (Epc staccato hit on 1)}
+[E5][G5][F#5][G5][F#5][E5]
+
+[E5][G5][F#5][G5][F#5][F#5][F#5]
+[B5][F#5][B5][F#5]
+[B5] [E5][F#5][B5][E5]
+
+{d_time:3:20}
+{c:4 measures REST}
+
+{d_time:3:28}
+Break:
+{c:8 measures: (clean E-riff)}
+[E5]Now I lay me down to sleep,
+(Now I lay me down to sleep)
+Pray the Lord my soul to keep,
+(Pray the Lord my soul to keep)
+And if I die before I wake,
+(And if I die before I wake)
+Pray the Lord my soul to take.
+(Pray the Lord my soul to take)
+
+{d_time:3:43}
+{c:6 measures: (clean G-riff)}
+[F#5]Hush little baby, don't say a word,
+[F#5]And never mind that noise you heard.
+[F#5]It's just the beasts under your bed,
+
+{c:2 measures: (42 Gpc chug)}
+[F#5]In your closet, in your head.
+
+{d_time:3:59}
+Chorus:
+{c:3 measures: (42 3 42 thing)}
+{c:1 measures: (Epc)}
+
+{c:1 measures: (42 3 42 thing)}
+{c:1 measures: (Epc)}
+[F#5]Ex_i[B5]t l[F#5]ight
+[B5]   [F#5]   En[B5]ter [E5]night.
+[F#5]Grain[B5]  of [E5]sand.
+[F5]
+
+{c:3 measures: (42 3 42 thing)}
+{c:1 measures: (Epc)}
+
+{c:1 measures: (42 3 42 thing)}
+{c:1 measures: (Epc)}
+{c:1 measures: (OTHER 53/42 thing)}
+{c:1 measures: (Epc)}
+[F#5]Ex_i[B5]t l[F#5]ight,[B5][F#5]
+En[B5]ter [E5]night.
+[F#5]Take[B5]  my [E5]hand,
+[G5]Off to [F#5]never ne[G5]ver [F#5]land.[E5]
+
+{d_time:4:25}
+{c:8 measures: 7 of (Epc - b,a#,a - e) + 1 of (53/42 thing)}
+[E5]Oh.
+Yeah, yeah. [G5]No,[F#5]    [G5]oh.[F#5][E5]
+
+Outro:
+{c:4 measures: (2e - b,a#,a - 2e - Fpc)}
+{c:4 measures: (2e - b,a# - 3e - Fpc)}ß
+{c:14 measures: (2e - b - 5e)}
+[A5][F5][A5][F5][A5][F5][A5][F5]
+[A5][F5][A5][F5][A5][F5][A5][F5]
+[E5]
+{d_time:5:30}

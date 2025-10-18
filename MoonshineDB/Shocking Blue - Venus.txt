@@ -1,0 +1,119 @@
+{title:Venus}
+{artist:Shocking Blue}
+{key:Em}
+{Duration:03:02}
+{tempo:129}
+
+{c:164 - ?}
+{c:B7sus4 - x22200}
+
+Intro:
+[B7sus4] 
+[Em A Em A]
+
+[B7sus4]
+[Em A Em A]
+[Em A Em A]
+
+ 
+{d_time:00:19}
+Verse 1:
+A [Em]goddess on a [A]mountain top
+[Em]   [A] Was [Em]burning like a [A]silver flame,[Em][A]
+The [Em]summit of beau[A]ty and love,[Em][A]
+And [Em]Venus was her [A]name [Em] 
+
+{c: Turnaround - e e g a b b a g }
+
+Chorus:
+She's [Am]got it,[D]
+[Am]  Yeah, ba[D]by, she's 
+[Em]got it.[A]
+[Em]   [A]Well,
+[C]I'm your Venus,
+[B]I'm your fire
+at your[Em]  desire.[A]
+[Em]   [A]Well,
+[C]I'm your Venus,
+[B]I'm your fire
+at your[Em]  desire.[A]
+[Em][A]
+
+{d_time:00:57}
+Solo:
+[Em A Em A] 
+[Em A Em A]
+[Em A Em A]
+[Em]
+
+ 
+{d_time:01:11}
+Verse 2:
+Her [Em]weapon were her [A]crystal eyes
+[Em]   [A]  
+[Em]Making ev'ry [A]man mad;
+[Em][A]
+[Em]Black as a dark[A] night she
+[Em]was, [A]
+Got what no[Em]one else [A]had.
+[Em]Wow!
+
+{c: Turnaround - e e g a b b a g }
+
+ 
+ 
+Chorus:
+She's [Am]got it,[D]
+[Am]  Yeah, ba[D]by, she's 
+[Em]got it.[A]
+[Em]   [A]Well,
+[C]I'm your Venus,
+[B]I'm your fire
+at your[Em]  desire.[A]
+[Em]   [A]Well,
+[C]I'm your Venus,
+[B]I'm your fire
+at your[Em]  desire.[A]
+[Em][A]
+
+{d_time:01:49}
+Bridge: 
+{c:hammer ons, A->B}
+[A B A B A B A B]
+
+Solo:
+{c:vox etherial wails}
+[Em A Em A] 
+[Em A Em A]
+[Em A Em A] 
+[Em A Em]
+
+{c: Turnaround - e e g a b b a g }
+
+{d_time:02:08}
+Chorus:
+She's [Am]got it,[D]
+[Am]  Yeah, ba[D]by, she's 
+[Em]got it.[A]
+[Em]   [A]Well,
+[C]I'm your Venus,
+[B]I'm your fire
+at your[Em]  desire.[A]
+[Em]   [A]Well,
+[C]I'm your Venus,
+[B]I'm your fire
+at your[Em]  desire.[A]
+[Em][A]
+
+{d_time:02:33}
+Bridge:
+[A B A B A B A B]
+
+Interlude:
+[B7sus4] 
+[Em A Em A] 
+[B7sus4]
+
+Outro:
+[Em A Em A Em A Em A]
+[Em A Em A Em A Em A]

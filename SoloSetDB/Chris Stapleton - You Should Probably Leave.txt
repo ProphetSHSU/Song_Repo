@@ -1,0 +1,68 @@
+{title:You Should Probably Leave}
+{artist:Chris Stapleton}
+{key:A}
+{Duration:03:33}
+{tempo:184}
+
+{c: riff twice}
+Intro:
+[F#m][A][D][A]
+[F#m][A][D][A]
+
+Verse:
+[F#m]I  know it [A]ain't [D]all that [A]late
+But you should [F#m]probably [A]leave
+[D]  [A]  [F#m]I  reco[A]gnize that [D]look in your [A]eyes
+Yeah, you should [F#m]probably [A]leave
+
+Chorus:
+[D]  [A] 'Cause [E]I know [F#m7]you and [D]you know [A]me
+And we[E] both [F#m7]know where this is [D]gonna lead[A]
+You [E]want me to [F#m7]say that I [D]want you to [A]stay
+So you should 
+{c: riff twice}
+[F#m]probably [A]leave
+[D]  [A] Yeah, you should [F#m]probab[A]ly leave[D][A]
+
+Verse:
+[F#m]There's still [A]time for you to [D]finish your [A]wine
+Then you should [F#m]probably [A]leave
+[D]  [A] And it's hard[F#m]   to re[A]sist, alright,[D] just one [A]kiss
+Then you should [F#m]probably [A]leave
+
+Chorus:
+[D]  [A] 'Cause [E]I know [F#m7]you and [D]you know [A]me
+And we[E] both [F#m7]know where this is [D]gonna lead[A]
+You [E]want me to [F#m7]say that I [D]want you to [A]stay
+So you should 
+{c: riff twice}
+[F#m]probably [A]leave
+[D]  [A] Yeah, you should [F#m]probab[A]ly leave
+
+Bridge:
+[D]  [A] Like a de[D]vil on my [D/C#]shoulder you keep [D/B]whisperin' in[D/C#]    my ear[D]
+And it's gettin' kinda hard for me[D] to do the [D/C#]right thing [D/B]here[D/C#]
+[E]  [Esus4]     I wanna do[E]the right thing, baby
+
+Solo:
+[F#m] [A] [D] [A] [F#m] [A] [D] [A]
+[F#m] [A] [D] [A] [F#m] [A] [D] [A]
+
+{c: quiet chugs}
+Verse:
+[F#m]Sun on your [A]skin, [D]6A[A]M
+And I been [F#m]watchin' you [A]sleep
+[D]  [A] And honey, I'm[F#m]   so [A]afraid you're gonna [D]wake up and [A]say
+That you should [F#m]probably [A]leave
+
+Chorus:
+[D]  [A] 'Cause [E]I know [F#m7]you and [D]you know [A]me
+And we[E] both [F#m7]know where this is [D]gonna lead[A]
+I [E]want you to [F#m7]stay but you'll [D]probably [A]say
+That you should 
+{c: riff 4 times}
+[F#m]probably [A]leave
+[D]  [A] Yeah, you should [F#m]probab[A]ly leave
+[D]  [A] Oh, you should [F#m]probably [A]leave
+[D][A][F#m][A][D][A]
+

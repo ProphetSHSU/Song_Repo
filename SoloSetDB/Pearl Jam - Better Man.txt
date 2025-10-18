@@ -1,0 +1,49 @@
+{title:Better Man}
+{artist:Pearl Jam}
+{key:D major}
+{duration:4:29}
+{tempo:125}
+{color:P}
+
+{comment: Capo 0}
+
+Verse:
+[D]Waiting watching the clock
+[E]its 4 o'clock its got to stop
+[D]tell me take no more
+[E]she practices her speech
+
+Bridge:
+[F]as he opens the door [G]she rolls over
+[F]pretends to sleep as he [G]looks her over
+
+Chorus:
+[D]She lies and [A]says she's in [G]love with him
+[D]Can't find a [A]better man[G]
+[D]She dreams in [A]color she [G]dreams in red
+[D]Can't find a b[A]etter man[G]
+[D]Can't find a [A]better man
+[D]Can't find a [A]better man
+
+Verse:
+[D]Talking to her self [E]there's no one else
+[E]who needs to know [D]she tells her self[E]
+[D]Memories, back when she was [E]smooth
+[E]and strong and waited for the [F]world to [G]come along
+[F]swears she knew it now she [G]swears he's gone
+
+Chorus:
+[D]She lies and [A]says she's in [G]love with him
+[D]Can't find a [A]better man[G]
+[D]She dreams in [A]color she [G]dreams in red
+Can't find a [A]better man[G]
+[D]Can't find a [A]better man
+[D]Can't find a [A]better man
+
+Ending:
+
+[D]She loved him[A]......... [G]yeah
+[D]She don't want [A]to leave [G]this way
+[D]She feeds him[A]......... [G]yeah
+[D]That's why she'll be [A]back [G]again
+[D]Can't find a [A]better man[G](can't find a better man)

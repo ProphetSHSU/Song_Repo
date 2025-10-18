@@ -1,0 +1,63 @@
+{title:Rocketman}
+{artist:Elton John/Hot Pink Hangover}
+{key:E}
+{duration:3:17}
+{tempo:170}
+{color:G}
+
+Verse 1:
+[Bm]  She packed my bags last night [E7]preflight,
+[Bm]  Zero hour, nine a.[E7]m.
+[G] And I'm gonna be [D/Ab]h____i[Em]gh  
+as a kite by th[A/Db]en
+[Bm]  I miss the earth so much, I [E7]miss my wife.
+[Bm]  Ooh it's lonely out in space[E7], yeah
+[G] On such a t[D/Ab]imeless fl[E]ight as this[A7] 
+
+Chorus:
+[D]And I think it's gonna be a long, long time
+[G] Till touch down brings me round again to find[D]
+I'm not the man they think I am at home.
+[G] Oh, no, no, no, I'm a [E]rocket man
+[G]Rocket man burning out his fuse up there[D/A]alone
+
+Verse 2:
+Jake 8Va Lower On Ebm Lines:
+[Bm]  Mars ain't the kind of place to [E7]raise your kids,
+[Bm]  Mmm, in fact it's cold as h[E7]ell
+[G] And there's no one the[D/Ab]re to raise[Em]  
+them   if you did[A/Db]
+[Bm]  And all this science, I don't un[E7]derstand
+[Bm]  It's just my job, five days a week[E7]
+A rocket [G]ma[D/Ab]n,   a[E] rocket man[A/Db][A5]
+
+Chorus:
+[D]And I think it's gonna be a long, long time
+[G] Till touch down brings me round again to find[D]
+I'm not the man they think I am at home.
+[G] Oh, no, no, no, I'm a [E]rocket man
+[G]Rocket man burning out his fuse up there[D/A]alone
+
+{c: arps - Bm (Am shape, 2 frets up)}
+Bridge:
+{start_of_bridge}
+[Bm]Uh, he's a rocketman[E]
+[Bm]Oh, well, he's a rocketman[E]
+A rocketm[G]a[D]a[E]n
+Oh my rocket[A]man
+{end_of_bridge}
+
+Chorus:
+[D]And I think it's gonna be a long, long time
+[G] Till touch down brings me round again to find
+[D]I'm not the man they think I am at home.
+[G] Oh, no, no, no, I'm a [E]rocket man
+[G]Rocket man burning out his fuse up there[D/A]alone
+
+Outro:
+Oh oh oh, oh oh oh
+[G] Well I think it's gonna be a long, [D]long time, yeah...
+[G] Said I think it's gonna be a long, [D]long time, oh oh whoa...
+[G] Well I think it's gonna be a [D]long, long time, yeah...
+[G] Said I think it's gonna be a long, [D]long time...
+[G]

@@ -1,0 +1,76 @@
+{title:Roll Me Away}
+{artist:Bob Seger}
+{key:C major}
+{duration:4:40}
+{tempo:134}
+{color:P}
+
+{comment: Capo 0}
+
+INTRO:
+[C] [Dm7/C] [C] [F/C] 
+[C] [Dm7/C] [C] [F/C]
+ 
+VERSE:
+
+[C]    Took a look down a we[Dm7/C]st-bound… road… Right a-wa[C]y… I made my choice…[F/C]
+[C]    Head-ed out to my [Dm7/C]big two… wheel-… er. I was
+ [C]tired…  of my own [F/C]voice…             [G]Took a bead on the
+ [C]north-ern plains… and I just r[F]olled… that pow-er on…[C/E][G]
+
+VERSE #2:
+
+ [C]   Twelve hours out of [Dm7/C]Mack-i-naw… Ci-ty, I stopped in-to a
+[C]bar to have a brew  [F/C]           [C]Met a girl and we
+ [Dm7/C]had a few… drinks… and I [C]told…  her what I'd de-cid-… ed to [F/C]do…
+ [G]    She looked out the w[F/G]in-dow a long,… long… mo-ment, and then she l[C]ooked in-
+-to my… [F]eyes…           [C/E]       She did-n't have to say a t[G]hing…             I
+[G]knew what she was think-in'…
+
+CHORUS #1:
+
+[C]    Roll,…   [F/C]roll… me a-way… Won't you [C]roll… me a-way… to-[F/C]night…
+[C]  I too am lost…  I feel d[F/C]ou-ble-crossed,…  and I'm…
+ [C]sick of what's… wrong,… and what's… [F/C]right…       [G]    She nev-er [F]e-ven
+ [C]said a word… She just walked… o[F]ut… and got on that bike…[C/E]
+ [G]and we rolled,…                and we rolled…    clean out of
+
+INTERLUDE #1:
+
+ [C]sight…[F/C][C][F/C][C][F/C][C][F/C]
+
+[BRIDGE:]
+
+ [Dm]   Rolled… a-cross the [G]high…  plains…    [Dm]   deep… in-to the [G]moun-…  tains…
+ [Am]   Felt… so good to [Em]me,…       [F]   fin-… 'lly feel-in' [G]free…
+ [Dm]  Some-where… a-long a [G]high…  road…    [Dm]  the air… be-gan to [G]turn…  cold…
+ [Am]  She said she missed her [Em]home,…          [F] and I head-ed off a-[G]lone,…
+|G        |
+    oh…
+
+INTERLUDE #2:
+
+[C] [F/C][C][F/C][C][F/C][C][F/C]
+[C] [F/C][C][F/C][C][F/C][C][F/C]
+
+VERSE #3:
+
+ [C]     Stood a-lone on a [Dm7/C]moun-tain… top…  star-in' [C]down… at the Great Di-vide…
+[F/C]…       [C]  I could go east,… [Dm7/C]I could go west…  It was… all…
+… [C]up to… me to de-cide…  [F/C]         [G]Just then I saw a y[F/G]oung…
+… h[C]awk… fly-… in', and my so[F]ul be-gan to… r[C/E]ise…           [G]And pret-ty
+[G]soon…               my heart was sing-in'…
+
+CHORUS #2:
+
+[C]    Roll,…  [F/C] roll… me a-way. I want you to[C] roll… me a-way… to[F/C]-night…
+[C]  Got-ta keep roll-…  in', [F/C]got-ta keep rid-in',…  keep…
+ [C]search-in' till… I… find what's… [F/C]right…       [G]   And as the [F]sun-… set
+ [C]fad-ed, I… spoke to the… f[F]aint-… est first star l[C/E]ight…
+  [G]and I said next time,…    [G]next… time…              we'll… get it…
+
+CODA: [26 M] 
+
+ [C]right,…     [F/C]  right,…   [C]       [F/C]       [C]      r[F/C]ight…      [C]     Ro[F/C]ll…  me…
+…[C] a-way…   [F/C]       [C]       [F/C]   Roll…  me…[C] a-way…   [F/C]       [C]       [F/C]to-night…
+…[C]       [F/C]       [C]       [F/C]   Roll…  me…[C] a-way…[F/C][C][F/C][C]

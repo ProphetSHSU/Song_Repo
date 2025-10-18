@@ -1,0 +1,45 @@
+{title:Song of the South}
+{artist:Alabama}
+{key:A major}
+{duration:3:11}
+{tempo:162}
+{color:P}
+
+{comment: capo 2}
+
+Chorus:
+[G]Song, [D]song of the South,
+[C]Sweet potato pie and I shut my mouth.
+[G]Gone, [D]gone with the wind,
+[C]Ain't nobody lookin' back again.
+
+Verse:
+[G]Cotton on the roadside, [D]cotton in the ditch,
+we [C]all picked cotton but we never got rich.
+[G]Daddy was a veteran, a [D]southern democrat,
+[C]they oughta get a rich man to vote like that...... (singin’)
+
+Chorus:
+[G]Song, [D]song of the South,
+[C]Sweet potato pie and shut my mouth.
+[G]Gone, [D]gone with the wind,
+[C]Ain't nobody lookin' back again.
+
+Bridge:
+[G]Well, somebody told us [D]that Wall Street fell,
+but [C]we were so poor that we couldn't tell.
+[G]Cotton was short and the [D]weeds were tall,
+but Mr. [C]Roosevelt was gonna save us all.
+
+Verse:
+Well, [G]momma got sick and [D]daddy got down,
+the [C]county got the farm and we moved to town.
+[G]Papa got a job with the [D]TVA,
+he bought a [C]washing machine and then a Chevrolet.
+
+Chorus:
+[G]Song, [D]song of the South,
+[C]Sweet potato pie and shut my mouth.
+[G]Gone, [D]gone with the wind,
+[C]Ain't nobody lookin' back again.
+

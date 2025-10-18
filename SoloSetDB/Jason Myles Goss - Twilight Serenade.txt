@@ -1,0 +1,9 @@
+{title:Twilight Serenade}
+{artist:Jason Myles Goss}
+{key:G major}
+{duration:4:25}
+{tempo:84}
+{color:P}
+
+{comment: Capo 0}
+

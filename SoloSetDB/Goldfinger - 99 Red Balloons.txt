@@ -1,0 +1,59 @@
+{title:99 Red Balloons}
+{artist:Goldfinger}
+{key:E major}
+{duration:4:02}
+{tempo:97}
+{color:P}
+
+{comment: Capo 2}
+
+Verse:
+[D]You and I in[Em]a little toy shop
+Buy a [G]bag of balloons with
+The [A]money we've got
+[D]Set them free at[Em]the break of dawn
+'Til [G]one by one, [A]they were gone
+[D]Back at base, b[Em]ugs in the software
+[G]Flash the message, [A]"Something's out there"
+[D]Floating in [Em]the summer sky
+[G]99 [A]red balloons go [D]by
+
+Verse:
+[D]99 [Em]red balloons
+[G]Floating in the [A]summer sky
+[D]Panic bells, it's [Em]red alert
+There's [G]something here from [A]somewhere else
+The [D]war machine [Em]springs to life
+[G]Opens up one [A]eager eye
+[D]Focusing it [Em]on the sky
+As [G]99 r[A]ed balloons go [D]by
+
+Verse:
+[D]99 De[Em]cision Street,
+[G]99 mini[A]sters meet
+To [D]worry, worry, [Em]super-scurry
+[G]Call out the troops now [A]in a hurry
+[D]This is what we've [Em]waited for
+[G]This is it boys, [A]this is war
+[D]The president is [Em]on the line
+As [G]99 [A]red balloons go [D]by
+
+Verse:
+[D]99 [Em]Kriegsminister
+[G]Streichholz und [A]Benzinkanister
+[D]Hielten sich fuer [Em]schlaue Leute
+[G]Witterten schon fette[A]Beute
+[D]Riefen: Krieg und [Em]wollten Macht
+[G]Mann, wer haette d[A]as gedacht
+[D]Dass es einmal [Em]soweit kommt
+[G]Wegen 99 [A]Luftballons
+
+Verse:
+[D]99 dreams [Em]I have had
+[G]In every one a [A]red balloon
+[D]It's all over and I'm [Em]standin' pretty
+[G]In the dust that [A]was a city
+If [D]I could find a [Em]souvenir
+[G]Just to prove the [A]world was here...
+[D]And here it is, a [Em]red balloon
+I [G]think of you and [A]let it go

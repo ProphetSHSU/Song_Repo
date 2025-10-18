@@ -1,0 +1,78 @@
+{title:Always On My Mind}
+{artist:Elvis Presley}
+{key:G major}
+{duration:3:39}
+{tempo:89}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G*]
+
+Verse:
+[G]  Maybe I didn’t [D/F#]treat you
+[Em]  Quite as [D]good as I [C]should have[C][D]
+[G]  Maybe I didn’t [D/F#]love you
+[Em]  Quite as [D]often as I [A]could have[A][A/B]
+[C]  Little things I should have [G/B]said and done
+[C]  I just [G/B]never took the [Am7]time[G][Em]
+
+Chorus:
+[D]  You were [D/E]always [D/F#]on my [G]mind (you were [G/A]always [G/B]on my [C]mind)
+You were [D]always on my [G]mind[C][D]
+
+Verse:
+[G]  Maybe I didn’t [D/F#]hold you
+[Em]  All those [D]lonely, lonely [C]times[C][D]
+[G]  And I guess I never [D/F#]told you
+[Em]  I’m so [D]happy that you’re [A]mine[A][A/B]
+[C]  If I made you feel[G/B]second best
+[C]  Girl, I’m so [G/B]sorry I was [Am7]blind[G][Em]
+
+Chorus:
+[D]  You were [D/E]always [D/F#]on my [G]mind (you were [G/A]always [G/B]on my [C]mind)
+You were [D]always on my [G]mind[C][D]
+
+Bridge:
+[G]T [D/F#]e ll  [Em]me, [D]   [C]tell me that your [G/B]sweet love hasn’t [Am]die - [D]ied
+[G]G [D/F#]i ve  [Em]me, [D]  give me [C]one more chance to [G/B]keep you satis[Am7]fie - [D]ied, satis[G]fied
+
+Solo:
+(Over chords from 2nd half of verse)
+   G    D/F#    Em  Em/D  A7
+e|-------10--------------------------------------|
+B|-10/12----12-10-12b-10--8/10-12-10--8--10b--8--|
+G|-----------------------------------------------|
+D|-----------------------------------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+[C]  Little things I should have [G/B]said and done
+[C]  I just [G/B]never took the [Am]time[G][Em]
+
+Chorus:
+[D]  You were [D/E]always [D/F#]on my [G]mind (you were [G/A]always [G/B]on my [C]mind)
+You were always on my [D]mind
+
+Instrumental:
+[G] [D/F#][Em][Em/D][C][C/B][Am][D]
+
+You were always on my [G*]mind
+
+Verse:
+[G]  Maybe I didn’t [D/F#]treat you
+[Em]  Quite as [D]good as I [C]should have[C][D]
+[G]  Maybe I didn’t [D/F#]love you
+[Em]  Quite as [D]often as I [C]could have[C][D]
+[G]  Maybe I didn’t [D/F#]hold you
+[Em]  All those [D]lonely, lonely [C]times[C][D]
+[G]  And I guess I never [D/F#]told you
+[Em]  I’m so [D]happy that you’re [C]mine[C][D]
+
+[G]  Maybe I didn’t [D/F#]love you
+[Em]  Quite as [D]often as I [C]could have[C][D]
+[G]  Maybe I didn’t [D/F#]love you
+[Em]  All those [D]lonely, lonely [C]times[C][D]
+
+(fade out)

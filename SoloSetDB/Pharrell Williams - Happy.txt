@@ -1,0 +1,67 @@
+{title:Happy}
+{artist:Pharrell Williams}
+{key:G♯/A♭ major}
+{duration:2:03}
+{tempo:126}
+{color:P}
+
+{comment: Capo 1}
+
+Verse:
+ [Em]   It might seem crazy what I'm about to say[Em][A][B][A]
+ [Em]   Sunshine she's here,  You can take a brea[Em]k[A][B][A]
+    I'm a [Em]hot air balloon, That could go to spac[Em]e[A][B][A]
+    With the [Em]air, Like I don't care,  Baby by the wa[Em]y[A][B][A]
+
+Chorus:
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel, Like a r[Bm]oom without a r[E]oof
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, Hap[Bm]piness is the tr[E]uth
+  Because I'm ha[C]ppy, Clap along, [Bm]If you know what, Hap[Bm]piness is to y[E]ou
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, T[Bm]hat's what you want to [E]do
+
+Verse:
+ [Em]   Here come bad news, Talking this and tha[Em]t[A][B][A]
+ [Em]   Give me all you got,  Don't hold it back[Em][A][B][A]
+ [Em]   Well I should probably warn you,  I'll be just fi[Em]ne[A][B][A]
+ [Em]   No offense to you,  Don't waste your time[Em][A][B][A]
+
+Chorus:
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel, Like a r[Bm]oom without a r[E]oof
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, Hap[Bm]piness is the tr[E]uth
+  Because I'm ha[C]ppy, Clap along, [Bm]If you know what, Hap[Bm]piness is to y[E]ou
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, T[Bm]hat's what you want to d[E]o
+
+Bridge:
+     Br[Em]ing me  down,   Can't nothing,  Bring me down
+     Lo[Em]ve too high,   Bring me down,   Can't nothing
+     Br[Em]ing me down, I said,  Let me tell you now
+     Br[Em]ing me  down,   Can't nothing,  Bring me down
+     Lo[Em]ve too high,   Bring me down,   Can't nothing
+     Br[Em]ing me down, I said
+
+Chorus:
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel,  Like a r[Bm]oom without a r[E]oof
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, Hap[Bm]piness is the tr[E]uth
+  Because I'm ha[C]ppy, Clap along, [Bm]If you know what, Hap[Bm]piness is to y[E]ou
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, T[Bm]hat's what you want to [E]do
+
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel,  Like a r[Bm]oom without a r[E]oof
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, Hap[Bm]piness is the tr[E]uth
+  Because I'm ha[C]ppy, Clap along, [Bm]If you know what, Hap[Bm]piness is to y[E]ou
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, T[Bm]hat's what you want to [E]do
+
+Bridge:
+    Bri[Em]ng me  down,   Can't nothing,  Bring me down
+    Lov[Em]e too high,   Bring me down,   Can't nothing
+    Bri[Em]ng me down, I said
+
+Chorus:
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel,  Like a r[Bm]oom without a r[E]oof
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, Hap[Bm]piness is the tr[E]uth
+  Because I'm ha[C]ppy, Clap along, [Bm]If you know what, Hap[Bm]piness is to y[E]ou
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, T[Bm]hat's what you want to [E]do
+
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel,  Like a r[Bm]oom without a ro[E]of
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, Hap[Bm]piness is the tr[E]uth
+  Because I'm ha[C]ppy, Clap along, [Bm]If you know what, Hap[Bm]piness is to y[E]ou
+  Because I'm ha[C]ppy, Clap along, [Bm]If you feel like, T[Bm]hat's what you want to [E]do

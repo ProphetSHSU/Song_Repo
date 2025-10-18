@@ -1,0 +1,57 @@
+{title:Hand in my Pocket}
+{artist:Alanis Morissette}
+{key:C major}
+{duration:3:42}
+{tempo:92}
+{color:P}
+
+G4 - 330013:
+
+Verse:
+I'm b[G]roke but I'm [G4]happy, I'm po[G]or but I'm k[G4]ind
+I'm s[G]hort but I'm he[G4]althy, ye[G]ah
+I'm h[G]igh but I'm gro[G4]unded, I'm sa[G]ne but I'm overw[G4]helmed
+I'm l[G]ost but I'm hop[G4]eful, bab[G]y
+And [G]what it all comes [F]down to  [C]
+
+Chorus:
+Is that everything's gonna be [G]fine, fi[G4]ne, fin[G]e
+Cause I got [F]one hand in my pocket
+And the o[C]ther one is gi[D]vin' a high fi[G]ve  [G4] [G]
+
+Verse:
+I feel d[G]runk but I'm [G4]sober, I'm [G]young and I'm [G4]underpaid
+I'm [G]tired but I'm [G4]workin', [G]yeah
+I [G]care but I'm [G4]restless, I'm [G]here but I'm [G4]really gone
+I'm [G]wrong and I'm [G4]sorry, [G]baby
+And [G]what it all comes [F]down to  [C]
+
+Chorus:
+Is that ev'rything's gonna be [G]quite[G4] al[G]right
+Cause I got [F]one hand in my pocket
+And the [C]other one is f[D]lickin' a ci[G]garette[G4]    [G]
+
+{c: Harmonica}
+
+And [G]what it all comes [F]down to[C]
+Is that I haven't got it all figured [G]out [G4]just [G]yet
+Cause I got [F]one hand in my pocket
+And the [C]other one is [D]givin' a peace sign[G][G4][G]
+
+Verse:
+I'm [G]free but I'm [G4]focused, I'm [G]green but I'm [G4]wise
+I'm [G]hard but I'm [G4]friendly, [G]baby
+I'm [G]sad but I'm l[G4]aughin', I'm [G]brave but I'm [G4]chickenshit
+I'm [G]sick but I'm [G4]pretty, [G]baby
+And [G]what it all boils [F]down to[C]
+
+Chorus:
+Is that no one's really got it figured [G]out [G4]just [G]yet
+Well I got [F]one hand in my pocket
+And the [C]other one is [D]playin' a piano[G][G4][G]
+And [G]what it all comes [F]down to, my friend, [C]yeah
+Is that everything is just [G]fine, [G4]fine, [G]fine
+Cause I got [F]one hand in my pocket
+And the [C]other one is [D]hailing a taxi cab[G][G4][G]
+
+{c: Harmonica}

@@ -1,0 +1,90 @@
+{title:Code Monkey}
+{artist:Jonathon Coulton}
+{key:E major}
+{duration:3:33}
+{tempo:144}
+{color:P} 
+
+{comment: Capo 0}
+
+Intro:
+[E]
+
+Verse:
+[E]Code Monkey get up get coffee
+[E]Code Monkey go to job
+[E]Code Monkey have boring meeting
+[E]With boring manager Rob
+[E]Rob [B/E]say Code [A/E]Monkey very dilligent
+[E]But his [B/E]output [A/E]stink
+[E]His [B/E]code not “[A/E]functional” or “elegant”
+[E]What do Code[B/E] Monkey think?[A/E]
+
+Pre-Chorus:
+[N.C.]Code Monkey think [A]maybe manager 
+[B7]wanna write god damned [G#]login page 
+him[C#m]self
+Code [B]Monkey not [A]say it out loud
+Code Monkey not [B7]crazy, just proud
+
+Chorus:
+[B7]Code Monkey like [E]Fritos[Emaj7]
+Code Monkey like [E6]Tab and Mountain Dew[E]
+Code Monkey very [Amaj7sus2]simple man[Amaj7][Amaj7sus2]
+With big [Amaj7]warm fuzzy [B7]secret heart
+[B9]Code Monkey like you
+
+Fill 1:
+[E][B/E][A/E][B/E]
+
+[E][B/E][A/E]
+
+Verse:
+[E]Code [B/E]Monkey hang [A/E]around at front desk
+[E]Tell you sw[B/E]eater look n[A/E]ice
+[E]Code [B/E]Monkey offer [A/E]buy you soda
+[E]Bring you [B/E]cup, bring you [A/E]ice
+[E]You say[B/E] no [A/E]thank you for the soda cause
+[E]Soda [B/E]make you [A/E]fat
+[E]Anywa[B/E]y you [A/E]busy with the telephone
+[E]No ti[B/E]me for [A/E]chat
+
+Pre-Chorus:
+Code Monkey have long walk back to cubicle, 
+he sit down pretend to work
+Code Monkey not thinking so straight
+Code Monkey not feeling so great
+
+Chorus:
+Code Monkey like Fritos
+Code Monkey like Tab and Mountain Dew
+Code Monkey very simple man 
+With big warm fuzzy secret heart:
+Code Monkey like you
+
+Fill 2:
+[D][A][Am][E]
+
+[E]Code Monkey like [D]you [A]  a [Am]lot[Am6][Am7]
+
+Verse:
+[E]Code Monkey have every reason
+[E]To get out this place
+[E]Code Monkey just keep on working
+[E]See your soft pretty face
+Much rather wake up, eat a coffee cake
+Take bath, take nap
+This job “fulfilling in creative way”
+Such a load of crap
+
+Pre-Chorus:
+Code Monkey think someday he have everything even pretty girl like you
+Code Monkey just waiting for now
+Code Monkey say someday, somehow
+
+Chorus:
+Code Monkey like Fritos
+Code Monkey like Tab and Mountain Dew
+Code Monkey very simple man
+With big warm fuzzy secret heart
+Code Monkey like you

@@ -1,0 +1,77 @@
+{title:Holdin Out}
+{artist:The Lumineers}
+{key:G}
+{Duration:2:57}
+{tempo:113}
+{color:P}
+
+{comment: Capo 4}
+
+Intro:
+[G]
+
+Verse:
+[G]Singing to myself
+[Dm]Singing for the neighbours
+[C]Holdin' on for work
+[C]Holdin' on to paper
+
+[G]I was on the left
+[Dm]You were only fading
+[C]I was on my own
+[C]Starin' at the ceiling
+
+Chorus:
+[G]Holdin'
+[C]Holdin' [Em]out
+
+Verse:
+[G]Read it on a map
+[Dm]Never how I planned it
+[C]Holdin' on for work
+[C]Taking it for granted
+
+[G]I was looking up
+[Dm]I was being blinded
+[C]Holdin' on for work
+[C]Hopin' that I'd find it
+
+Interlude:
+[G][C][Em]
+[G][C][Em]
+
+Verse:
+[G]I was looking up
+[Dm]Holding on to patience
+[C]Counting up the days
+[C]Days that I'd been waiting
+
+[G]You can take your time
+[Dm]I'll be on the front porch
+[C]Keepin' on the light
+[C]You can see it if you look for it
+
+Interlude:
+[G][C][Em]
+[G][C][Em]
+
+Bridge:
+[Em]I would lie a[C]wake [G]in the [D]night
+[D]Hopin' that one d[C]ay I[G]'d r[D]un
+[D]I had waited a[C]ll m[G]y l[D]ife
+
+Interlude:
+[G][C][Em]
+[G][C][Em]
+
+Chorus:
+[Em]Yeah, I was [G]holdin' (singing to myself)
+[C]Holdin' [Em]you (holdin' on to work)
+[Em]Yeah, [G]holdin' (I was on the left)
+[C]Waited for [Em]you (I was on my own)
+[Em]Waited for
+
+Outro:
+[G][C][Em]
+[G][C][Em]
+[G]

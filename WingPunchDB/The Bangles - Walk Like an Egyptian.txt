@@ -1,0 +1,97 @@
+{title:Walk Like An Egyptian}
+{artist:The Bangles}
+{key:B}
+{duration:2:58}
+{tempo:105}
+{color:G}
+
+{c: BIG}
+{c: tambourine on 1}
+Intro:
+[B]
+
+{d_time: 0:12}
+Verse:
+[B]All the old paintings on the tomb
+They do the sand dance, don'tcha know?
+[B]If they move too quick (Oh-way-oh)
+They're falling down like a domino
+
+{d_time: 0:20}
+[B]All the bazaar men by the Nile
+They got the money on a bet
+[B]Gold crocodiles (Oh-way-oh)
+They snap their teeth on your cigarette
+
+[E]Foreign types with their hookah pipes sing
+{c: Jake down (B), Lisa up}
+Way-oh-way-oh-way-ooo-aaa-ooo...
+
+{d_time: 0:38}
+[B]Walk like an Egyptian
+
+{c: BIG}
+{d_time: 0:52}
+Verse:
+[B]The blonde waitresses with their trays
+They spin around as they cross the floor
+[B]They've got the moves (Oh-way-oh)
+You drop your drink then they bring you more
+
+{d_time: 1:00}
+[B]All the school kids so sick of books
+They like the punk and the metal bands
+[B]When the buzzer rings (Oh-way-oh)
+They're walking like an Egyptian
+
+[E]All the kids in the marketplace say
+{c: Jake down, Lisa up}
+Way-oh-way-oh-way-ooo-aaa-ooo...
+
+{d_time: 1:20}
+[B]Walk like an Egyptian
+
+{d_time: 1:24}
+Instrumental:
+[D][B]
+[D][B]
+{c:whistle}
+{c: GET READY FOR NO GUITAR}
+
+{d_time: 1:46}
+{c: no guitar}
+Verse:
+You slide your feet up the street, bend your back
+Shift your arm then you pull it back
+Life's hard you know (Oh-way-oh)
+So strike a pose on a Cadillac
+
+{d_time: 1:56}
+{c:guitar back}
+[B]If you want to find all the cops
+They're hanging out in the donut shops
+[B]They sing and dance (Oh-way-oh)
+They spin their clubs, cruise around the block
+
+{d_time: 2:05}
+[B]All the Japanese with their Yen
+The party boys call the Kremlin
+[B]And the Chinese know (Oh-way-oh)
+They walkin' like an Egyptian
+
+{d_time: 2:15}
+[E]All the cops in the donut shop say
+{c: Jake down, Lisa up}
+Way-oh-way-oh-way-ooo-aaa-ooo...
+
+{d_time: 2:23}
+{c: jake melody}
+[B]Walk like an Egyptian
+Walk like an Egyptian
+
+{d_time: 2:32}
+{c: Jake melody, Lisa up}
+[B]Ba da da da da, ba da da da da
+Ba da da da da, ba da da da da
+Ba da da da da, ba da da da da
+Ba da da da da, ba da da da da

@@ -1,0 +1,51 @@
+{title:Twist and Shout}
+{artist:The Beatles}
+{key:D}
+{duration:2:32}
+{tempo:126}
+{color:P}
+
+Intro:
+[D][G][A]
+[D][G][A]
+ Well, shake it up, [D]baby, n[G]ow
+
+Verse:
+[A] Twist and [D]shout[G]
+[A] Come on, come on, come on, come on, [D]baby, now[G]
+[A] Come on and work it on out[D][G]
+[A] Well, work it on out,[D] honey[G]
+[A] You know you look so [D]good[G]
+[A] You know you got me [D]going, now[G]
+[A] Just like I knew you would[D][G]
+[A] Well, shake it up, ba[D]by, now[G]
+
+Verse:
+[A] Twist and [D]shout[G]
+[A] Come on, come on, come on, come on, [D]baby, now[G]
+[A] Come on and work it on out[D][G]
+[A] You know you twist your little girl[D][G]
+[A] You know you twist so [D]fine[G]
+[A] Come on and twist a little [D]closer, now[G]
+[A] And let me know that you're [D]mine,[G]  [A]oh
+
+Interlude:
+[D][G][A][D][G][A]
+[D][G][A][D][G][A]
+[A]
+Well, shake it up, ba[D]by, now[G]
+
+Verse:
+[A] Twist and [D]shout[G]
+[A] Come on, come on, come on, come on, [D]baby, now[G]
+[A] Come on and work it on out[D][G]
+[A] You know you twist your little girl[D][G]
+[A] You know you twist so [D]fine[G]
+[A] Come on and twist a little [D]closer, now[G]
+[A] And let me know that you're [D]mine[G]
+
+Outro:
+[A] Well, shake it, shake it, shake it, [D]baby, now[G]
+[A] Well, shake it, shake it, shake it, [D]baby, now[G]
+[A] Well, shake it, shake it, shake it, [D]baby, now[G]
+[A]  [A]Ah, ah[D]

@@ -1,0 +1,55 @@
+{title:Its All Over Now}
+{artist:The Rolling Stones}
+{key:G}
+{Duration:03:27}
+{tempo:98}
+
+Intro:
+[G][F][C][D]
+
+[G] [F]
+
+Verse:
+[C]  [D] Well, [G]baby used to stay out all night long
+She made me cry, she done me wrong
+She hurt my eyes open, that's no lie
+Tables turn and now her turn to cry
+
+Chorus:
+Because I [D]used to love her,[C] but it's all over now[G]
+Because I [D]used to love her,[C] but it's all over now[G]
+
+Verse:
+Well, she [G]used to run around with every man in town
+She spent all my money, playing her high class game
+She put me out, it was a pity how I cried
+Tables turn and now her turn to cry
+
+Chorus:
+Because I [D]used to love her,[C] but it's all over now[G]
+Because I [D]used to love her,[C] but it's all over now[G]
+
+Solo:
+[G][C][G]
+
+[D][C][G]
+
+Verse:
+Well, I [G]used to wake in the morning, get my breakfast in bed
+When I'd gotten worried she'd ease my aching head
+But now she's here and there, with every man in town
+Still trying to take me for that same old clown
+
+Chorus:
+Because I [D]used to love her,[C] but it's all over now[G]
+Because I [D]used to love her,[C] but it's all over now[G]
+Because I [D]used to love her,[C] but it's all over now[G]
+
+Outro:
+[D][C][G]
+[D][C][G]
+[D][C][G] 
+[D][C]
+
+Fade Out:
+[G][D][C]

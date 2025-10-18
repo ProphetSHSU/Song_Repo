@@ -1,0 +1,57 @@
+{title:The River}
+{artist:Garth Brooks}
+{key:A major}
+{duration:4:25}
+{tempo:76}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G] [A][G][A][G][A][G][A][D][Dsus2][D]
+
+Verse:
+Y[D]ou know a dream is like a[Dsus2] river[D], ever cha[G]nging as it fl[D]ows.
+And a dre[G]amer's just a ve[D/F#]ssel that must fo[Em]llow where it g[A]oes
+Trying to le[D]arn from what's behind him
+And never kn[Bm]owing what's in s[G]tore
+Makes each d[D]ay a constant battle
+Just to st[A]ay between the sh[D]ores.
+
+Chorus 1:
+
+A[D]nd I will sail my[Dsus2] vesse[D]l 'til the ri[G]ver runs d[D]ry,
+Like a b[G]ird upon the [D/F#]wind these wa[Em]ters are my s[A]ky
+I'll never r[D]each my destination i[G]f I never try
+So I will s[D]ail my vessel 'til the ri[A]ver runs dr[D]y.[Dsus2][D]
+
+Verse:
+T[D]oo many times we stand [Dsus2]aside [D]and let the w[G]aters slip aw[D]ay
+'Til what we p[G]ut off 'til t[D/F#]omorrow has[Em] now become t[A]oday
+So don't you si[D]t upon the shoreline and s[Bm]ay you're sati[G]sfied
+Ch[D]oose to chance the rapids and d[A]are to dance the t[D]ide.
+
+Chorus 2:
+
+A[D]nd I will sail my[Dsus2] vesse[D]l 'til the r[G]iver runs d[D]ry,
+Like a b[G]ird upon the [D/F#]wind these w[Em]aters are my s[A]ky
+I'll never re[D]ach my destination if I never t[G]ry
+So I will s[D]ail my vessel 'til the r[A]iver runs dr[D]y.[Dsus2][D]
+
+Bridge:
+[D]    [Dsus2]   
+And[D] there's [Bm]bound to be rough w[G]aters
+And I k[D]now I'll take some f[G]alls
+But with the g[Em]ood Lord as my ca[D/F#]ptain
+I can m[G]ake it through them a[A]ll…[(changing][key][into][E)]
+
+Final Chorus:
+(no chords played or single strum on each chord during the first 2 lines)
+
+And I will s[E]ail my vessel 'til the r[A]iver runs d[E]ry,
+Like a b[A]ird upon the [E/G#]wind these w[F#m]aters are my s[B]ky
+I'll never re[E]ach my destination [A]if I never try
+So I will s[E]ail my vessel 'til the river ru[B]ns dry.[E][A]
+Yes, I will s[E]ail my vessel
+'Til the ri[B]ver runs d[A]ry...
+'Til the river runs d[E]ry.

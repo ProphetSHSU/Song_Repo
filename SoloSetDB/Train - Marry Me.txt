@@ -1,0 +1,52 @@
+{title:Marry Me}
+{artist:Train}
+{key:C major}
+{duration:3:25}
+{tempo:87}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[C][Csus4][C][Csus4]
+
+Verse:
+[C]Forever could never be l[G]ong enough for [G5]me
+To [Am]feel like Ive had long enough with [F]you
+[C]Forget the world now w[G]e wont let them [G5]see
+[Am]        But theres one thing left to [F]do
+
+Pre-Chorus:
+[C]Now that the weight has lifte[F]d
+[C]And love has surely [F]shifted my way
+
+Chorus:
+[C]Marry m[G]e [G5]         [Am]   today and every [F]day
+[C]     Ma[G]rry[G5] me, if I [Am]ever get the nerve to say [F]hello in this cafe
+Say you [E/A]will ([F]hmm)  say you w[E/A]ill (h[F]mm)
+
+Verse:
+[C]Together could never be c[G]lose enough for [G5]me
+[Am]To feel like I am close enough to [F]you
+[C]You wear white and Ill w[G]ear out the wor[G5]ds I Love
+[Am]You and Youre [F]Beautiful
+
+Pre-Chorus:
+[C]Now that the wait is [F]over
+[C]And love has finally [F]shown her my way
+
+Chorus:
+[C]Marry m[G]e [G5]         [Am]   today and every [F]day
+[C]     Ma[G]rry[G5] me, if I [Am]ever get the nerve to say [F]hello in this cafe
+Say you [E/A]will ([F]hmm)  say you w[E/A]ill ([F]hmm)
+
+Bridge:
+[Bb]Promise me yo[F]ull always be h[C]appy by my [G]side
+[Bb]I promise to s[F]ing to you when[C] all the music dies[G][F]
+
+Chorus:
+[C]Marry m[G]e [G5]         [Am]   today and every [F]day[F(var)]
+[C]     Ma[G]rry[G5] me, if I [Am]ever get the nerve to say [F]hello[F(var)]in this cafe
+Say you [E/A]will ([F]hmm)  say you w[C]ill [Csus4](hmm)  say you wi[C]ll [Csus4](hmm)
+[C]Marr[Csus4]y me
+

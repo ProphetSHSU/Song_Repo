@@ -1,0 +1,92 @@
+{title:We Got the Beat}
+{artist:The Go-Go's}
+{key:D}
+{Duration:02:33}
+{tempo:152}
+
+{c:Power chords - consider 'one + and' -  then quiet?}
+
+{c:(Drum intro)}
+
+Intro:
+[A]
+
+ 
+ 
+Verse 1:
+[A]See the people walking down the street
+Fall in line just watchin' all their feet
+They don't know where they're want to go
+But their walking in time
+They got the beat[D]
+
+ 
+ 
+Chorus:
+They got the [G]beat
+They got the beat[F]
+[C]Yeah, they got the beat[A]
+[A] | [A] | [A] | [A]
+
+ 
+ 
+Verse 2:
+[A]See the kids just gettin' out of school
+They can't wait to hang out and be cool
+Hang around 'til quarter after twelve
+That's when they fall in line
+They got the beat[D]
+
+ 
+ 
+Chorus:
+They got the [G]beat
+They got the beat[F]
+[C]Yeah, they got the beat
+
+ 
+ 
+Bridge:
+[A A A A] 
+[A A A A]
+[B B B B]
+[A A A A]
+
+Verse 3:
+[A]GoGo music really makes us dance
+Do the pony, puts us in a trance
+Do what you see just give us a chance
+That's when we fall in line
+They got the beat[D]
+
+ 
+ 
+Chorus:
+They got the [G]beat
+They got the beat[F]
+[C]Yeah, we got[A]
+
+ 
+ 
+Verse 4:
+{c:<n.c.>}
+(We got the beat)
+(We got the beat)
+(We got the beat)
+
+[A]Everybody get on your feet
+We know you can dance to the beat
+Jumpin' and get down
+Round and round and [E]round
+
+ 
+ 
+Outro:
+{c:</n.c. we go on 1>}
+[A]We got the beat
+We got the beat
+We got the beat
+We got the beat
+
+We got the beat We got the beat
+We got the beat We got the beat

@@ -1,0 +1,68 @@
+{title:Everything I do}
+{artist:Bryan Adams}
+{key:E major}
+{duration:4:29}
+{tempo:139}
+{color:P}
+
+{comment: Capo 1}
+
+Intro:
+[C] [G][F][G]
+
+Verse:
+[C]Look into my eyes, you will [G]see
+[F]What you mean to [G]me
+Search your [C]heart, search your [G]soul
+And [F]when you find me there you'll [C]search no [G]more
+
+Chorus:
+Don't [Dm]tell me it's not worth [C]tryin' [Dm]for
+You can't tell me it's not worth [C]dyin' [Dm]for
+You know it's [C]true
+Everything I [G]do, I do it for [C]you
+
+Verse:
+[C]Look into your heart, you will [G]find
+There's [F]nothin' there to [G]hide
+Take me as I [C]am, take my [G]life
+I would [F]give it all, I would [C]sacri[G]fice
+
+Chorus:
+Don't [Dm]tell me it's not worth [C]fighting [Dm]for
+I can't help it there's nothing [C]I want [Dm]more
+You know it's [C]true
+Everything I [G]do, I do it for [C]you
+
+Bridge:
+There's [Bb]no love, like [Eb]your love
+And no [Bb]other, could give [F]more love
+There's [C]nowhere, unless [G]you're there
+All the [D]time, all the [G]way
+
+Solo:
+    F                                  C
+e|----------------------------------|-------------------------|
+B|----------------------------------|--------------9-9--------|
+G|--8h10vvvv----/10-8-6-------------|----6-6---/10------------|
+D|----------------------8/11-/13vv--|--8---------------11-11--|
+A|----------------------------------|-------------------------|
+E|----------------------------------|-------------------------|
+ 
+    F                                             C
+e|---------------9-----------------------------|---------------|
+B|--9/11-11vv------11-11vv-----11p9-11---------|---------------|
+G|-------------------------------------8/10vv--|--8-8-8^--6vv--|
+D|---------------------------------------------|---------------|
+A|---------------------------------------------|---------------|
+E|---------------------------------------------|---------------|
+ 
+Chorus:
+Oh, you can't [Dm]tell me it's not worth tryin' [G]for
+I can't [Dm]help it, there's nothin' I want [G]more[F]
+Yeah, I would [C]fight for you, I'd [G]lie for you
+Walk the [F]wire for you, yeah I'd [Fm]die for you
+
+Outro:
+You know it's [C]true
+Everything I [G]do,[F]  I do it f[C]or you...

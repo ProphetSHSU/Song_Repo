@@ -1,0 +1,48 @@
+{title:C’est La Vie No. 2}
+{artist:Phosphorescent}
+{key:C}
+{Duration:3:28}
+{tempo:116}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[C][G][C][F][C][G][C]
+
+Verse:
+[C]I wr[G]ote all night
+[C]Like the f[F]ire of my words could burn a hole up to heaven
+I [C]don't [G]write [C]all night burning holes up to heaven no more
+[C]I stood [G]out in the rain
+[C]Like the[F]rain might come and wash my eyes clean
+I [C]don't s[G]tand out in[C] t[C/B]he rain to have my eyes washed clean no more
+
+Chorus:
+[Am]"C'est[G]la vie" she say
+Bu[C]t I do[F]n't know what she means
+I [C]sa[G]y "L[C]ove[C/B], easy, hey come to me"
+[Am]"C'est [G]la vie" she say
+Bu[C]t I don'[F]t know what that means
+[C]I [G]say "a[C]lright, well C'est la vie"
+
+[C][G][C][F][C][G][C]
+
+Verse:
+[C]I stood[G]out in the night,
+[C]in an [F]empty field and I called your name
+I [C]don't st[G]and out all nig[C]ht in empty fields and call your name no more
+[C]I waited[G]for days
+[C]for yo[F]ur voice to answer to me
+I [C]don't wa[G]it up [C]fo[C/B]r days for your voice to answer to me no more
+
+Chorus:
+[Am]"C'est[G]la vie" they say
+[C]But I don[F]'t know what they mean
+[C]I sa[G]y "lo[C]ve'[C/B]s easy if you let it be"
+[Am]"C'est [G]la vie" they say
+Bu[C]t I don'[F]t know what that means
+[C]I [G]say "a[C]lrig[C/B]ht, well, C'est la vie"
+[Am]I sa[G]y "alr[C]ig[C/B]ht, honey, C'est la vie"
+[Am]Ain't th[G]at jus[F]t [Am7/E]how it[Dm7] goe[C]s, honey, C'est la vie
+

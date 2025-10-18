@@ -1,0 +1,81 @@
+{title:ABCDEFU}
+{artist:GAYLE}
+{key:E}
+{Duration:02:48}
+{tempo:122}
+{color:G}
+
+Intro:
+[E][G#][C#m][A] 
+
+{c: palm mute}
+Verse:
+[E] I swear I meant to mean the [G#]best when it ended
+[C#m]   Even tried to bite my [A]tongue when you start shit
+[E] Now you're textin' all my [G#]friends asking questions
+They [C#m]never even liked you in the [A]first place
+
+[E] Dated a girl that I hate[G#]for the attention
+[C#m]   She only made it two days,[A]what a connection
+[E] It's like you'd do anythin'[G#]for my affection
+You're [C#m]goin' all about it in the [A]worst ways
+
+{d_time: 0:42}
+{c: 4 floor pump}
+Pre-Chorus:
+[E] I was into you,[G#]  but I'm over it now[C#m]
+And I[A]was tryna be nice
+{c:2 beats on c#m}
+[E] But nothing's getting through,[G#]  so let me spell it out[C#m]
+AB[N.C.]CDE, fuck you
+
+{d_time: 1:00}
+{c: BIG 8s}
+Chorus:
+[E] And your mom and your [G#]sister and your job
+And your [C#m]broke ass car and that [A]shit you call art
+Fuck [E]you and your friends that I'll [G#]never see again
+Every[C#m]body but your dog, you can [A]all fuck off
+
+Post-Chorus:
+[E] Na na na na[G#]  na na na na[C#m]
+AB[A]CDE, fuck [E]you
+
+{d_time: 1:22}
+{c: palm mute}
+Verse:
+[E]You said you just needed space[G#]and so I gave it
+[C#m]   When I had nothin' to say[A]you [N.C.]couldn't take it
+[E] Told everyone I'm a bitch,[G#]so I became it
+[C#m]Always had to put yourself a[A]bove me
+
+Pre-Chorus:
+[E] I was into you,[G#]  but I'm over it now[C#m]
+And I[A]was tryna be nice
+{c: 4 floor pump}
+[E] But nothing's getting through,[G#]  so let me spell it out[C#m]
+AB[A]CDE, fuck [E]you
+
+{d_time: 1:53}
+{c: BIG 8s}
+Chorus:
+[E]And your mom and your [G#]sister and your job
+And your [C#m]Craigslist couch and the [A]way your voice sounds
+Fuck [E]you and your friends that I'll [G#]never see again
+Every[C#m]body but your dog, you can [A]all fuck off
+
+Post-Chorus:
+[E] Na na na na[G#]  na na na na[C#m]
+AB[A]CDE, fuck [E]off
+
+Na na na na[G#]  na na na na[C#m]
+AB[A]CDE, fuck [E]you
+
+{d_time: 2:28}
+
+{c: arps?}
+Outro:
+And your mom and your [G#]sister and your job
+And your [C#m]broke ass car and that [A]shit you call art
+Fuck [E]you and your friends that I'll [G#]never see again
+Every[C#m]body but your dog, you can [A]all fuck off

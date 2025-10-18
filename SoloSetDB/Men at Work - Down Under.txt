@@ -1,0 +1,70 @@
+{title:Down Under}
+{artist:Men at Work}
+{key:B minor}
+{duration:3:39}
+{tempo:107}
+{color:P}
+
+{comment: Capo 2}
+
+Intro:
+[Am][G][Am][F][G]
+[Am][G][Am][F][G]
+
+Verse:
+[Am]Traveling in a [G]fried-out [Am]Kombi[F][G]
+[Am]On a hippie trail[G], head full of [Am]Zombie[F][G]
+[Am]I met a strange l[G]ady, she made me [Am]nervous[F][G]
+[Am]She took me in[G] and gave me br[Am]eakfast[F][G]
+
+And she said,
+
+Chorus:
+[C]"Do you come fr[G]om a land down [Am]under?[F][G]
+[C]Where women glo[G]w and men plund[Am]er?[F][G]
+[C]Can't you hear, [G]can't you hear the th[Am]under?[F][G]
+[C]You better run, y[G]ou better take [Am]cover."[F][G]
+
+[Am][G][Am][F][G]
+[Am][G][Am][F][G]
+
+Verse:
+[Am]Buying bread fr[G]om a man in Bru[Am]ssels[F][G]
+[Am]He was six foot f[G]our and full of[Am] muscles[F][G]
+[Am]I said, "Do you [G]speak-a my lan[Am]guage?"[F][G]
+[Am]He just smiled and g[G]ave me a Vegemite [Am]sandwich[F][G]
+
+And he said,
+
+Chorus:
+[C]"I come fr[G]om a land down [Am]under[F][G]
+[C]Where beer do[G]es flow and men c[Am]hunder[F][G]
+[C]Can't you hear, [G]can't you hear the t[Am]hunder?[F][G]
+[C]You better run, [G]you better take [Am]cover."[F][G]
+
+[Am][G][Am][F][G]
+[Am][G][Am][F][G]
+
+Verse:
+[Am]Lying in [G]a den in [Am]Bombay[F][G]
+[Am]With a slack ja[G]w, and not much[Am] to say[F][G]
+[Am]I said to the man, "[G]Are you trying to t[Am]empt me[F][G]
+[Am]Because I come fr[G]om the land of [Am]plenty?"[F][G]
+
+And he said,
+
+Chorus:
+[C]"Do you come fr[G]om a land down [Am]under? (oh ye[F]ah,[G]yeah)
+[C]Where women glo[G]w and men plund[Am]er?[F][G]
+[C]Can't you hear, [G]can't you hear the th[Am]under?[F][G]
+[C]You better run, y[G]ou better take [Am]cover."[F][G]
+
+[C]"Oh, I com[G]e from a land down [Am]under (oh ye[F]ah,[G]yeah)
+[C]Where beer do[G]es flow and men c[Am]hunder[F][G]
+[C]Can't you hear, [G]can't you hear the t[Am]hunder?[F][G]
+[C]You better run, [G]you better take [Am]cover."[F][G]
+
+Outro:
+[C][G][Am][F][G]
+
+(x4 while fading)

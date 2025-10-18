@@ -1,0 +1,116 @@
+{title:Rock You Like a Hurricane}
+{artist:Scorpions}
+{key:B major}
+{duration:4:16}
+{tempo:124}
+{color:P}
+
+{comment: Capo 0}
+
+[INTRO:] [17 M]
+-----
+
+ 1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+|E5        G5    |A5    C5  D5    |E5        G5    |A5    C5  D5    |
+
+|E5        G5    |A5    C5  D5    |E5        G5    |A5    C5  D5    |
+
+|E5        G5    |A5    C5  D5    |E5        G5    |A5    C5  D5    |
+
+|E5        G5    |A5    C5  D5    |E5        G5    |A5    C5  D5    |
+
+|D5                |
+               It's
+
+[VERSE #1:] [17.5 M]
+--------
+|C5      E5             |C5         E5   D5    |C5         E5             |
+ ear-ly… morn-… in'… The sun comes… out…   Last night was… shak-… in'… and
+|C5       D5        |C5      E5            |C5            E5    D5  |
+ pret-ty… loud…   My cat is… purr-… in'… It scratch-es my skin…   So
+|C5       E5             |C5       D5         |C5        E5             |
+ what is… wrong… with… an-oth-… er sin?…   The bitch is… hun-… gry,… she
+|C5        E5    D5  |C5        E5             |C5        D5          |
+ needs… to tell…   So give her… inch-… es,… and feed her… well…   More
+|C5       E5          |C5         E5  D5    |C5      E5           |
+ days to… come,… new…  plac-es to go…   I've got to… leave… It's…
+                            2/4  4/4
+|C5         D5      |D5      |D5  |
+ time for a show…
+
+[CHORUS #1:] [9 M]
+---------
+|E5          G5 |A5 C5    D5        |E5            G5 |A5  C5 D5  |
+ Here I am…         Rock… you like a hur-ri-cane…
+|E5          G5 |A5 C5    D5        |E5            G5 |A5  C5 D5  |D5       |
+ Here I am…         Rock… you like a hur-ri-cane…                         My
+
+[VERSE #2:] [17.5 M]
+--------
+|C5       E5            |C5         E5     D5  |C5       E5           |
+ bod-y is burn-… in'… It starts to… shout…   De-sire is… com-… in'… It
+|C5          D5          |C5     E5            |C5            E5     D5    |
+ breaks out… loud…   Lust is in… cag-… es… 'til storm breaks… loose…   Just
+|C5       E5            |C5         D5           |C5        E5           |
+ have to… make… it… with some-one I choose…   The night is… call-… ing… I
+|C5       E5  D5   |C5       E5            |C5        D5          |
+ have to… go…   The wolf is… hun-… gry,… he runs the… show…   He's
+|C5           E5           |C5        E5   D5      |C5        E5          |
+ lick-in' his lips,… he's…  read-y to win…   On the hunt to-… night… for…
+                                2/4  4/4
+|C5            D5       |D5      |D5  |
+ love at first sting…
+
+[CHORUS #2:]
+|E5          G5 |A5 C5    D5        |E5            G5 |A5  C5 D5  |
+ Here I am…         Rock… you like a hur-ri-cane…
+|A5                 C5   D5 |E5          G5 |A5 C5    D5        |
+  Are you read-y ba-by?…     Here I am…         Rock… you like a
+|E5           G5 |A5  C5 D5  |E5          G5 |A5 C5    D5        |
+ hur-ricane…                  Here I am…         Rock… you like a
+|E5            G5     |A5                C5             D5 |E5          G5 |
+ hur-ri-cane…    Well, come on, come on, come on, come on…  Here I am…
+|A5 C5    D5        |E5            G5 |A5  C5 D5 E5|
+    Rock… you like a hur-ri-cane…
+|E5               D5|…               |
+    Rock… you like a hur-ri-cane…
+
+[GUITAR SOLO:]
+-----------
+|E5        G5    |A5    C5  D5    |E5        G5    |A5    C5  D5    |
+|E5        G5    |A5    C5  D5    |E5        G5    |A5    C5  D5    |
+|E5        G5    |A5    C5  D5    |E5        G5    |A5    C5  D5    |
+|E5        G5    |A5    C5  D5    |E5        G5    |A5    C5  D5    |
+|D5                |
+               It's
+
+[VERSE #3:] [17.5 M]
+--------
+|C5      E5              |C5         E5   D5    |C5         E5             |
+ ear-ly… morn-… in',… the sun comes… out…   Last night was… shak-… in'… and
+|C5       D5        |C5      E5            |C5            E5    D5  |
+ pret-ty… loud…   My cat is… purr-… in'… It scratched my… skin…   So
+|C5       E5             |C5       D5         |C5        E5           |
+ what is… wrong… with… an-oth-… er sin?…   The night is… call-… ing… I
+|C5       E5  D5   |C5       E5            |C5        D5          |
+ have to… go…   The wolf is… hun-… gry,… he runs the… show…   He's
+|C5           E5           |C5        E5   D5      |C5        E5          |
+ lick-in' his lips,… he's…  read-y to win…   On the hunt to-… night… for…
+                                2/4  4/4
+|C5            D5       |D5      |D5  |
+ love at first sting…
+
+[CHORUS #3:] [17 M] 'CODA' -
+---------
+|E5          G5 |A5 C5    D5        |E5            G5 |
+ Here I am…         Rock… you like a hur-ri-cane…
+|A5                 C5   D5 |E5          G5 |A5   C5    D5        |
+  Are you read-y ba-by?…     Here I am…           Rock… you like a
+|E5              G5 |A5  C5 D5  |E5          G5 |A5   C5    D5        |
+ hur-ri-… cane…                  Here I am…           Rock… you like a
+|E5            G5     |A5                C5             D5         |
+ hur-ri-cane…    Well, come on, come on, come on, come on, come on…
+|E5          G5 |A5   C5    D5        |E5            G5 |
+ Here I am…           Rock… you like a hur-ri-cane…
+|A5  C5 D5  |E5             |
+             Here I am!…

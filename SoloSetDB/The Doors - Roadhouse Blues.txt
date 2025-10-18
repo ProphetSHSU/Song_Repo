@@ -1,0 +1,137 @@
+{title:Roadhouse Blues}
+{artist:The Doors}
+{key:A}
+{Duration:04:04}
+{tempo:121}
+
+{c: A-harmonica, hits on upbeats}
+{c: (alt)-1 -1/ -1}
+{c: -2 -2 -2 4 -3    x3.5}
+
+{c: -3 4 -4 gl -2}
+{c: -3 4 -4 gl -2}
+{c: -3 4 -4 gl -2}
+{c: -3 4 -4 gl -2 -3/ -3/ -2}
+
+Intro:
+[E7] Yeah
+
+ 
+
+{c:(-[123] [234] -[123])}
+{c: -4/=>-4  -4/=>-4 -4/=>-2 -3/ -3/ -2} 
+Verse 1:   
+Ah keep your [E7]eyes on the road,
+Your hands upon the wheel[H].
+{c: -2 -3’  4 /-4  -4 gl -2 -3’ -2 -2}
+
+Keep your eyes on the road
+Your hands upon the wheel[H].
+{c: -2 -3’  4 /-4  -4 gl -2 -3’ -2 -2}
+
+Yeah, we're going to the roadhouse,
+Gonna have a real a good time.
+{c: -3’ -2 -2 }
+
+ 
+Verse 2:
+[E7]  Yeah, [E7]the back of the roadhouse,
+They've got some bungalows[H].
+{c: -2 -3’ 4 [-4’ -4’ 5 6] [-4’ -4’ 5 6] -3’ -2 -2}
+
+Yeah, the back of the roadhouse,
+They've got some bungalows[H].
+{c: -2 -3’  4 /-4  -4’ -4 3’ -2 -2}
+
+They dance for the people
+{c: (-4 -5) (-4 -5) (4 5)(-4 -5)(5 6) }
+Who like to go down sloow.
+{c:-7 -6 6 -5    -3 -2 -2   -2 -3 -2 -2}
+ 
+ 
+{c: H trill}
+Chorus:
+Let it [A7]roll, baby, roll.
+{c: (4 5) -4 -4 -4 -4 -4 -4 -4 -4 -4}
+
+Let it roll, baby, roll.
+Let it roll, baby, roll.
+Let it [B]rooll,
+[C]  [B]all [E7]night long.
+
+ 
+{c: H vamp}
+Solo:
+Do it, Robby, do it!
+You gotta [E7]roll, roll, roll,
+
+Interlude:
+You gotta thrill my soul, alright.
+Roll, roll, roll, rolla
+Thrill my soul.
+You gotta beep a gunk a chucha
+Honk konk konk
+You gotta each you puna
+Each ya bop a luba
+Each yall bump a kechonk
+Ease sum konk
+
+{c:(3 4) -4 -4 -4    (-4 -5 warble) -4  4 -3 -2}
+{c:-3” -3 -4 -3 3   -3’ -2 -2} 
+Ya, ride
+
+AshenLady.
+{c:(-4’ 4 -3’ -4’ -2} 
+
+AshenLady.
+{c:(-4’ 4 -3’ -4’ -2} 
+
+Give up your vows.
+{c: -2 -3’ -3’ -2}
+
+Give up your vows.
+{c: -4 -5 gl -2 -2}
+
+Save our city.
+{c: -4’ 4 -3 -2}
+
+Save our city.
+{c: -4’ 4 -3 -2}
+
+Ah, right.
+{c: -3’ -3’ -2}
+{c: -2 -3’ -4’ -3’ -4’ (-3 -2) (-2 -1)}
+
+ 
+{c:(-[123] [234] -[123])}
+{c: -4/=>-4  -4/=>-4 -4/=>-2 -3/ -3/ -2} 
+Verse 3:
+Well, I woke [E7]up this morning
+And I got myself a beer[H].
+{c: -2 -3’  4 /-4  -4 gl -2 -3’ -2 -2}
+
+Well, I woke up this morning
+And I got myself a beer[H].
+{c: -2 -3’  4 /-4  -4 gl -2 -3’ -2 -2}
+
+The future's uncertain
+{c: -4 -5 -4 -5 -4 -5 -4}
+
+And the end is always near
+{c: -5 -7 -6 -5 -4 -3 3 3   -2 -3’ -2 -2 }
+ 
+
+Chorus:
+Let it [A7]roll, baby, roll.
+{c: (-4 -5 warble)  -2 -3’ -3’ -2}
+
+Let it roll, baby, roll.
+{c: (-4 -5 warble)  -2 -3’ -3’ -2}
+
+Let it roll, baby, roll.
+{c: -2 -2 -2 -2 -2 -2 -2 -2 -2 -2  -3’}
+
+Let it [B]rooll,
+{c: -4’     -5}
+
+[C]  [C#]all[D] night[D#]   [E]long.[E7]

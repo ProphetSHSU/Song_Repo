@@ -1,0 +1,67 @@
+{title:She's Got It All}
+{artist:Kenny Chesney}
+{key:G major}
+{duration:3:25}
+{tempo:133}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G][D][Em][C][G][D][C]
+[G][C][G][C][G]
+
+Verse:
+[G]She’s got every [D]quality
+[G]From A all the [C]way to Z
+[G]It’s easy to [D]see she’s the perfect [C]girl
+
+[G]She’s got every [D]single thing
+[G]That makes up my [C]wildest dreams
+[G]Sometimes I s[D]till can’t quite
+bel[C]ieve she’s [C/B]holding [Am]me cause[D]
+
+Chorus:
+[D]She’s got it a[G]ll my heart my s[D]oul my wishes
+[Em]All of my love my [C]hugs my kisses
+[G]Everything that [D]means anything at [Em]all[C][D]
+[G]All my life [D/F#]I been hopin’
+[Em]I could give someone [C]such devotion
+[G]Every sweet memor[D]y I can re[Em]call[C]
+[D]She got it [G]all[D][Em][C]
+
+Verse:
+[G]You know that [D]I admit
+[G]Someone to l[C]ove like this
+[G]Only exist[D]ed in my pra[C]yers
+[G]Until I [D]saw her face
+[G]I knew I [C]found the place
+[G]Where I could [D]keep every f[C]aith e[C/B]terna[Am]lly cause[D]
+
+Chorus:
+[D]She’s got it [G]all my heart my [D]soul my wishes
+[Em]All of my love my [C]hugs my kisses
+[G]Everything that [D]means anything at [Em]all[C][D]
+[G]All my life [D/F#]I been hopin’
+[Em]I could give someone [C]such devotion
+[G]Every sweet memor[D]y I can re[Em]call[C]
+[D]She got it [G]all
+
+Solo:
+[G][D][Em][C][G][D][C]
+[G][C][G][C]
+
+Chorus:
+[Em]All my life I[D/F#]been hopin’
+[G]I could give someone [C]such devotion
+[G]Every sweet memor[D]y I can re[Em]call[C][D]
+
+[G]All of my heart my [D]soul my wishes
+[Em]All of my love, my [C]hugs, my kisses
+[G]Every sweet memor[D]y I can [C]recall
+She got it [G]all[D][Em][C]
+
+Fades Out:
+
+[G][D][Em][C]
+

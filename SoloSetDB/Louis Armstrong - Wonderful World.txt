@@ -1,0 +1,33 @@
+{title:Wonderful World}
+{artist:Louis Armstrong}
+{key:F major}
+{duration:2:19}
+{tempo:108}
+{color:P}
+
+{comment: Capo 5}
+
+Verse:
+I see t[C]rees of g[Em]reen, r[Am]ed roses t[Em]oo
+[Dm]I see them [C]bloom, f[E7]or me and y[Am]ou,
+And I [F]think to mysel[Dm]f, What a w[G]onderful wo[C]rld.[G]
+
+Verse:
+I see [C]skies of [Em]blue and c[Am]louds of w[Em]hite,
+[Dm]The bright blessed [C]day, the [E7]dark sacred n[Am]ight,
+And I [F]think to mysel[Dm]f, what a w[G]onderful wo[C]rld
+
+Bridge:
+The [G]colours of the rainbow, so[C]pretty in the sky,
+[G]Are also on the faces of[C]people going by
+I see fr[Am]iends shaking h[Em]ands saying [Am]how do you [Em]do
+[Am]They’re really [Em]saying[Dm] I lo[C]ve y[G]ou.
+
+Verse:
+I hear [C]babies [Em]crying, I [Am]watch them gr[Em]ow
+[Dm]They'll learn mu[C]ch more than I[E7]'ll ever k[Am]now,
+And I [F]think to myself w[G]hat a wonderful [C]world
+
+Outro:
+Yes I [F]think to mysel[Dm]f, what a w[G]onderful wo[C]rld.
+

@@ -1,0 +1,65 @@
+{title:Africa}
+{artist:Toto}
+{key:A major}
+{duration:4:21}
+{tempo:92}
+{color:P}
+
+{comment: Capo 2/0kc}
+
+Intro:
+[G][Bm][x4,][with][guitar][riff]
+
+Verse:
+    [A]   I hear the drums [C#m]echoing to[F#m]night
+    [F#m/E]She hears only [G]whispers of some [Bm]quiet convers[F#m]a-----[G]tion[Bm]
+
+    [A]   She's coming [C#m]in, twelve thirty [F#m]flight
+    The [F#m/E]moonlit wings re[G]flect the stars that [Bm]guide me towards sal[F#m]va----[G]tion[Bm]
+
+    [A]   I stopped an [C#m]old man along the [F#m]way
+    [F#m/E]Hoping to find some [G]old forgotten [Bm]words or ancient [F#m]mel-----o[G]dies[Bm]
+
+    [A]   He turned to [C#m]me as if to [F#m]say
+    "[F#m/E]Hurry boy, it's [G]waiting there for you   "[Bm]
+
+Chorus:
+        [Em]   It's gonna take a [C]lot to drag me a[G]way from [D]you
+        [Em]   There's nothing that a [C]hundred men or [G]more could ever [D]do
+        [Em]   I bless the [C]rains down in [G]Afri[D]ca
+        [Em]   Gonna take some [C]time to do the [G]things we never
+        [Bm]Had----[D]-----[Em]------ [D]oo, [G]ooo   [Bm]
+
+                    (begin intro riff on final G & Bm, repeat intro as desired)
+
+    [A]   The wild dogs [C#m]cry out in the [F#m]night
+    As [F#m/E]they grow restless [G]longing for some [Bm]solitary [F#m]co----mpa[G]ny[Bm]
+
+    [A]   I know that [C#m]I must do what's [F#m]right
+    As sure as [F#m/E]Kilimanjaro [G]rises like O[Bm]lympus above the [F#m]Ser----enge[G]ti[Bm]
+
+    [A]   I seek to [C#m]cure what's deep in[F#m]side
+       [F#m/E]Frightened of this [G]thing that I've become[Bm]
+
+        [Em]   It's gonna take a [C]lot to drag me a[G]way from [D]you
+        [Em]   There's nothing that a [C]hundred men or [G]more could ever [D]do
+        [Em]   I bless the [C]rains down in [G]Afri[D]ca
+        [Em]   Gonna take some [C]time to do the [G]things we never
+        [Bm]Had----[D]-----[Em]------ [D]oo, [G]ooo   [Bm]
+
+                    (begin intro riff on final G & Bm, repeat intro as desired)
+
+    (instrumental verse / solo)
+
+    [A]   [C#m]     [F#m]    .[F#m/E]Hurry boy, she's [G]waiting there for you[Bm]
+
+        [Em]   It's gonna take a [C]lot to drag me a[G]way from [D]you
+        [Em]   There's nothing that a [C]hundred men or [G]more could ever [D]do
+        [Em]   I bless the [C]rains down in [G]Afri[D]ca
+        [Em]   I bless the [C]rains down in [G]Afri[D]ca
+        [Em]   I bless the [C]rains down in [G]Afri[D]ca
+        [Em]   I bless the [C]rains down in [G]Afri[D]ca
+        [Em]   Gonna take some [C]time to do the [G]things we never
+        [Bm]Had----[D]-----[Em]------ [D]oo, [G]ooo   [Bm]
+
+                    (begin intro riff on final G & Bm, repeat intro to end)

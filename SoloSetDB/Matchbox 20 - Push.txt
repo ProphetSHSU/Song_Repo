@@ -1,0 +1,59 @@
+{title:Push}
+{artist:Matchbox 20}
+{key:F♯/G♭ major}
+{duration:3:59}
+{tempo:168}
+{color:P}
+
+{comment: Capo -1}
+
+Intro:
+[G][D/F#][Em][Cadd9]
+
+[G][D/F#][Em][Cadd9]
+
+Verse:
+She said [G]I don't know if I've [D/F#]ever been good enough[Em]
+I'm a little [Cadd9]bit rusty[G], and I think my[D/F#] head is caving [Em]in[Cadd9]
+And [G]I don't know if I've[D/F#] ever been really loved[Em]
+By a hand t[Cadd9]hat's touched m[G]e, and I feel lik[D/F#]e something's gonna give[Em]
+And I'm a little [Cadd9]bit angry
+[Dsus2]Oh well, this ain't over no, not he[C]re, not while I still need you aroun[Dsus2]d
+You don't owe me, we might change[C], yeah we [D]just might feel good
+
+Chorus:
+[G]I wanna [D]push you around,[Csus2] well I will, [D]well I will
+[G]I wanna [D]push you down, w[Csus2]ell I will, [D]well I will
+[Em]I wanna [D]take you for grant[C]ed...[D]
+[Em]I wanna [D]take you for grant[C]ed...
+Yeah I w[D]ill, I will
+
+Instrumental:
+
+[G][D/F#][Em][Cadd9]
+
+[G][D/F#][Em][Cadd9]
+
+Verse:
+She said [G]I don't know why you [D/F#]ever would lie to me[Em]
+Like I'm a little [Cadd9]untrustin[G]g when I think that th[D/F#]e truth is gonna h[Em]urt [Cadd9]ya
+And [G]I don't know why you couldn'[D/F#]t just stay with[Em]me
+You couldn't stand to [Cadd9]be near m[G]e, when my face don'[D/F#]t seem to want to shin[Em]e
+Cause it's a little [Cadd9]bit dirty
+[Dsus2]Oh well, don't just stand there and say nice t[C]hings to me
+I've been cheated, I've been wronged and y[Dsus2]ou
+You don't owe me, yeah well I ca[C]n't change,
+I won't do a[D]nything at all...
+
+Chorus:
+[G]I wanna [D]push you around,[Csus2] well I will, [D]well I will
+[G]I wanna [D]push you down, w[Csus2]ell I will, [D]well I will
+[Em]I wanna [D]take you for grant[C]ed...[D]
+[Em]I wanna [D]take you for grant[C]ed...
+Yeah I w[D]ill, I will
+
+Bridge:
+[Em]Oh, but don't bow[D/F#]l me over[C], just wait a minute, [D]well it kind of fell apa[Em]rt
+Things g[D/F#]et so [C]crazy, [C]crazy
+[Em]Don't rush[D/F#] this ba[Cadd9]by,    [D]     [Em]  don't [D/F#]rush this[Cadd9] baby,    [D]baby...
+

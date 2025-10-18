@@ -1,0 +1,55 @@
+{title:One Great City!}
+{artist:The Weakerthans}
+{key:B major}
+{duration:3:35}
+{tempo:119}
+{color:P}
+
+{comment: Capo 4}
+
+Intro:
+[D/F#][C][G]
+[D/F#][C][G]
+
+Verse:
+[D/F#]  Late afternoon, a[C]nother day is nearly done[G]
+[D/F#]  A darker grey is [C]breaking through a lighter one[G]
+[D/F#]  A thousand sharpened [C]elbows in the underground[G]
+[D/F#]  That hollow hurried[C]sound
+
+Chorus:
+[Em]Feet on [D/F#]polished [C]floor
+And [Em]in the [D/F#]dollar [C]store
+The [Em]clerk is [D/F#]closing [A]up
+And counting loonies trying not to [C]say
+I hate [G]Winnipeg
+
+Verse:
+[D/F#]   The driver checks the [C]mirror seven minutes late[G]
+[D/F#]   The crowded riders' [C]restlessness enunciates[G]
+[D/F#]   The Guess Who sucked, the [C]Jets were lousy anyway[G]
+[D/F#]The same route everyd[C]ay
+
+Chorus:
+And [Em]in the [D/F#]turning [C]lane
+[Em]Someone's [D/F#]stalled a[C]gain
+He's [Em]talking [D/F#]to him[A]self
+And hears the price of gas repeat his [C]phrase
+I hate [G]Winnipeg
+
+Break:
+[D/F#][C][G]
+[D/F#][C][G]
+[D/F#][C]
+
+Chorus:
+And [Em]up a[D/F#]bove us [C]all
+[Em]Leaning [D/F#]into [C]sky
+Our [Em]golden [D/F#]business [C]boy
+Will [Em]watch the [D/F#]North End [C]die
+And [Em]sing, “I [D/F#]love this [A]town”
+Then let his arcing wrecking ball [C]proclaim
+
+[C]I       [D/F#]Hate        [G]Winnipeg
+
+[G]

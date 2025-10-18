@@ -1,0 +1,53 @@
+{title:3am}
+{artist:Matchbox 20}
+{key:G♯/A♭ major}
+{duration:3:46}
+{tempo:108}
+{color:P}
+
+{comment: Capo 1}
+
+Intro:
+[G][Cadd9]
+[G][Cadd9/G][Cadd9]
+[G][Cadd9][D]
+
+Verse:
+[D]She says it's [C]cold outside and she hands me [G]my raincoat[G][Cadd9][G][Cadd9]
+[D]She's always [C]worried about things like t[G]hat[Cadd9][G][Cadd9]
+[D]She says it's a[C]ll gonna end and it might as well be [G]my fault[G][Cadd9][G][Cadd9]
+And she [D]only sleeps when it's [Cadd9]raining,
+and she [D]screams and her[Cadd9]voice is straining and she says…
+
+Chorus:
+[G]Baby[D]………[Cadd9]……. It's 3 am I must be [G]lonely[D][Cadd9]
+When she says b[G]aby,[D]……[Cadd9]…….well I can't help but be scared of it [Em]all so[D]metimes
+Says the [Cadd9]rain's gonna wash away I believe it.[G,][Cadd9,][G,][Cadd9][D]
+
+Verse:
+[D]She's got a [C]little bit of something, God it's better than n[G,]othing[Cadd9][G][Cadd9]
+[D]And in her color [Cadd9]portrait world she believes that she's got it [G]all.[Cadd9][G][Cadd9]
+[D]She swears the moon don't[Cadd9] hang quite as high as it u[G,]sed to[Cadd9][G][Cadd9]
+And she [D]only sleeps when it's [Cadd9]raining,
+and she s[D]creams and her [Cadd9]voice is straining and she says…
+
+Chorus:
+[G]Baby[D]………[Cadd9]……. It's 3am I must be [G]lonely[D][C]
+When she says b[G]aby,[D]……[Cadd9]…….well I can't help but be scared of it [Em]all somet[D]imes
+Says the [Cadd9]rain's gonna wash away I believe it.[G][C][G][C][D]
+
+Verse:
+[D]She believes that[Cadd9] life is made up of all that you're used [G,]to.[Cadd9][G][Cadd9]
+[D]And the [C]clock on the wall has been stuck at three for d[G,]ays, and days.[Cadd9][G][Cadd9]
+[D]She thinks that h[C]appiness is a mat that sits on her do[G,]orway[Cadd9][G][Cadd9]
+But o[D]utside it's stopped r[C]aini-i-i-i-i-ng.
+
+Chorus:
+[G]Baby[D]………[Cadd9]……. It's 3 am I must be [G]lonely[D][Cadd9]
+When she says b[G]aby,[D]……[Cadd9]…….well I can't help but be scared of it [Em]all so[D]metimes
+Says the [Cadd9]rain's gonna wash away I believe it.[G][C][G][C][D]
+
+Chorus/Outro:
+[G]Baby[D]………[C]……. It's 3 am I must be l[G]onely[D][C]
+When she says b[G]aby,[D]……[C]……well I can't help but be scared of it a[Em]ll somet[D]imes
+Says the [Cadd9]rain's gonna wash away I believe it.[G][C][G][C][D]

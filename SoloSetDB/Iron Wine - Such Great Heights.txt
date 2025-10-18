@@ -1,0 +1,51 @@
+{title:Such Great Heights}
+{artist:Iron & Wine}
+{key:A major}
+{duration:5:56}
+{tempo:148}
+{color:P}
+
+{comment: Capo 6/7kc}
+
+Intro:
+[C][G][F5][C][G]
+[C][G][F5][C][G]
+
+Verse:
+[C]I am thinking it's a [G]sign that the freckles
+in our [F5]eyes are mirror images and [C]when
+we kiss they're [G]perfectly aligned
+And [C]I have to specu[G]late that God himself
+did [F5]make us into corresponding [C]shapes like
+puzzle [G]pieces from the clay
+[C]True it may seem like a [G]stretch, but
+its thoughts like this that [F5]catch my troubled
+head when you're [C]away when I am [G]missing you to death
+[C]When you are out there on the [G]road for
+several weeks of [F5]shows, and when you scan
+the radi[C]o I hope this [G]song will guide you home
+
+Chorus:
+[C]They will see us waving from [G]such great
+heights, "come d[F5]own now" they'll s[C]ay[G]
+but [C]everything looks perfect from [G]far away,
+"come d[F5]own now", but we'll st[C]ay[G]
+
+Verse:
+[C]I tried my best to [G]leave this song on your
+mac[F5]hine but the persistent beat it [C]sounded
+thin [G]upon listening
+[C]That frankly will not [G]fly. you will hear
+the shrillest [F5]highs and lowest lows with
+the win[C]dows down when this [G]is guiding you home
+
+Chorus:
+[C]They will see us waving from [G]such great
+heights, "come d[F5]own now" they'll s[C]ay[G]
+but [C]everything looks perfect from [G]far away,
+"come d[F5]own now", but we'll st[C]ay[G]
+
+Outro:
+[C][G][F5][C][G]
+[C][G][F5][C][G]
+[C]

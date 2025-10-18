@@ -1,0 +1,66 @@
+{title:Time After Time}
+{artist:Iron & Wine}
+{key:A major}
+{duration:5:56}
+{tempo:148}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[F][G][Em][F]
+[F][G]
+
+Verse:
+[F]Lying [C]in my [F]bed I h[C]ear the c[F]lock t[C]ick,
+and t[F]hink of y[C]ou
+C[F]aught [C]up in c[F]ircl[C]es conf[F]usi[C]on,
+is n[F]othing n[C]ew
+[F]Flash[G]back [Em]warm [F]nights;
+al[G]most left be[Em]hind
+[F]Suit[G]case of [Em]memor[F]ies,
+Time [G]after
+
+Verse:
+[F]Somet[C]imes you p[F]icture [C]me,
+I'm w[F]alk[C]ing too f[F]ar ahe[C]ad
+[F]You're [C]calling [F]to m[C]e, I c[F]an't h[C]ear,
+wh[F]at you ve sa[C]id
+Then [F]you [G]say [Em]go [F]slow;
+I [G]fall be[Em]hind
+The [F]sec[G]ond [Em]hand un[F]winds
+
+Chorus:
+If you're [G]lost you can look and you will [Am]find me;
+[F]time [G]after [C]time
+If you [G]fall I will catch you I'll be [Am]waiting;
+[F]time [G]after [C]time
+
+Instrumental:
+[F][G][Em][F]
+[F][G][Em][F]
+[F][G]
+
+Verse:
+[F]Aft[C]er my p[F]icture f[C]ades and d[F]arkne[C]ss has t[F]urned to [C]gray
+W[F]atchi[C]ng through w[F]indo[C]ws you're w[F]onder[C]ing if [F]I'm O[C]K
+
+[F]Secr[G]ets [Em]sto[F]len[G] from deep in[Em]side;[F]
+the [F]drum [G]beats [Em]out of [F]time
+
+Chorus:
+If you're [G]lost you can look and you will [Am]find me;
+[F]time [G]after [C]time
+If you [G]fall I will catch you I'll be [Am]waiting;
+[F]time [G]after [C]time
+If you're [G]lost you can look and you will [Am]find me;
+[F]time [G]after [C]time
+If you [G]fall I will catch you I'll be [Am]waiting;
+
+Outro:
+[F]Time [G]after [C]time
+[F]Time [G]after [C]time
+[F]Time [G]after [C]time
+[F]Time [G]after [C]time
+[F]Time [G]after [C]time
+[F]Time [G]after [C]time

@@ -1,0 +1,113 @@
+{title:Wagon Wheel}
+{artist:Darius Rucker}
+{key:A}
+{Duration:04:57}
+{tempo:148}
+
+{c:164 - BRIGHTONRK - ?}
+
+Intro:
+[A E F#m D]
+[A E F#m D]
+[A E D]
+
+ 
+ 
+Verse 1:
+[A]Heading down south to the [E]land of the pines
+I'm [F#m]thumbing my way into North[D]Caroline
+[A]Staring up the road and [E]pray to God I see head[D]lights
+I [A]made it down the coast in [E]seventeen hours
+Pic[F#m]king me a bouquet of dog[D]wood flowers
+And I'm a[A]hopin' for Raleigh, I can [E]see my baby tonight[D]
+
+ 
+ 
+Chorus:
+So rock[A] me momma like a [E]wagon wheel
+[F#m]Rock me momma any [D]way you feel
+Hey,[A]  [E] momma rock[D]me
+Rock[A] me momma like the [E]wind and the rain
+Rock[F#m]   me momma like a [D]south bound train
+Hey,[A]  [E] momma rock[D]me
+
+ 
+ 
+Interlude:
+[A E F#m D]
+[A E D]
+
+Verse 2:
+I'm [A]running from the cold [E]up in New England
+I was [F#m]born to be a fiddler in an old[D]time string band
+My [A]baby plays a guitar,[E] I pick a banjo now[D]
+
+Oh, north[A] country winters keep a[E]getting me down
+Lost my [F#m]money playing poker so I [D]had to leave town
+But I ain't[A] turning back to [E]living that old life no[D]more
+
+ 
+ 
+Chorus:
+So rock[A] me momma like a [E]wagon wheel
+[F#m]Rock me momma any [D]way you feel
+Hey,[A]  [E] momma rock[D]me
+Rock[A] me momma like the [E]wind and the rain
+Rock[F#m]   me momma like a [D]south bound train
+Hey,[A]  [E] momma rock[D]me
+
+ 
+ 
+Interlude:
+[A E F#m D]
+[A E D]
+
+ 
+ 
+Solo:
+[A E F#m D]
+[A E D]
+
+Bridge:
+{c:one stroke per}
+[A]Walkin' to the south [E]out of Roanoke
+Caught a [F#m]trucker out of Philly had a [D]nice long toke
+But [A]he's a heading west from the [E]Cumberland gap
+To [D]Johnson City, Tennessee(eeeeeeeeeeeeeeeeee)
+
+And I got[A]ta get a move on be[E]fore the sun
+I hear my [F#m]baby calling my name and I [D]know that she's the only one
+And [A]if I die in Raleigh at [E]least I will die[D]free
+
+Chorus:
+So rock[A] me momma like a [E]wagon wheel
+[F#m]Rock me momma any [D]way you feel
+Hey,[A]  [E] momma rock[D]me
+
+Rock[A] me momma like the [E]wind and the rain
+Rock[F#m]   me momma like a [D]south bound train
+Hey,[A]  [E] momma rock[D]me
+
+So rock[A] me momma like a [E]wagon wheel
+[F#m]Rock me momma any [D]way you feel
+Hey,[A]  [E] momma rock[D]me
+
+Rock[A] me momma like the [E]wind and the rain
+Rock[F#m]   me momma like a [D]south bound train
+Hey,[A]  [E] momma rock[D]me
+
+ 
+ 
+Outro:
+[A E F#m D]
+[A E D A]
+[E F#m D A]
+[E D A E]
+[F#m D A E]
+[D]
+
+ 
+ 
+Fade Out:
+[A E F#m D]
+[A E D]

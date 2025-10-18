@@ -1,0 +1,9 @@
+{title:I Was}
+{artist:Neal McCoy}
+{key:A♯/B♭ major}
+{duration:2:42}
+{tempo:122}
+{color:P}
+
+{comment: Capo 0}
+

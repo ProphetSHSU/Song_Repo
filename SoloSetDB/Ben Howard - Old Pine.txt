@@ -1,0 +1,9 @@
+{title:Old Pine}
+{artist:Ben Howard}
+{key:C major}
+{duration:4:18}
+{tempo:143}
+{color:P}
+
+{comment: Capo 0}
+

@@ -1,0 +1,53 @@
+{title:You've Got a Friend}
+{artist:James Taylor}
+{key:A major}
+{duration:4:29}
+{tempo:92}
+{color:P}
+
+{comment: Capo 2}
+
+Intro:
+[G/C][C][D][Gsus4][G][F#m7][B7]
+
+Verse:
+When you're d[Em]own and [B7]troubled and you [Em]need a [B7]helping [Em7]hand,
+and [Am7]nothing, oh, [D7sus4]nothing is going [G]right,[Gsus4][G]
+[F#m7]close your eyes and [B7]think of me and [Em]soon I [B7]will be [Em]there[Em7]
+to [Am7]brighten up [Bm7]even your darkest night[D7sus4].[D7][Dsus2][D7]
+
+Chorus:
+You just [G]call out my [Gmaj7]name,  and you [C]know wherever I [Am7]am,
+I'll come [G]running [Gmaj7]  to see you a[D7sus4]gain.[D7][Dsus2][D7]
+[G]Winter, spring, summer, or [Gmaj7]fall,  [C]all you got to do is [Em]call
+and I'll [C]be there,     [Bm7]yeah, [Am7]yeah,[D7sus4]yeah.
+[D7sus4]You've got a friend[G/C].[C][Gsus4][G][F#m7][B7]
+
+Verse:
+[B7]If the [Em]sky a[B7]bove you should turn [Em]dark and [B7]full of clouds[Em7],
+and that [Am7]old north [D7sus4]wind should begin to blow[G],[Gsus4][G]
+[F#m7]keep your head to[B7]gether and [Em]call my [B7]name out [Em7]loud.
+[Am7]Soon I'll be [Bm7]knocking upon your [D7sus4]door.[D7][Dsus2][D7]
+
+Chorus:
+You just [G]call out my [Gmaj7]name,  and you [C]know wherever I [Am7]am,
+I'll come [G]running [Gmaj7]  to see you a[D7sus4]gain.[D7][Dsus2][D7]
+[G]Winter, spring, summer, or [Gmaj7]fall,  [C]all you got to do is [Em]call
+and I'll [C]be there,     [Bm7]yeah, [Am7]yeah,[D7sus4]yeah.
+
+Bridge:
+Hey [F]ain't it good to know that [C]you've got a friend when
+[G]people can be so [Gmaj7]cold.     They'll [C]hurt you and [Fmaj7]desert you.
+they'll [Em]take your soul if you [A7]let them.
+Oh yeah, but [D7sus4]don't you let them.[D7sus4][D7]
+
+Chorus:
+You just [G]call out my n[Gmaj7]ame,  and you [Cmaj7]know wherever I [Am7]am,
+I'll come [G]running[Gmaj7]   to see you [D7sus4]again.[D7][Dsus2][D7]
+[G]Winter, spring, summer, or [Gmaj7]fall,  [C]all you got to do is [Em]call
+and I'll [C]be there, [Bm7]yes I[Am7] will.[D7sus4]
+You've got a frien[G]d. [C] You've got a [G]friend.
+[C]Ain't it good to know you've [G]got a friend?
+Ain't it [C]good to know you've got a fr[G]iend?
+Oh, yeah,[C] yeah.  You've got a friend.[Gsus4][G]
+

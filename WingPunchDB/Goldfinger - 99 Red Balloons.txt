@@ -1,0 +1,78 @@
+{title:99 Red Balloons}
+{artist:Goldfinger}
+{key:E}
+{Duration:03:38}
+{tempo:194}
+{color:P}
+
+{comment: Intro}
+[E][F#m][A][B]
+
+
+{start_of_verse}
+[E]You and I in a [F#m]little toy shop
+buy a [A]bag of balloons with the [B]money we've got
+[E]Set them free at the [F#m]break of dawn
+'Til [A]one by one, [B]they were gone
+[E]Back at base, bugs in[F#m]the software
+[A]Flash the message, [B]"Something's out there"
+[E]Floating in the [F#m]summer sky
+[A]Ninety nine [B]red balloons go b[E]y.[E]
+{end_of_verse}
+
+
+{start_of_verse}
+[E]Ninety nine [F#m]red balloons [A]floating in the [B]summer sky
+[E]Panic bells, it's [F#m]red alert
+There's [A]something here from [B]somewhere else
+The [E]war machine, it [F#m]springs to life
+[A]Opens up one [B]eager eye
+Fo[E]cusing it [F#m]on the sky
+As [A]ninety nine [B]red balloons go b[E]y.
+{end_of_verse}
+
+
+{comment: Solo 1}
+[F#m][A][B][E]
+[F#m][A][B]
+
+
+{start_of_verse}
+[E]Ninety nine De[F#m]cision Street, [A]Ninety nine mi[B]nisters meet
+To [E]worry, worry, [F#m]super-scurry
+[A]Call out the troops now [B]in a hurry
+[E]This is what we've [F#m]waited for
+[A]This is it boys, [B]this is war
+The [E]president is [F#m]on the line
+As [A]ninety nine [B]red balloons go [E]by.[E]
+{end_of_verse}
+
+
+{start_of_verse}
+[E]Neunundneunzig [F#m]Kriegsminister
+[A]Streichholz und Ben[B]zinkanister
+[E]Hielten sich fÃ¼r [F#m]schlaue Leute
+[A]Witterten schon [B]fette Beute
+[E]Riefen: Krieg und [F#m]wollten Macht
+[A]Mann, wer haette [B]das gedacht
+[E]Dass es einmal [F#m]soweit kommt
+Wegen [A]Neunundneunzig [B]Luftballons[E]
+{end_of_verse}
+
+
+{comment: Solo}
+[F#m][A][B][E]
+[F#m][A][B][E]
+[F#m][A][B][E]
+[F#m][A][B]
+
+
+{comment: Outro}
+[E]Ninety nine dreams [F#m]I  have had
+In [A]every one a [B]red balloon
+[E]It's all over and I'm [F#m]standin' pretty
+[A]In the dust that w[B]as a city
+If [E]I could find a [F#m]souvenir
+[A]Just to prove the [B]world was here...
+And [E]here it is, a [F#m]red balloon
+I [A]think of you and [B]let it go.

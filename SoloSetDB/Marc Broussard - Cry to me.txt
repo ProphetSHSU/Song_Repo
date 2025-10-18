@@ -1,0 +1,102 @@
+{title:Cry to me}
+{artist:Marc Broussard}
+{key:E major}
+{duration:2:38}
+{tempo:114}
+{color:P}
+
+{comment: Capo 0}
+
+[Intro]
+|E   |E    | x4
+
+[Verse 1]
+| 1 & 2 & 3 &    4  & | 1 2 3 4 | 1 & 2 &  3   &   4  &  | 1 2 3 4 |
+            ↑           E               ↑                  E
+            When your   baby            leaves you all a -lone
+
+| 1 2 3   4 | 1 2 3 4 | 1 & 2 &  3  &  4  &   | 1 2 3 4 |
+      ↑       A               ↑                 E
+      And no -body            calls you on the  phone
+
+| 1 & 2  &   3   &   4   &   | 1 2 3 4 |
+         ↑                     B
+         don't you feel like  crying?
+
+| 1 & 2  &   3  &  4  &  | 1 2 3 4 |
+      ↑                    E
+      Don't you feel like  crying?
+
+| 1  &  2     &  3 &  4 & | 1 & 2 &  3 & 4  &   |
+              ↑             B
+        Well, here I am my  honey        Come on_
+
+| 1 & 2 & 3 &  4   &  | 1 2 3 4 |
+               ↑        E
+ ____,         cry to   me.
+
+[Verse 2]
+
+| 1 & 2 & 3    &   4   &   | 1 2 3 4 | 1 & 2 &  3  &  4  & | 1 2 3 4 |
+          ↑                  E               ↑               E
+          When you're all a -lone            in your lonely  room
+
+| 1 2 3    4       | 1 2 3 4 | 1 & 2       &   3  &  4  &  | 1 2 3 4 |
+      ↑              A                     ↑                 E
+      And  there's   nothing       but the smell of her per -fume
+
+| 1 & 2  &   3   &   4   &   | 1 2 3 4 |
+         ↑                     B
+         don't you feel like  crying?
+
+| 1 & 2  &   3  &  4  &  | 1 2 3 4 |
+      ↑                    E
+      Don't you feel like  crying?
+
+| 1  &  2     &  3 &  4 & | 1 & 2 &  3 & 4  &   |
+              ↑             B
+        Well, here I am my  honey        Come on_
+
+| 1 & 2 & 3 &  4   &  | 1 2 3 4 | 1 & 2 & 3 & 4 & |
+               ↑        E         E7
+ ____,         cry to   me.           Whoa, ohh-oh
+
+[Bridge]
+| 1 & 2 & 3 & 4     & | 1 & 2 & 3 & 4    & | 1 & 2 &  3  &  4  & | 1 2 3 4 |
+  A           ↑                     ↑        E                  
+  Nothing     could be  sadder      Than a   glass of wine,    a  -lone
+     
+| 1  &  2  &  3  &  4  & | 1 & 2 &  3  &  4  & | 1 & 2 & 3 & 4 & | 1 2 3 4 |
+  B                            ↑                 E                 E7
+  Loneliness, loneliness,      such a waste of   time,       Oh-oh yeah
+
+| 1 & 2  &  3 &  4 & | 1 & 2 &  3 & 4  &  | 1 & 2 & 3 & 4  &  | 1 2 3 4  &   |
+      A                    ↑                E                   E
+      You don't ever       have to walk a  -lone,       oh you  see   Come on_
+
+| 1 & 2  &  3 &  4 & | 1 &  2     &   3  &    4    &  | 1 & 2 & 3 & 4  & |
+  B   ↑                B                 ↑              E
+  __, take my hand     baby won't you    walk with me?          Oh yeah
+[Verse 3]
+            E
+When you're waiting for a voice to come
+       A              E
+In the night and there is no one
+                       B
+Ah don't you feel like crying?
+                    E
+Don't you feel like crying?
+                         B
+Ah don't you feel like a-cry-cra-co-cra-cra,
+                       E
+Cry-ca-cra-cra-cra-cry crying?
+
+                    B
+Don't you feel like cra-co-cra-co-cra-cry cry,
+               E
+Cra-co-cra-cry crying?
+     B                            E
+Oooooooh, yeah, yeah, yeah, yeah, yeah
+
+[Intstrumental Outro]
+E B E B E B E B E A E B E B E

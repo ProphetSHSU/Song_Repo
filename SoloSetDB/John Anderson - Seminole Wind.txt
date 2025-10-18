@@ -1,0 +1,53 @@
+{title:Seminole Wind}
+{artist:John Anderson}
+{key:D major}
+{duration:5:00}
+{tempo:121}
+{color:P}
+
+{comment: Capo 0}
+{comment: Em(9) - 024000}
+
+Intro:
+[Em][G][D][A]
+[Em][G][D][A]
+[Em][G][D][A]
+[Em][G][D][A]
+
+Verse:
+[Em] Ever since the d[G]ays of old m[D]en would search for we[A]alth untold
+[Em] They'd dig for silver [G]and for gold and l[D]eave the empty h[A]oles
+ And [Em]way down south in the [G]Everglades
+ Where the bl[D]ack water rolls and the s[A]aw grass waves
+[Em] The eagles fly and the [G]otters play in the l[D]and of the Seminol[A]e
+
+Chorus:
+ So b[Em]low, blow S[G]eminole wind bl[D]ow like you're never gonna bl[A]ow again
+[Em] I'm callin' to you like a l[G]ong-lost friend but [D]I know who you [A]are
+ And b[Em]low, blow from the [G]Okeechobee [D]all the way up to M[A]icanopy
+ Bl[Em]ow across the home of the S[G]eminole the [D]alligators and the g[A]ar
+
+Interlude:
+[Em][G][D][A]
+[Em][G][D][A]
+
+Verse:
+ P[Em]rogress came and t[G]ook its toll and [D]in the name of fl[A]ood control
+[Em] They made their plans and they dr[G]ained the land
+ Now the Gl[D]ades are goin' dr[A]y
+ And the l[Em]ast time I walked [G]in the swamp I st[D]ood up on a c[A]ypruss stump
+[Em] I listened close and I h[G]eard the ghost of [D]Oseola cry[A]
+
+Chorus:
+ So b[Em]low, blow S[G]eminole wind bl[D]ow like you're never gonna bl[A]ow again
+[Em] I'm callin' to you like a l[G]ong-lost friend but [D]I know who you [A]are
+ And b[Em]low, blow from the [G]Okeechobee [D]all the way up to M[A]icanopy
+ Bl[Em]ow across the home of the S[G]eminole the [D]alligators and the g[A]ar
+
+Outro:
+[Em][G][D][A]
+[Em][G][D][A]
+[Em][G][D][A]
+[Em][G][D][A]
+[Em][G][D][A]
+[Em(9)]

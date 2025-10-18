@@ -1,0 +1,43 @@
+{title:Hang}
+{artist:Matchbox 20}
+{key:G major}
+{duration:3:47}
+{tempo:154}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G][Cadd9]
+[G][Cadd9]
+
+Verse:
+[G]She grabs her magazines, she packs her things and she goe[Cadd9]s.
+[Em]She leaves the pictures hangin' on the [D]wall.  
+[G]She burns all her note[Cadd9]s
+And she know[G]s, she's been here too few [D]years, to feel this old.[Cadd9]
+
+[G]He smokes his cigarette, he stays outside 'til it's gone[Cadd9].
+[Em]If anybody ever had a [D]heart, well[G], he wouldn't be alo[Cadd9]ne.
+He knows,[G] she's been here too few y[D]ears, to be go[Cadd9]ne.
+[D]And we [G]al[D]ways[Cadd9] say, it would b[G]e [D]go[Cadd9]od to go away, someday,
+But if there's [Em]nothin' there to m[D]ake things change,
+if it's the [Cadd9]same for you I'll just hang.[Cadd9]
+
+Solo Fill:
+[G][Cadd9]
+
+Verse:
+[G]The trouble understand, is she's got reasons he don[Cadd9]'t.
+[Em]Funny how I couldn't see it a[D]ll, '[G]til she grabbed up her c[Cadd9]oat,
+And she g[G]oes.  She's been here too few [D]years,[G] to take it all in str[Cadd9]ide.
+[G]Yeah, but still it's much too[D] long, to let h[Cadd9]urt go (you let her go).
+[D]And we[G] al[D]ways s[CaddG]ay, it would be [G]go[D]od [Cadd9]to go away, someday,
+Yeah but if there's [Em]nothin' there to [D]make things change,
+if it's the [Cadd9]same for you I'll just hang, [D]same to you I'll always hang.
+Well I [G]alw[D]ays s[Cadd9]ay, it would be [G]good to g[D]o aw[Cadd9]ay,
+But if [Em]things don't work out [D]like we think and
+There's [Em]nothing there to [D]ease this achin', but if
+There's [Em]nothing there to [D]make things change,
+If it's the [Cadd9]same for you I'll just hang.[Cadd9]
+

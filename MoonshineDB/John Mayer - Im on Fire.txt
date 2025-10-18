@@ -1,0 +1,56 @@
+{title:I'm on Fire}
+{artist:John Mayer}
+{key:E Minor}
+{Duration:2:53}
+{tempo:92}
+{color:P}
+
+{comment: Capo 9}
+
+Intro: 
+[Em][G][Em][G]
+
+Verse:
+[G]Hey little girl is your daddy home
+Did he go away and leave you all alone[C]
+
+I got a bad de[Em]sire
+
+[C]Oh, oh, [D]oh, I'm on [G]fire
+
+Tell me now baby is he good to you
+
+Can he do to you the things that I do[C]
+
+I can take you [Em]higher
+
+[C]Oh, oh, [D]oh, I'm on [G]fire  [2x]
+Instrumental:
+
+[Em][G][Em][G]
+
+Verse:
+[C]It's like someone took a knife
+
+Edgy and dull and cut a [Em]six-inch valley
+
+Through the [C]middle of my skull
+
+At [G]night I wake up with the sheets soaking wet
+
+And a freight train running through the middle of my [C]head
+
+Only you can cool my de[Em]sire
+
+[C]Oh, oh, [D]oh I'm on [G]fire
+
+[C]Oh, oh, [D]oh I'm on [G]fire
+
+[C]Oh, oh, [D]oh I'm on [Em]fire
+
+Instrumental:
+
+[Em][G][Em][G]
+
+(until End)
+

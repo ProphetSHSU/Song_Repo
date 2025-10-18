@@ -1,0 +1,87 @@
+{title:Teenage Dirtbag}
+{artist:Wheatus}
+{key:E major}
+{duration:4:02}
+{tempo:95}
+{color:P}
+
+{c: Nathan to count in}
+Intro:
+[E][B][E][A]
+[E][B][E][A]
+
+Verse:
+[E]Her name is [B]Noel
+[E]I have a [A]dream about her
+[E]She rings my [B]bell
+I got [E]gym class in [A]half an hour
+[E]Oh, how she [B]rocks
+In [E]Keds and tube [A]socks
+
+Pre-Chorus:
+But [C#m]she doesn't [A]know who I [B]am[B]
+And [C#m]she doesn't [A]give a [B]da[B]mn about me
+
+Chorus 1:
+'Cause [E]I'm just a [A]teenage [B]dirtbag [C#m]bab[G#m]y
+Yeah, [E]I'm just a [A]teenage [B]dirtbag [C#m]bab[G#m]y
+[E]Listen to [A]Iron [B]Maiden [C#m]maybe [G#m]with [E]me  o[A]hhhhh[B]hhhh
+
+[E][B][E][A]
+[E][B][E][A]
+
+Verse:
+Her [E]boyfriend's a [B]dick
+And [E]he acts like a [A]thug at school
+And [E]he'd simply [B]kick
+My [E]ass if he [A]knew the truth
+He [E]lives on my [B]block
+And he [E]drives an [A]IROC
+
+Pre-Chorus:
+But [C#m]he doesn't [A]know who I [B]am[B]
+And [C#m]he doesn't [A]give a [B]da[B]mn about me
+
+Chorus 1:
+'Cause [E]I'm just a [A]teenage [B]dirtbag [C#m]bab[G#m]y
+Yeah, [E]I'm just a [A]teenage [B]dirtbag [C#m]bab[G#m]y
+[E]Listen to [A]Iron [B]Maiden [C#m]maybe [G#m]with [E]me  o[A]hhhhh[B]hhhh
+
+Bridge:
+{c: no jake?}
+[C#m] [G#m]
+[E][B][A]Oh, yeah, [E][B][A]dirtbag, 
+[E][B][A]no, [C#m]she does[G#m]n't know [A]what she's [B]missin'
+[E][B][A]Oh, yeah, [E][B][A]dirt bag, 
+[E][B][A]no, [C#m]she does[G#m]n't know [A]what she's [B]missin'
+
+{c:just guitar}
+[E][B][E][A]
+[E][B][E][A]
+
+Verse:
+Man, [E]I feel like [B]mold
+It's [E]prom night and [A]I am lonely
+[E]Low and be[B]hold
+S[E]he's walking [A]over to me
+This [E]must be [B]fake
+My [E]lip starts to [A]shake
+
+Pre-Chorus:
+[C#m]How does she [A]know who I [B]am[B]?
+And [C#m]why does she [A]give a [B]da[B]mn about me
+
+Chorus 2:
+{c:4 hits per root, chug it}
+I've got two [E]tickets to [A]Iron [B]Maiden, [C#m]bab[G#m]y
+C[E]ome with me [A]Friday, [B]don't say [C#m]"ma[G#m]ybe"
+[E]I'm just a [A]teenage [B]dirtbag, [C#m]baby, [G#m]like 
+[E]you [A] oooo oo[B] [C#m] [G#m] [A] [B]
+
+Bridge: 
+[E][B][A]Oh, yeah, [E][B][A]dirtbag, 
+[E][B][A]no, [C#m]she does[G#m]n't know [A]what she's [B]missin'
+[E][B][A]Oh, yeah, [E][B][A]dirtbag, 
+
+[E][B][A]no, she [C#m]doesn't know what[G#m] she's [A][B] 
+[E]miss[B]ii[E]ii[A]ii[E]iiiii[B]iii[E]in' [E]

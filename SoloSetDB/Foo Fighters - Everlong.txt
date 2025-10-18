@@ -1,0 +1,79 @@
+{title:Everlong}
+{artist:Foo Fighters}
+{key:B minor}
+{duration:4:11}
+{tempo:158}
+{color:P}
+
+{comment: Capo 0}
+Drop-D:
+
+Intro:
+[D7M][Bsus2][Gsus2][Bsus2]
+
+[D7M][Bsus2][Gsus2][Bsus2]
+
+[D7M][Bsus2][Gsus2][Bsus2]
+
+Verse:
+[D7M]Hello,
+I've [Bsus2]waited here for you[Gsus2]     ever[Bsus2]long.
+[D7M]Tonight I've [Bsus2]thrown myself into,
+[Gsus2]     And out of the red,[Bsus2]
+Out of her head she sang.
+
+Interlude:
+[D7M][Bsus2][Gsus2][Bsus2]
+
+Verse:
+[D7M]Come down and [Bsus2]waste away with me,
+[Gsus2]     Down with[Bsus2]me.
+[D7M]Slow, how you [Bsus2]wanted it to be.
+[Gsus2]     I'm over my head,[Bsus2]
+Out of her head she sang.
+
+Pre-Chorus:
+[D7M]    [A5]  And I[D7M]wonder,
+[A5]  When I sing along[D7M]   with you,[B5]
+
+Chorus:
+If everything could ev[G5]er feel this real for[D5]ever,
+[B5]  If anything could ev[G5]er be this good a[D5]gain.
+[B5]  The only thing I'll ev[G5]er ask of you,[D5]
+You've got to promise not [A5]to stop when I say[G5]when,
+She sang.
+
+Interlude:
+[D7M][Bsus2][Gsus2][Bsus2]
+
+Verse:
+[D7M]Breathe out so [Bsus2]I    can breathe you in,
+[Gsus2]     Hold you[Bsus2]in.
+[D7M]And now I [Bsus2]know you've always been
+[Gsus2]     Out of your head,[Bsus2]out of my head I sang.
+
+Pre-Chorus:
+[D7M]    [A5]  And I[D7M]wonder,
+[A5]  When I sing along[D7M]   with you,[B5]
+
+Chorus:
+If everything could ev[G5]er feel this real for[D5]ever,
+[B5]  If anything could ev[G5]er be this good a[D5]gain.
+[B5]  The only thing I'll ev[G5]er ask of you,[D5]
+You've got to promise not [A5]to stop when I say[G5]when,
+She sang.
+
+Break:
+[D7M][Bsus2][Gsus2][Bsus2]
+
+[D7M][Bsus2][Gsus2][Bsus2]
+
+[D7M]
+
+And I wonder,[B5]
+
+Chorus:
+If everything could ev[G5]er feel this real for[D5]ever,
+[B5]  If anything could ev[G5]er be this good a[D5]gain.
+[B5]  The only thing I'll ev[G5]er ask of you,[D5]
+You've got to promise not [A5]to stop when I say[G5]  when.[G5]

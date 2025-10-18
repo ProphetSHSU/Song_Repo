@@ -1,0 +1,61 @@
+{title:The Wolf}
+{artist:Mumford & Sons}
+{key:D major}
+{duration:3:02}
+{tempo:115}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[D][Em][Bm]
+[D][Em][Bm]
+
+Verse:
+[G]Wide eyed
+With a heart made ful[A]l of fright[Bm]
+Your eyes follow like t[A]racers in the night[D]
+
+And the [G]tightrope
+That you wander [A]every time[Bm]
+You have been weighed you have be[A]en found wanting[D]
+
+Chorus:
+[F#m] Been [G]wondering for d[D]ays, how you felt me slip your mind
+[F#m] Leave beh[G]ind your wanton [D]ways, I wanna learn to love in kind
+[F#m] Cause you are a[G]ll I e[A]ver l[Bm]onged f[D]or
+
+Interlude:
+[D][Em][Bm]
+[D][Em][Bm]
+
+[F#m] Been [G]wondering for d[D]ays, how you felt me slip your mind
+[F#m] Leave beh[G]ind your wanton [D]ways, I wanna learn to love in kind
+[F#m] Cause you are a[G]ll I e[A]ver l[Bm]onged f[D]or
+
+Verse:
+[G]Shelter
+You better keep the wolf back fr[A]om the do[Bm]or
+He wanders ever cl[A]oser every night[D]
+[G]And how he waits b[A]aying for [Bm]blood
+I promised you everyth[A]ing would be fine[D]
+
+Chorus:
+[F#m] Been [G]wondering for d[D]ays, how you felt me slip your mind
+[F#m] Leave beh[G]ind your wanton [D]ways, I wanna learn to love in kind
+[F#m] Cause you are a[G]ll I e[A]ver l[Bm]onged f[D]or
+
+Instrumental:
+[D][Em][Bm]
+[D][Em][Bm]
+
+Bridge:
+[D]Hold my g[Em]aze l[Bm]ove. you know I want to let it go
+[D]We will s[Em]tare d[Bm]own, at the wonder of it all
+And [D]I-[Em]i-i[Bm]-i will hold you
+And [D]I-[Em]i-i[Bm]-i will hold you
+
+Chorus:
+[F#m] Been [G]wondering for d[D]ays, how you felt me slip your mind
+[F#m] Leave beh[G]ind your wanton [D]ways, I wanna look you in the eye
+[F#m] Cause you are a[G]ll I e[A]ver l[Bm]onged f[D]or

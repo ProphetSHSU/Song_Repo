@@ -1,0 +1,55 @@
+{title:Sullivan Street}
+{artist:Counting Crows}
+{key:D major}
+{duration:4:28}
+{tempo:81}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[D][D/G][D][D/G][D][D/G][D][D/G]
+
+Verse:
+[D]  Took the way home    [D/G]that leads back to [D]Sullivan Street[D/G]
+[D]  Across the water     [D/G]and home through the [D]town[D/G]
+[D]  Past the shadows     [D/G]that fall down where[D]ver we meet[D/G]
+[D]  Pretty soon now,     [D/G]I won't come around [D]     [D/G]//// (strong strum)
+
+Chorus:
+[G]      I'm almost [A]drowning in her [Em]sea
+      She's nearly f[G]allen to her k[D]nees
+      [D]Took the way [D/G]home .....(Ba, Ba, Baaaa)[D][D/G]
+
+Verse:
+[D]  Took the way home    [D/G]that leads back to [D]Sullivan Street[D/G]
+[D]  Where all the bodies [D/G]  hang on the air[D][D/G]
+[D]  If she remembers   sh[D/G]e hides it whenever we[D] meet[D/G]
+[D]  Either way now      I[D/G] don't really [D]care[D/G]
+
+'Cause I'm gone from there  
+
+Chorus:
+    [G]  I'm almost d[A]rowning in her sea[Em]
+      she's nearly cra[G]wling on her kne[D]es[(arpeggio*)]
+[D/G]       [D][D/G]
+
+      [D]She's down on her [D/G]knees
+      [D]She's down on her [D/G]knees
+(strum)
+[D]  Took the way home[D/G]  that leads back to [D]Sullivan Stree[D/G]t
+   Where I'm j[D]ust another rider   [D/G]burned to the [D]groun[D/G]d
+
+Come tumbling down
+
+Chorus:
+[G]     I'm almost d[A]rowning in his s[Em]ea
+     She's near me,  c[G]rawling on her kn[Em]ees
+     It's almost  ev[G]erything I nee[D]d.[D/G][D][D/G]
+
+Outro:
+[D]I'm down on my k[D/G]nees
+I'm down on my kn[D]ees[D/G]
+I'm down on....
+    down on my kn[D]ees.[D/G]
+   I'm down on my kn[D]ees.

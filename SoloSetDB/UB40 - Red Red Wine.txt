@@ -1,0 +1,49 @@
+{title:Red Red Wine}
+{artist:UB40}
+{key:C♯/D♭ major}
+{duration:3:04}
+{tempo:89}
+{color:P}
+
+{comment: Capo 6}
+
+Hook:
+  Red red win[G]e,[C][D]
+  Go to my he[G]ad,[C][D]
+  Make me forget tha[G]t I[C][D]
+  Still need [G]her[C] so[D],
+  Red red wine[G],[C][D]
+  It's up to [G]you[C],[D]
+  All I can do I[G]'ve[C] do[D]ne,
+  But memories won'[G]t [C]go[D],
+  No, m[D]emories won't [C]go[D]..
+
+Bridge:
+  [G]  [C]  [D]D
+  I have sworn,
+  That with ti[G]me,
+  Thoughts of [C]you would leave my[G]head,
+  I was wr[D]ong and I f[G]ind,
+  Just one th[C]ing makes me forge[D]t...
+
+Hook:
+  Red red [G]wi[C]ne[D],
+  Stay close to m[G]e,[C][D]
+  Don't let me be [G]al[C]on[D]e,
+  It's tearing apa[G]rt[C][D]
+  My [D]blue, blue hear[C]t.[D]
+
+Bridge:
+  [G]  [C]  [D]D
+  I have sworn,
+  That with ti[G]me,
+  Thoughts of [C]you would leave my[G]head,
+  I was wron[D]g and I fi[G]nd,
+  Just one th[C]ing makes me forg[D]et...
+
+Hook:
+  Red red win[G]e,[C][D]
+  Stay close to m[G]e,[C][D]
+  Don't let me b[G]e [C]al[D]one,
+  It's tearing a[G]pa[C]rt[D]
+  My b[D]lue, blue he[C]ar[D]t.

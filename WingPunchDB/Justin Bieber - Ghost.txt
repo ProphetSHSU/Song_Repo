@@ -1,0 +1,97 @@
+{title:Ghost}
+{artist:Justin Bieber}
+{key:B minor}
+{duration:3:01}
+{tempo:77}
+{color:P}
+
+{comment: Capo 0}
+[D] [Em] [F]
+[F] [Am] [G]
+
+Chorus:
+If I [Am]can't be [F]close to you
+[C] I'll settle [G]for the ghost of you
+[Am]  I miss [F]you more than life [C] [G]
+
+{c: no guitar in v1}
+{d_time: 0:22}
+Verse:
+Youngblood thinks there's always tomorrow
+I miss your touch on nights when I'm hollow
+I know you cross the bridge that I can't follow
+{c: guitar enters}
+Since the [D]love that you [Em]left is [F]all that I get
+I [F]want you[Am]  to [G]know that
+
+{d_time: 0:46}
+Chorus:
+If I [Am]can't be [F]close to you
+[C] I'll settle [G]for the ghost of you
+[Am]  I miss [F]you more than life (more than life)
+{c: Lisa harmony}
+[C]  [G] And if you [Am]can't be [F]next to me
+[C] Your memo[G]ry is ecstasy
+[Am]  I miss [F]you more than life
+{c: Lisa harmony}
+[C] I miss [G]you more than life
+
+{c: N.C. for 8 beats}
+{d_time: 1:15}
+Verse:
+[Am]Youngblood thinks [F]there's always tomorrow
+[C]  [G] I [Am]need more time, [F]but time can't be borrowed
+[C]  [G] I'd [Am]leave it all behind [F]if I could follow
+[C]  [G] Since the [D]love that you [Em]left is [F]all that I get
+I [F]want you[Am]  to [G]know that
+
+{c: sing right away, but with no guitar for line 1}
+{c: Lisa harmony}
+{d_time: 1:40}
+Chorus:
+If I can't be close to you
+{c: guitar back}
+[C] I'll settle [G]for the ghost of you
+[Am]  I miss [F]you more than life[C][G] (more than life)
+{c: Lisa harmony}
+And if you [Am]can't be [F]next to me
+[C] Your memo[G]ry is ecstasy
+[Am]  I miss [F]you more than life
+{c: Lisa harmony}
+[C] I miss [G]you more than life
+
+{d_time: 2:05}
+{c: no guitar? }
+Post-Chorus:
+[Am]   [F]Woah
+[C]  [G]Na, nana
+[Am]   [F] More than life[C][G]
+
+[Am]   [F]Woah
+[C]  [G]Na, nana
+[Am]   [F] More than life[C][G]
+
+{c: break for 4 beats again}
+{d_time: 2:30}
+Chorus:
+So If I [Am]can't be [F]close to you
+[C] I'll settle [G]for the ghost of you
+[Am]  I miss [F]you more than life (more than life)
+{c: Lisa harmony}
+[C]  [G] And if you [Am]can't be [F]next to me
+[C] Your memo[G]ry is ecstasy
+[Am]  I miss [F]you more than life
+{c: Lisa harmony}
+[C] I miss [G]you more than life
+
+And if you [Am]can't be [F]next to me
+[C] Your memo[G]ry is ecstasy
+[Am]  I miss [F]you more than life
+{c: Lisa harmony}
+[C] I miss [G]you more than life
+
+{c: chill outro}
+{d_time: 3:10}
+So If I [Am]can't be [F]close to you
+[C] I'll settle [G]for the ghost of you
+[Am]  I miss [F]you more than life [C] [G]

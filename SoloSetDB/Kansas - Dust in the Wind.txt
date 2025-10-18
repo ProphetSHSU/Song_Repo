@@ -1,0 +1,22 @@
+{title:Dust in the Wind}
+{artist:Kansas}
+{key:A minor}
+{duration:3:26}
+{tempo:94}
+{color:P}
+
+{comment: Capo 0}
+
+I [C]close [G]my [Am]eyes o[G]nly for a [Dm]moment and a m[Am]oment´s gone.
+[C]All [G]my d[Am]reams p[G]ass before my [Dm]eyes a curio[Am]sity.
+[D]Dust[G] in the w[Am]ind, a[D]ll we are is [G]dust in the [Am]wind.
+
+[C]Same o[G]ld s[Am]ong, j[G]ust a drop of [Dm]water in the end[Am]less sea.
+[C]All [G]we [Am]do, c[G]rumbles to the gro[Dm]und though we refu[Am]se to see.
+[D]Dust[G] in the w[Am]ind, a[D]ll we are is [G]dust in the [Am]wind.
+
+[C]Don't [G]hang [Am]on, n[G]othing last´s for[Dm]ever but the ea[Am]rth and sky.
+[C]It [G]slips a[Am]way [G]all your money won´[Dm]t another m[Am]inute buy.
+[D]Dust[G] in the w[Am]ind, a[D]ll we are is [G]dust in the [Am]wind
+[D]Dust[G] in the w[Am]ind, e[D]verything is [G]dust in the [Am]wind.
+

@@ -1,0 +1,91 @@
+{title:Jessie's Girl}
+{artist:Rick Springfield}
+{key:D major}
+{duration:3:15}
+{tempo:132}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[D][A][Bm][G][A][D]
+[D][A][Bm][G][A][D]
+
+Verse:
+[D]Jessie [A]is a [Bm]friend[G][A][D]
+Yeah I [D]know, he's [A]been a [Bm]good friend of mi[G]ne[A][D]
+But la[D]tely so[A]methin's c[Bm]hanged, it ain't [G]hard t[A]o defi[D]ne
+Jessie's [D]got hi[A]mself a [Bm]girl, and I wa[G]nna m[A]ake her [D]mine
+
+Pre-Chorus 1:
+And she's [D]watchin' him w[A]ith those [Bm]eyes[G][A][D]
+And she's [D]lovin' him w[A]ith that b[Bm]ody, I j[G]ust know i[A]t[D]
+And he's h[D]oldin' her [A]in his [Bm]arms, l[G]ate late [A]at night[D]
+
+Chorus 1:
+[A]Y'know, I wish that I had J[D]essie's girl[A][B][A]
+I [B]wish that [A]I had [D]Jessie's girl[A][B][A][B][A]
+[G]  Where c[A]an I f[D]ind a w[Bm]oman like tha[A]t?
+
+Verse:
+I'll play [D]along w[A]ith the [Bm]charade[G][A][D]
+There doesn't s[D]eem to [A]be a r[Bm]eason to c[G]hange[A][D]
+Y'know I f[D]eel [A]so d[Bm]irty when they s[G]tart t[A]alkin' c[D]ute
+I wanna te[D]ll her t[A]hat I l[Bm]ove her but the p[G]oint is pr[A]ob'ly m[D]oot
+
+Pre-Chorus 2:
+And she's [D]watchin' him w[A]ith thos[Bm]e eyes[G][A][D]
+And she's [D]lovin' him w[A]ith that[Bm] body, I[G] just know [A]it[D]
+And he's h[D]oldin' her[A] in his [Bm]arms,[G] late lat[A]e at night[D]
+
+Chorus 2:
+[A]Y'know, I wish that I had J[D]essie's girl[A][B][A]
+I [B]wish that [A]I had [D]Jessie's girl[A][B][A][B][A]
+[G]  Where c[A]an I f[D]ind a w[Bm]oman like tha[A]t?
+Like J[D]essie's girl[A][B][A]
+
+I [B]wish that [A]I had [D]Jessie's girl[A][B][A][B][A]
+[G]Where c[A]an I f[D]ind a wo[G]man[A][D]
+[G]  Where c[A]an I f[D]ind a w[Bm]oman like tha[A]t?
+
+Bridge:
+[G][D][A]
+[G][D][A]
+
+[G] And I'm [D]lookin' in the [A]mirror all the time
+[G] Wond'rin[D]' what she don'[A]t see in me
+[G] Yeah I've been f[D]unny I've been [A]cool with the lines
+[G] Ain't that the w[D]ay love's suppo[A]sed to be?
+
+Bridge Key-Change:
+[F#][B][B][B]
+[F#][G#m][F#][G#m][F#]
+[F#][B][B][B]
+[F#][G#m][F#][G#m][F#]
+
+[F#][B][B][B]
+[F#][G#m][F#][G#m][F#]
+[F#][B][B][B]
+[F#][G#m][F#][G#m][F#]
+
+Reprise 1:
+Tell me, w[G]here c[A]an I f[D]ind a w[Bm]oman like tha[A]t?
+
+Guitar Solo:
+[D][A][Bm][G][A][D]
+[D][A][Bm][G][A][D]
+[D][A][Bm][G][A][D]
+[D][A][Bm][G][A][D]
+
+Chorus 3:
+[A]Y'know, I wish that I had J[D]essie's girl[A][B][A]
+I [B]wish that [A]I had [D]Jessie's girl[A][B][A][B]
+I w[A]ant Jes[D]sie's girl[A][B][A][B][A]
+[G]  Where c[A]an I f[D]ind a w[Bm]oman like tha[A]t?
+Like Je[D]ssie's girl[A][B][A]
+I [B]wish that [A]I had [D]Jessie's girl[A][B][A][B]
+I w[A]ant Jes[D]sie's girl[A][B][A][B][A]
+
+Outro:
+[A][D][D]
+[A][D][A][G][D]

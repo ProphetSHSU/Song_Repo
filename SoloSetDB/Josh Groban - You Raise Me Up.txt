@@ -1,0 +1,51 @@
+{title:You Raise Me Up}
+{artist:Josh Groban}
+{key:D major}
+{duration:1:51}
+{tempo:85}
+{color:P}
+
+{comment: Capo 1}
+
+Intro:
+[D][G][D]
+[D/F#][G][A][Asus4][A]
+[Bm][G][D][G]
+[D][A][D]
+
+Verse:
+When I am do[D]wn and, o[G]h my soul, so we[D]ary;
+When troubles [D/F#]come and m[G]y heart burd[A]ened[Asus4] be;     [A]
+Then, I am st[Bm]ill and wa[G]it here in the [D]silence,[G]
+Until you co[D]me and [A]sit awhile with[D]me.
+
+Chorus:
+You raise me [Bm]up, so [G]I can stand on [D/F#]mountains;[A]
+You raise me [Bm]up, to [G]walk on stormy [D/F#]seas;[A]
+I am [Bm]strong, when [G]I am on your s[D/F#]houlders;[G]
+You raise me [D/A]up to [A]more than I can [D]be.
+
+Instrumental:
+[E][A][E]
+[E/G#][A][B][Bsus4][B]
+[C#m][A][E][A]
+[E][B][E]
+
+Chorus:
+You raise me [C#m]up, so [A]I can stand on [E/G#]mountains       [B]
+You raise me [C#m]up, to w[A]alk on stormy s[E]eas       [B]
+I am st[C#m]rong, when [A]I am on your sh[E]oulders[A]
+You raise me [E]up to mo[B]re than I can be[E].[A][E]
+
+Chorus:
+You raise me [Dm]up, so [Bb]I can stand on mou[F]ntains       [C]
+You raise me [Dm]up, to [Bb]walk on stormy s[F]eas       [C]
+I am st[Dm]rong, when [Bb]I am on your s[F]houlders[Bb]
+You raise me [F]up to mo[C]re than I can be[F].[C#7]
+
+You raise me [Dm]up, so [Bb]I can stand on mou[F/A]ntains   [C/E]
+You raise me [Dm]up, to [Bb]walk on stormy s[C]eas       [C]
+I am st[F]rong, when[Bb] I am on your [Am]shoulders[Bb]
+You raise me [C]up to m[C]ore than I can [Dm]be.
+
+You raise me [F/C]up   [C] to more than I can[Dm]   b[F]e.

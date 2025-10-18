@@ -1,0 +1,67 @@
+{title:You're Beautiful}
+{artist:James Blunt}
+{key:C minor}
+{duration:3:33}
+{tempo:82}
+{color:P}
+
+{comment: Capo 3/0kc}
+
+Intro Lead: 
+e|------------------------------|------------------------------|
+B|---1-0-1----1-0-1-3--1-0-1----|---1-0-1----1-0-1-3--1-0-1----|
+G|------------------------------|------------------------------|
+D|-2--------2----------------2-3|-2-------2-----------------2-3|
+A|------------------------------|------------------------------|
+E|------------------------------|------------------------------|
+ 
+Verse:
+[C]My life is brilliant.
+[G]My love is pure.
+[Am]I saw an angel.
+[F]Of that I'm sure.
+[C]She smiled at me on the subway.
+She was [G]with another man.
+But [Am]I won't lose no sleep on that,
+'[F]Cause I've got a plan.
+
+Chorus:
+[F]You're beauti[G]ful.[C]You're beautiful.
+[F]You're beauti[G]ful, it's t[C]rue.
+[F]I saw your [G]face in a [C]cro[C/B]wded pl[Am]ace,
+And I [F]don't know [G]what to [Am]do,
+'Cause I'll [F]never [G]be with [C]you.
+
+Bridge Lead:
+e|------------------------------|
+B|---1-0-1----1-0-1-3--1-0-1----|
+G|------------------------------|
+D|----------2----------------2-3|
+A|------------------------------|
+E|------------------------------|
+
+Verse:
+Yeah, she ca[C]ught my eye,
+As we w[G]alked on by
+She could s[Am]ee from my face that I was,
+[F]Flying high,
+And [C]I don't think that I'll s[G]ee her again,
+But w[Am]e shared a moment that will la[F]st till the end.
+
+Chorus:
+[F]You're beauti[G]ful.[C]You're beautiful.
+[F]You're beauti[G]ful, it's t[C]rue.
+[F]I saw your [G]face in a [C]cro[C/B]wded pl[Am]ace,
+And I [F]don't know [G]what to [Am]do,
+'Cause I'll [F]never [G]be with [C]you.
+
+Bridge:
+[F]La la [Am]la la, l[F]a la l[Am]a la, la[F] la la[Am] la, la[G]
+
+Chorus:
+[F]You're beauti[G]ful.[C]You're beautiful.
+[F]You're beauti[G]ful, it's t[C]rue.
+[F]There must [G]be an ange[C]l w[C/B]ith a s[Am]mile on her face,
+When s[F]he thought [G]up that I should be w[C]ith[G] y[Am]ou,
+But it's t[F]ime to f[G]ace the tr[Am]uth,
+I will [F]never be [G]  with you.[C]

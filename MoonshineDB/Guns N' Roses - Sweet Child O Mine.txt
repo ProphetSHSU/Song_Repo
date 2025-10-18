@@ -1,0 +1,107 @@
+{title:Sweet Child O Mine}
+{artist:Guns N' Roses}
+{key:D}
+{Duration:05:55}
+{tempo:125}
+
+{c: help backup Lisa}
+
+Intro:
+[D Cadd9 G D]
+[D Cadd9 G D]
+
+ 
+ 
+Pre-Verse:
+[D Cadd9 G D]
+
+ 
+ 
+Verse 1:
+[D]She's got a smile that it seems to me
+Reminds[Cadd9]me of childhood memories
+Where e[G]verything
+Was as fresh as the bright blue sk[D]y
+[D]Now and then when I see her face
+She [Cadd9]takes me away to that special place
+And if I [G]stared too long
+I'd probably break down and cr[D]y 
+
+ 
+ 
+Chorus:
+[A]Whoa, whoa,[C] whoa, sweet child o'm[D]ine
+[A]Whoa oh oh [C]oh sweet love o’m[D]ine
+
+ 
+ 
+Pre-Verse:
+[D Cadd9 G D]
+
+Verse 2:
+[D]She's got eyes of the bluest skies
+As [Cadd9]if   they thought of rain
+I [G]hate to look into those eyes
+And [D]see an ounce of pain
+Her [D]hair reminds me of a warm safe place
+Where [Cadd9]as   a child I'd hide
+And [G]pray for the thunder and the rain
+To qui[D]etly pass me by
+
+ 
+ 
+Chorus:
+[A]Whoa, whoa,[C] whoa, sweet child o'm[D]ine
+Whoa [A]oh oh oh o[C]h sweet love o’[D]mine
+
+ 
+ 
+Bridge:
+[D Cadd9 G D]
+[D Cadd9 G D]
+ 
+ 
+Chorus:
+[A]Whoa, whoa,[C] whoa, sweet child o'm[D]ine
+[A]Whoa oh oh [C]oh sweet love o’m[D]ine
+[A]Whoa, whoa,[C] whoa, sweet child o'm[D]ine
+Oh yeah yeah
+[A]Whoa oh oh [C]oh sweet love o’m[D]ine
+
+ 
+ 
+Guitar Solo 1:
+[Em C B7 Am]
+[Em C B7 Am]
+[Em C B7 Am]
+[Em C B7 Am]
+
+Guitar Solo 2:
+[Em G A C D]
+[Em G A C D]
+[Em G A C D]
+[Em G A C D]
+
+ 
+ 
+Interlude:
+[Em G A C D]
+[Em]Where do we go
+[G]  Oh,[A]where do we go now
+[C]  [D]  [Em]Where do we go
+[G]  Mmm wher[A]e  do we go now
+[C]  [D]  [Em] Aih Aih Aih Ai[G]h Aih Ai, Aih Aih
+[A]Where do we go now[C] Ah Aih aw[D] aw a[Em]w aw
+
+ 
+ 
+Outro:
+Where do we[G]go
+Ah [A]where do we go now
+[C]  [D]  Ah[Em] where do we [G]go
+[A]Where do we go now
+[C]  [D]  [Em]Where do we go
+[G]  [A]Where do we go now?
+[E5]No [D5] no[B5]  n[A#5]o  n[A5]o n[G5]o  [Em]no  no
+Sweet child[G]
+Sweet [A]chil[C]d [D]   o[Em]f mine.

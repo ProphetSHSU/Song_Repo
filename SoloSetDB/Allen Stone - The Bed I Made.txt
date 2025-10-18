@@ -1,0 +1,56 @@
+{title:The Bed I Made}
+{artist:Allen Stone}
+{key:C♯/D♭ minor}
+{duration:3:17}
+{tempo:80}
+{color:P}
+
+{comment: Capo -2}
+
+   E - 0221xx    C#m7 - x424xx      F#m - x442xx-|
+F#m7 - 2x22xx    C#m6 - x423xx      G#m - x664xx-|
+G#m7 - 4x44xx      B7 - x212xx    A(v2) - x776xx-|
+ G#7 - 4x45xx       A - x022xx        B - x244xx-|
+
+Verse:
+I took a [E]plane over the [F#m7]stars,
+It didn't [G#m7]get me very [G#7]far,
+'Cause [C#m7]all my [C#m6]problems, the[F#m7-G#m7]y fol  -   [F#m7]low   [E]me,
+[E]I flew to the [F#m7]moon, but it wasn't [G#m7]far enough a-[G#7]way from you,
+'Cause [C#m7]all our [C#m6]problems, the[F#m7-G#m7]y fol  -   [F#m7]low   [B7]me, yeah, hey, yeah,
+
+Chorus:
+And [A]every [G#7]night, I[C#m7] close my[C#m6]eyes,
+And [A]all my [G#7]troubles[C#m7]fade,
+But [A]every [G#7]morning[C#m7] when I[C#m6]rise,
+I'm still [F#m7]sleeping in this [B7]bed I made
+
+[E]C#[F#m7]m7 C#[G#m7]m6 F#[G#7]m7-G#m7 F#m7 E
+
+Verse:
+One million [E]times inside of my [F#m7]mind,
+[G#m7]I have justi[G#7]fied,
+But [C#m7]all my [C#m6]problems still[F#m7-G#m7] fol   -   [F#m7]low   [E]me,
+And [E]I discovered a [F#m7]way to [G#m7]cleverly [G#m6]avoid the blame,
+But [C#m7]all my [C#m6]problems still[F#m7-G#m7] fol   -   [F#m7]low   [B7]me,
+
+Chorus:
+And [A]every [G#7]night, I[C#m7] close my[C#m6]eyes,
+And [A]all my [G#7]troubles[C#m7]fade,
+But [A]every [G#7]morning[C#m7] when I[C#m6]rise,
+I'm still [F#m7]sleeping in this [B7]bed I made
+
+Bridge:
+[F#m]    Ohhh, I can't outrun the [B7]pain, oh,
+[F#m]      Should have faced these demons [B7]as they came, yeah,
+[F#m]      And what I wouldn't [G#m]trade,
+To [A(v2)]make some room in this [B7]bed I made,
+
+Chorus:
+And [A]every [G#7]night, I[C#m7] close my[C#m6]eyes,
+And [A]all my [G#7]troubles[C#m7]fade,
+But [A]every [G#7]morning[C#m7] when I[C#m6]rise,
+I'm still [F#m7]sleeping in this [B7]bed I made
+I'm still [F#m7]sleeping in this [B7]bed,
+I'm still [F#m7(hold)]sleeping in this [B(hold)]bed I made.[E]
+

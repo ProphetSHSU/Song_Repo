@@ -1,0 +1,45 @@
+{title:It's So Hard to Say Goodbye to Yesterday}
+{artist:Boyz 2 Men}
+{key:E major}
+{duration:2:49}
+{tempo:88}
+{color:P}
+
+{comment: Capo 0}
+
+How do [E]I say [Bsus]goodby[B]e to [A]what we [Am]had?[E][F#m7]
+The [A]good times that made us [E]laugh
+Outweigh the [Eadd9]bad. [Bsus][B]
+
+I thought we'd [E]get to see for[G#]ever
+But foreve[C#m]r's  [E]gone a[A6]way[Am6]
+It's so [E]hard to say [B]goodbye to yester[A]day[Am].[E]
+
+I don't[E] know [Bsus]where [B]this road
+[A]Is going[Am] to le[E]ad[F#m7]
+All [A]I know is where we've be[E]en
+And what we'v[Eadd9]e been t[Bsus]hrough[B].
+
+If we get to se[E]e tomorrow[G#]
+I hope it'[C#m]s wor[E]th all[A6] th[Am6]e wait
+It's so [E]hard to say [B]goodbye to yester[A]day[Am].[E]
+
+And I'll take w[E]ith me the mem[G#]ories
+To be my s[C#m]unshi[E]ne aft[A6]er [Am6]the rain
+It's so [E]hard to say [B]goodbye to yester[A]day[Am].[E]
+
+And I'll take w[E]ith me the mem[G#]ories
+To be my s[C#m]unshi[E]ne aft[A6]er [Am6]the rain
+It's so [E]hard to say [B]goodbye to yester[A]day[Am].[E]
+
+E:022100
+Bsus: x24400
+B: x24442
+A: x02220
+Am: x02210
+F#m7: 242222
+Eadd9: 022102
+G#: 466544
+C#m: x46654
+A6: x02222
+Am6: x02212

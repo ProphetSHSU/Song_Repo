@@ -1,0 +1,65 @@
+{title:The Red Strokes}
+{artist:Garth Brooks}
+{key:A♯/B♭ major}
+{duration:3:36}
+{tempo:166}
+{color:P}
+
+{comment: Capo 1}
+
+Dmaj7  Xx0222:
+Asus2  X02200:
+Dsus2  Xx0230:
+Esus4  022200:
+
+Intro:
+[A] [F#m][Dmaj7][E7]
+
+Verse:
+[A]Moonlight on canvas, [Asus2]midnight and [A]wine
+[F#m]Two shadows starting [D]to softly com[E]bine
+The [A]picture they're painting, [Asus2]is one of the [A]heart
+And to [F#m]those who have seen it, [E]it's a true work of art
+
+Chorus:
+Oh, [A]the red strokes, [E]passions un[F#m]caged
+[D]Thundering moments, [E]of tenderless [E7]rage
+Oh, [A]the red strokes, [E]tempered and [F#m]strong
+Burning the [E]night like the [Dsus2]dawn
+
+Verse:
+[A]Steam on the window, [Asus2]salt in a [A]kiss
+[F#m]Two hearts have never [D]pounded like [E]this
+Ins[A]pired by a vision, [Asus2]that they can't [A]command
+[F#m]Erasing the borders, [E]with each brush of a hand
+
+Chorus:
+Oh, [A]the red strokes, [E]passions un[F#m]caged
+[D]Thundering moments, [E]of tenderness [E7]rage
+Oh, [A]the red strokes, [E]tempered and [F#m]strong
+Burning the [E]night like the [Dsus2]dawn
+
+Instrumental:
+[A][E][F#m][D][E]
+
+[A] [E][F#m][E][Dsus2]
+
+Bridge:
+[F#m]Oh, the blues will be [E]blue and [D]the jealousies [A]green
+But when [F#m]love picks its [E]shade, [Esus4]it demands to be [E]seen[E7]
+
+Chorus:
+Oh, [A]the red strokes, [E]passions un[F#m]caged
+[D]Thundering moments, [E]of tenderness [E7]rage
+Oh, [A]the red strokes, [E]tempered and [F#m]strong
+Burning the [E]night like the [Dsus2]dawn
+
+Chorus:
+Oh, [A]the red strokes, [E]passions un[F#m]caged
+[D]Thundering moments, [E]of tenderness [E7]rage
+Oh, [A]the red strokes, [E]tempered and [F#m]strong
+Burning the [E]night like the [Dsus2]dawn
+
+Outro:
+[A]Steam on the window, [Asus2]salt in a [A]kiss
+[F#m]Two hearts have never, [D]pounded like [E]this

@@ -1,0 +1,89 @@
+{title:Man in the Mirror}
+{artist:Michael Jackson}
+{key:G♯/A♭ major}
+{duration:5:19}
+{tempo:100}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+   G       D/F#      Em7      D         Cadd9
+e|------10------10-------10--------10---------------------|
+B|-12------10--------8------------------5---------5-------|
+G|----------------------------11------------7-------7-----|
+D|----------------------------------------------------5---|
+A|-10------9---------7------------------------------------|
+E|----------------------------10--------8-----------------|
+
+Verse:
+[G]I'm gonna [D/F#]make a change,[Em]    [D]for once in my [C]life
+It's gonna [G]feel real [D/F#]good, gonna make a [Em]difference, [D]gonna make it [C]right
+As I,[G] turn up [D/F#]the collar on[Em]  my favorite [D]winter coat,[C]this wind is blowin' my mind
+I see the [G]kids in the [D/F#]street, with not [Em]enough to eat[D]
+Who am I, [C]to be blind, pretending not to see their needs
+
+[Am7] A summer's disregard[C/B], a broken bottle top
+[C] And a one man's s[C/B]oul
+They [Am7]follow each other on the [C/B]wind ya' know
+'Cause they [C]got nowhere to go[D]
+That's why I want you to know[G]
+
+Chorus:
+[G] I'm [G/B]starting with the [C]man in the [D]mirror
+[G] I'm [G/B]asking him to [C]change his [D]ways
+[G] And no [G/B]message could have [C]been any [A/C#]clearer
+ If you w[Dm]anna make the world a better place
+ Take a look at yourself, and then make a chang[G]e[D/F#]
+Bridge:
+[Em]  Na na na,[D]  na na na na, na [C]na, na na, uh-huh[D]
+
+Verse:
+[G]I've been a [D/F#]victim of [Em]a selfish [D]kind of love,[C]It's time that I realize
+There are [G]some with no [D/F#]home, not a [Em]nickel to loan[D]
+Could it be [C]really me, pretending that they're not alone?
+
+[Am7] A willow deeply scarred[C/B], somebody's broken heart
+[C] And a washed-out [C/B]dream
+They [Am7]follow the pattern of the [C/B]wind, ya' see
+'Cause they [C]got no place to be[D]
+That's why I'm starting with me[G]
+
+Chorus:
+[Ab] I'm [Ab/C]starting with the [Db]man in the [Eb]mirror
+[Ab] I'm [Ab/C]asking him to [Db]change his [Eb]ways
+[Ab] No m[Ab/C]essage could have [Db]been any [Bb/D]clearer
+ If you [Ebm]wanna make the world a better place
+[Ab] Take[Ab/C] a look at yoursel[Db]f and then [Eb]make the change
+[Ab] You [Ab/C]gotta get it right[Db], while you[Eb]got the time
+[Ab] 'Cau[Ab/C]se when you close [Db]your heart[Eb]
+
+Bridge:
+ Then you close your, [Ab]mind
+I'm [Ab/C]starting with the [Db]man in the [Eb]mirror
+[Ab] I'm [Ab/C]asking him to [Db]change his [Eb]ways
+[Ab] No m[Ab/C]essage could have [Db]been any [Bb/D]clearer
+If you [Ebm]wanna make the world a better place
+Take a look at yourself and then make that [Ab]change[Eb/G]
+[Fm]  Na na na,[Eb]  na na na na, na [Db]na, na na,[Eb]   oh y[Ab]eah[Eb/G]
+[Fm]  Na na na,[Eb]  na na na na, na [Db]na, na na, oh no, oh no
+
+Outro:
+[Db]I'm gonna make a change
+[Db]It's gonna feel real good, come on (change)
+[Db]Just lift yourself, you know
+[Db]You've got to stop it, yourself
+(Yeah, make that change)
+[Db]I've got to make that change, today! hoo! (man in the mirror)
+[Db]You got to, you got to not let yourself brother, Hoo!
+(Yeah, make that change)
+[Db]I've got to get that man, that man (man in the mirror)
+[Db]You've got to, you've got to move! come on! come on!
+[Db]You got to, stand up! stand up! stand up! (Yeah, make that change)
+[Db]Stand up and lift yourself, now! (man in the mirror)
+[Db]Hoo! Hoo! Hoo! Aaow!
+(Yeah, make that change)
+[Db]Gonna make that change, come on! (man in the mirror)
+[Db]You know it! you know it! you know it! you know
+[Db](Change)
+Make that change

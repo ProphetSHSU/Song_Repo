@@ -1,0 +1,38 @@
+{title:Good}
+{artist:Better than Ezra}
+{key:G major}
+{duration:3:05}
+{tempo:110}
+{color:P}
+
+{comment: Capo 0}
+
+Verse:
+[G]Lookin arou[D]nd the [Em]house[C], h[G]idden beh[D]ind the [Em]window and the doo[C]r
+[G]Searchin for [D]signs of l[Em]ife but there's n[C]obody hom[G]e[D][Em][C]
+[G]Now maybe I'm j[D]ust too s[Em]cared[C]
+[G]Or maybe I'm j[D]ust too f[Em]rightened by the [C]sound of it
+[G]Pieces of no[D]tes fall d[Em]own but the [C]letter said
+
+Chorus:
+[G]Uh-huh, it was g[D]ood living with you
+[Em]Uh-huh, it was g[C]ood,
+[G]Uh-huh, it was g[D]ood living with you
+[Em]Uh-huh, it was g[C]ood
+
+Ah-ah-ah, [G]good g[D]ood [Em]good [C]good
+
+Verse:
+[G]Sitting aro[D]und the h[Em]ouse[C], w[G]atchin the [D]sun trace sh[Em]adows on the floo[C]r
+[G]Searchin for [D]signs of l[Em]ife but there's n[C]obody home
+[G]Well maybe I'll c[D]all or wr[Em]ite you a lett[C]er
+[G]Now maybe we'll [D]see on the [Em]4th of Ju[C]ly
+[G]But I'm not too s[D]ure, and I'm [Em]not too pr[C]oud
+[G]Well, I'm not too s[D]ure and I'm [Em]not too pr[C]oud to say
+
+Chorus:
+[G]Uh-huh, it was g[D]ood living with you
+[Em]Uh-huh, it was g[C]ood,
+[G]Uh-huh, it was g[D]ood living with you
+[Em]Uh-huh, it was g[C]ood
+

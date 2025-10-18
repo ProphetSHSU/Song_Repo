@@ -1,0 +1,69 @@
+{title:The Story}
+{artist:Brandi Carlile}
+{key:F#}
+{duration:3:57}
+{tempo:94}
+{color:G}
+
+{c: Capo 2}
+
+{c: arps}
+Intro:
+[A][Asus4]
+[A][Asus4]     
+
+Verse:
+All of these li[A]nes across my face
+Tell you the sto[E]ry of who I am
+So many sto[F#m]ries of where I've been
+And how I go[Dsus2]t    to where I am
+But these sto[A]ries don't mean [E]anything
+When you've [F#m]got no one to [Dsus2]tell them to
+It's [A]true
+[E]I was made for [A]you[Asus4]
+
+Verse:
+[A] I climbed acro[A]ss the mountaintops
+Swam all acro[E]ss the ocean blue
+I crossed all the li[F#m]nes and I broke all the rules
+But baby I bro[Dsus2]ke   them all for you
+Oh because e[A]ven when I wa[E]s flat broke
+You [F#m]made me feel like a [Dsus2]million bucks
+You[A]do
+[E]I was made for [A]you[Asus4][A][Asus4]
+
+{c: e7,9,11,7.. b5..,3,0}
+Solo:
+[A] [E][F#m][Dsus2]
+
+Bridge:
+[A][E][F#m][Dsus2]
+[A][E][A][Asus4]
+
+Verse:
+{c: NC}
+You see the smile that's on my mouth
+{c: arps}
+It's hiding the wo[E]rds that don't come out
+All of my frie[F#m]nds who think that I'm blessed
+They don't know[Dsus2]my head is a mess
+No [A]they don't know who I[E]really am
+And [F#m]they don't know what I[Dsus2]'ve  been through
+Like you[A]do
+And [E]I was made for [A]you[Asus4]
+
+Verse:
+{c: chugs and ahhhhhs}
+[A] All of these [A]lines across my face
+Tell you the sto[E]ry of who I am
+So many sto[F#m]ries of where I've been
+And how I go[Dsus2]t    to where I am
+Oh but these [A]stories don't mean [E]anything
+When you've [F#m]got no one to [Dsus2]tell them to
+It's [A]true
+[E]I was made for you[A][Asus4]
+[A] Oh yeah,[Asus4]     
+
+Outro:
+well it's [A]true
+That [E]I was made for[A]you.

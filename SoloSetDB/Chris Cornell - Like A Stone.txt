@@ -1,0 +1,58 @@
+{title:Like A Stone}
+{artist:Shawn James}
+{key:D♯/E♭ minor}
+{duration:5:28}
+{tempo:93}
+{color:P}
+
+{comment: Capo -1}
+
+Intro:
+[Em][D][B7][C]
+[Em][D][B7][C]
+
+Verse:
+[Em]On a cobweb [D]afternoon in a [B7]room full of [C]emptiness
+By a [Em]freeway, I [D]confess I was[B7] lost in the [C]page
+[Em]Of a book full of [D]death, r[B7]eading how we'll d[C]ie alone
+And [Em]if we're good, [D]we'll lay to rest [B7]anywhere we want to [C]go
+
+Chorus:
+[Em]In your [G]house I [D]long to [Em]be
+[Em]Room by [G]room [D]patientl[Em]y
+I'll [C]wait for [Em]you there [D]like a [Em]stone
+I'[C]ll wait for yo[Em]u there [B7]alone
+
+Instrumental:
+[Em][D][B7][C]
+
+Verse:
+[Em]And on my deathbed [D]I will pray to [B7]the gods and the [C]angels
+To the[Em] pagan of [D]anyone who [B7]will take me to [C]heaven
+[Em]To a place [D]I recall, [B7]I was there so [C]long ago
+[Em]The sky was bruised, [D]the wine was bled, [B7]and there you led me [C]on
+
+ [Chorus]
+[Em]In your [G]house I [D]long to [Em]be
+[Em]Room by [G]room [D]patientl[Em]y
+I'll [C]wait for you [Em]there [D]like a [Em]stone
+I'll [C]wait for you [Em]there [B7]alone, [B7]alone
+
+Instrumental:
+[Em][G][D][Em]
+[C][Em][B7][B7]
+
+Bridge:
+[C]And on I [G]read un[B7]til the day was [C]gone
+And I [Cm]sat in [A7]regret for [B7]all the t[Em]hings I've done
+[C]For all that I'v[G]e blessed, and [B7]all that I've [C]wronged
+[Cm]In dreams until [A7]my death I will [B7]wander on
+
+Chorus:
+[Em]In your [G]house I [D]long to [Em]be
+[Em]Room by [G]room [D]patientl[Em]y
+I'll [C]wait for you [Em]there [D]like a [Em]stone
+I'll [C]wait for you[Em] there [B7]alone, [B7]alone
+
+Outro:
+[C]

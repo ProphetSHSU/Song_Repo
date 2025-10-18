@@ -1,0 +1,67 @@
+{title:My Own Worst Enemy}
+{artist:Lit}
+{key:E}
+{Duration:02:49}
+{tempo:104}
+{color:P}
+
+{c: distortion}
+
+Verse 1:
+[E]Can we forget about the things I said when I [B]was [A]drunk,
+[E]I didn't mean to call you that.[B][A]
+[E]I can't remember what was said or what you threw [B]at [A]me
+[E]Please tell me, please te[B]ll[A]me
+
+ 
+ 
+Chorus: 
+{c:(change up strumming)}
+[E]whyyyyyyyyyyyy[F#m]yyy
+My car is in the f[A]ront yard, and [B]I'm, 
+sleeping with my cl[E]othes on,[F#m]
+I came in through the w[A]indow, last ni[B]ght,
+and you're,[E] gone,   gone.[B][A]
+
+ 
+ 
+Verse 2:
+[E]It's no surprise to me I am my own worst e[B]ne[A]my,
+[E]'Cause every now and then I kick the living sh[B]it [A]out of me
+[E]The smoke alarm is going off and there's a cig[B]are[A]tte,
+[E]Still burning, please te[B]ll [A]me
+
+Chorus:
+{c:(change up strumming)} 
+[E]whyyyyyyyyyyyy[F#m]yyy
+My car is in the f[A]ront yard, and [B]I'm, 
+sleeping with my cl[E]othes on,[F#m]
+I came in through the w[A]indow, last ni[B]ght,
+and you're,[E] gone,   gone.[B][A]
+ 
+ 
+Solo:
+{c:Verse Rhythm: Repeat]
+[E              B  A]
+[E              B  A]
+[E              B  A]
+
+Chorus:
+[E]whyyyyyyyyyyyy[F#m]yyy
+My car is in the f[A]ront yard, and [B]I'm, 
+sleeping with my cl[E]othes on,[F#m]
+I came in through the w[A]indow, last ni[B]ght,
+
+[E]It's no surprise to me I[F#m]am my own worst enemy
+[A]'Cause every now and then I [B]kick the living shit out of me
+[E]Can we forget about the [F#m]things I said When I was drunk
+[A]I didn't mean to c[B]all you that
+
+ 
+Outro:
+{c:{c:Verse Rhythm}
+[E              B  A]
+[E              B  A]
+[E              B  A]
+[E              B  A]
+[E]

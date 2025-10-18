@@ -1,0 +1,79 @@
+{title:Everybody Wants to Rule the World}
+{artist:Tears for Fears}
+{key:D}
+{duration:4:10}
+{tempo:112}
+{color:P}
+
+Intro:
+[D][Dmaj7][G/D][Dmaj7][G/D]
+[Dmaj7][G/D][Dmaj7][G/D]
+
+Verse:
+[Dmaj7][G/D]Dmaj7 G/D
+Welcome to your life 
+There's no turning [Dmaj7]back [G/D]
+Even while we [Dmaj7]sleep[G/D]
+We will find you
+
+Chorus:
+[Em]Acting on your [F#m]best behaviour
+[G]Turn your back on [F#m]mother nature
+[Em]Every[F#m]body [G]wants to [A]rule the 
+[Dmaj7]world[G/D][Dmaj7][G/D]
+
+Verse:
+[Dmaj7]      [G/D]   It's my own de[Dmaj7]sign [G/D]
+It's my own re[Dmaj7]morse[G/D]
+Help me to decide[Dmaj7][G/D]
+Help me make the [Em]most
+
+Chorus:
+Of freedom [F#m]and of pleasure
+[G]Nothing ever [F#m]lasts forever
+[Em]Every[F#m]body [G]wants to [A]rule the [G]world
+
+Bridge:
+There's a room where the [D]light won't [A]find you
+[G] Holding hands while the [D]walls come [A]tumbling down[G]
+When they do I'll be [D]right be[A]hind you
+
+Chorus:
+[Em]  So glad we've [F#m]almost made it
+[G] So sad they [F#m]had to fade it
+[Em]Every[F#m]body [G]wants to [A]rule the [G]world[D]
+
+Interlude:
+[A][G][D][A][G][D]
+[A][G][D][A][Bm]
+
+Synth Solo:
+[C][Bm][C][G][A]
+
+Guitar Solo:
+[Dmaj7][G/D][Dmaj7][G/D]
+[Dmaj7][G/D][Dmaj7][G/D]
+
+Chorus:
+[Em]I can't stand this [F#m]indecision
+[G]Married with a [F#m]lack of vision
+[Em]Every[F#m]body [G]wants to [A]rule the...
+[Em]  Say that you'll [F#m]never never never never need it
+[G] One headline [F#m]why believe it?
+[Em]Every[F#m]body [G]wants to [A]rule the [G]world
+
+Interlude:
+[D] [A][G][D][A]
+
+Chorus:
+[Em]All for freedom [F#m]and for pleasure
+[G]Nothing ever [F#m]lasts forever
+
+Guitar Solo:
+[Em]Every[F#m]body [G]wants to [A]rule the 
+[Dmaj7]world[G/D][Dmaj7][G/D]
+[Dmaj7][G/D][Dmaj7][G/D]
+[Dmaj7][G/D][Dmaj7][G/D]
+
+Outro:
+[Dmaj7][G/D][Em][F#m][G][A][D]

@@ -1,0 +1,53 @@
+{title:I just called to say I love you}
+{artist:Stevie Wonder}
+{key:C♯/D♭ major}
+{duration:4:22}
+{tempo:114}
+{color:P}
+
+{comment: Capo 1}
+
+Verse:
+[C]No New Year`s day, [G]to cele[C]brate,[G]
+no chocolate [C]covered candy hearts to give a[DmM7]way.
+No first of [Dm]spring, [DmM7]no song to [Dm]sin[DmM7]g,
+in fact [Dm]here`s just another [G]ordinary [C]day.
+[C]No April rain, no [G]flowers [C]bloom[G],
+no wedding [C]Saturday within the month of [Dm]June[DmM7].
+But what it [Dm]is, [DmM7]is something [Dm]true[DmM7],
+made up of [Dm]these three words that [G]I must say to [C]you.
+
+Chorus:
+I just [Dm]called to [G]say I [C]love you,
+I just [F]called to [G]say how much I [Am]care.
+I just [Dm]called to [G]say I [C]love you,
+and I [F]mean it from the [G]bottom of my [C]heart.
+
+Verse:
+No summer`s [C]high, [G]no warm [C]Jul[G]y,
+no harvest [C]moon to light one tender August [Dm]nigh[DmM7]t.
+No autumn [Dm]breeze, [DmM7]no falling [Dm]leaves[DmM7],
+not even [Dm]time for birds to [G]fly to southern [C]skies.
+No Libra [C]Sun, [G]no Hallow[C]een[G],
+no giving [C]thanks to all the Christmas joy you [Dm]bring[DmM7].
+But what it [Dm]is, [DmM7]though old, so [Dm]new.[DmM7]
+to fill your [Dm]heart like no three [G]words could ever [C]do.
+
+Chorus:
+I just [Dm]called to [G]say I [C]love you,
+I just [F]called to [G]say how much I [Am]care.
+I just [Dm]called to [G]say I [Am]love you,
+and I [F]mean it from the [G]bottom of my [C]heart.
+
+Chorus:
+I just [F#]called, to [G#]say I [C#]love you.
+I just [F#]called, to [G#]say how much I [Bbm]care.
+I just [F#]called, to [G#]say I [Bbm]love you.
+And I [F#]mean it from the [G#]bottom of my [C#]heart.
+
+Chorus:
+I just [G]called, to [A]say I [D]love you.
+I just [G]called, to [A]say how much I [Bm]care.
+I just [G]called, to [A]say I [Bm]love you.
+And I [G]mean it from the [A]bottom of my [D]heart.
+

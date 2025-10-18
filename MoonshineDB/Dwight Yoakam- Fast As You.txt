@@ -1,0 +1,96 @@
+{title:Fast As You}
+{artist:Dwight Yoakam}
+{key:E}
+{Duration:04:45}
+{tempo:126}
+{color:P}
+
+{c:Jake Opens!}
+{c: finger pick E -}
+{c: e e g b d b c# b}
+
+Intro:
+[E]
+ 
+
+Pre-Verse:
+[E]
+
+Verse:
+[E]Maybe someday I'll be strong
+Maybe it won't be long
+[A]I'll be the one who's tough
+[E]You'll be the one who's got it rough
+[F#]It won't be long and
+[A]Maybe I'll be real [E]strong
+
+Verse:
+[E]Maybe I'll do things right
+Maybe I'll start tonight
+[A]You'll learn to cry like me
+[E]Baby let's just wait and see
+[F#]Maybe I'll start to[A]night
+And do things [E]right
+
+Chorus:
+[A]You'll control me
+And oh so boldly
+Rule me 'til I'm free[E]
+'Til the [A]pain that shakes me
+Finally makes me
+Get up off of my [B7]knees
+
+Verse:
+[E]Maybe I'll be as fast as you
+Maybe I'll break hearts too
+But [A]I think that you'll slow down
+[E]When your turn to hurt comes around
+[F#]Maybe I'll break hearts
+[A]And be as fast as [E]you
+
+Guitar Solo 1:
+[E A E F#]
+[A E]
+
+Chorus:
+[A]You'll control me
+Oh so boldly
+Rule me 'til I'm free[E]
+'Til the [A]pain that shakes me
+Finally makes me
+Get up off of my [B7]knees
+
+Verse:
+[E]Maybe I'll be as fast as you
+Maybe I'll break hearts too
+But [A]I think that you'll slow down
+[E]When your turn to hurt comes around
+[F#]Maybe I'll break hearts
+[A]And be as fast as [E]you
+[F#]Maybe I'll break hearts
+[A]And be as fast as [E]you
+Oh, sucker[E]
+
+Guitar Solo 2:
+[E A E] 
+[F#][A E]
+
+{c:just talking here out}
+[E]Yeah, I'll be strong, it won't be long
+[A]I'll be the one who's tough
+[E]You'll be the one who's got it rough
+[F#]   [A]  [E] 
+
+[E]  
+[A]You'll learn to cry like me
+[E]Baby let's just wait and see
+[F#]   [A]  [E]  
+
+[E]Yeah, maybe I'll be fast as you
+Maybe I'll break hearts too
+[A]
+[E]
+[F#][A][E]
+
+Outro:
+[E]

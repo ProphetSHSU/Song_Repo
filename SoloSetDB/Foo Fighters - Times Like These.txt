@@ -1,0 +1,88 @@
+{title:Times Like These}
+{artist:Foo Fighters}
+{key:E minor}
+{duration:4:28}
+{tempo:145}
+{color:P}
+
+{comment: Capo 0}
+
+Verse:
+[D]I, I’m a one way [Am]motorw[Am7]ay
+I’m the one that [C]drives away, [Em]follows [Em7]you back ho[D]me
+
+Bridge:
+-riff-
+
+Verse:
+[D]I, I’m a streetlight [Am]shin[Am7]ing
+I’m a white light [C]blinding bright, [Em]burning [Em7]off and o[D]n
+
+Bridge:
+-riff-x2
+     Uh huh!
+
+Chorus:
+It’s [Cadd9]times like these you [Em7]learn to live [D]again[Dsus4]
+It’s [Cadd9]times like these you [Em7]give and give [D]again[Dsus4]
+It’s [Cadd9]times like these you [Em7]learn to love [D]again[Dsus4]
+It’s [Cadd9]times like these time[Em7] and time [D]again[Dsus4]
+-riff-x2
+
+Verse:
+[D]I, I’m a new day [Am]rising[Am7]
+I’m a brand new [C]sky that hangs [Em]stars [Em7]upon tonig[D]ht
+
+Bridge:
+-riff-x2
+
+Verse:
+[D]I, I’m a little di[Am]vided[Am7]
+Do I stay or [C]run away and [Em]leave i[Em7]t all behin[D]d
+
+Bridge:
+-riff-x2
+  Ah ha!
+
+Chorus:
+It’s [Cadd9]times like these you [Em7]learn to live [D]again[Dsus4]
+It’s [Cadd9]times like these you [Em7]give and give [D]again[Dsus4]
+It’s [Cadd9]times like these you [Em7]learn to love [D]again[Dsus4]
+It’s [Cadd9]times like these time[Em7] and time [D]agaaaaaaaai[Dsus4]n
+
+Interlude Chords:
+[D] [C][Em7][D][C][Em7][D]
+
+Interlude Lead Part:
+(mess around with it)
+e|------------------------------------------|
+B|------------------------------------------|
+G|----------12--11----------12--11----------|
+D|--12--10----------12--10------------------| x12
+A|----------------------------------12--10--|
+E|------------------------------------------|
+Oooooh wooooaaah oohhh....
+ 
+e|--------------------------------------------|
+B|--------------------------------------------|
+G|----------12--11----------12--11------------|
+D|--12--10----------12--10--------------------| x4
+A|----------------------------------12--10--12|
+E|--------------------------------------------|
+
+Chorus:
+It’s [Cadd9]times like these you [Em7]learn to live [D]again[Dsus4]
+It’s [Cadd9]times like these you [Em7]give and give [D]again[Dsus4]
+It’s [Cadd9]times like these you [Em7]learn to love [D]again[Dsus4]
+It’s [Cadd9]times like these [Em7]time and time [D]again[Dsus4]
+
+It’s [Cadd9]times like these you [Em7]learn to live [D]again[Dsus4]
+It’s [Cadd9]times like these you [Em7]give and give [D]again[Dsus4]
+It’s [Cadd9]times like these you [Em7]learn to love [D]again[Dsus4]
+It’s [Cadd9]times like these [Em7]time and time [D]again[Dsus4]
+
+Outro:
+It’s [Cadd9]times like these you [Em7]learn to live [D]again[Dsus4]
+It’s [Cadd9]times like these you [Em7]give and give [D]again[Dsus4]
+It’s [Cadd9]times like these you [Em7]learn to love [D]again[Dsus4]
+It’s [Cadd9]times like these time[Em7] and time [D]again[Cadd9]

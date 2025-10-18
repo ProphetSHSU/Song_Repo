@@ -1,0 +1,127 @@
+{title:Shut up and Dance}
+{artist:Walk the Moon}
+{key:C♯/D♭ major}
+{duration:3:19}
+{tempo:128}
+{color:G}
+
+{c: 1 riff}
+{c: Lisa shaker throughout}
+Intro:
+[Db] [Gb][Bbm][Ab]
+
+Chorus:
+Oh, don't you d[Db]are look b[Gb]ack
+Just keep your [Bbm]eyes on [Ab]me
+I said you're [Db]holding b[Gb]ack
+She said shut [Bbm]up and d[Ab]ance with [Db]me!
+This [Gb]woman is my [Bbm]destin[Ab]y
+She said [Db]ooh-oh-[Gb]hooh!
+Shut [Bbm]up and [Ab]dance with me
+
+{d_time: 0:19}
+{c: wikka wikka - c# power chord}
+{c: 4 bars}
+Break:
+[Gb][Ab][Bbm][Ab]
+[Gb][Ab][Db][Ab]
+
+Verse:
+We were [Gb]victims [Ab]of the ni[Bbm]ght
+The c[Ab]hemical, ph[Gb]ysical, k[Ab]ryptonite[Db]
+He[Ab]lpless to the b[Gb]ass and f[Ab]aded li[Bbm]ght
+[Ab]Oh, we were b[Gb]ound to get tog[Ab]ether
+Bound t[Db]o get toge[Ab]ther
+
+{d_time: 0:41}
+{c: chug}
+Pre-Chorus:
+She t[Db/F]ook my ar[Gb]m,
+I don't know [Bbm]how it h[Ab]appened
+We t[Db/F]ook the fl[Gb]oor and she said[Ab]
+
+Chorus:
+Oh, don't you d[Db]are look b[Gb]ack
+Just keep your [Bbm]eyes on [Ab]me
+I said you're [Db]holding b[Gb]ack
+She said shut [Bbm]up and d[Ab]ance with [Db]me!
+This [Gb]woman is my [Bbm]destin[Ab]y
+She said [Db]ooh-oh-[Gb]hooh!
+Shut [Bbm]up and [Ab]dance with me
+
+{d_time: 1:04}
+{c: wikka wikka}
+Break:
+[Gb][Ab][Bbm][Ab]
+
+Verse:
+A backless d[Gb]ress and some beat u[Ab]p sneaks[Bbm]
+My di[Ab]scothèque, Ju[Gb]liet te[Ab]enage dr[Db]eam
+I f[Ab]elt it in my c[Gb]hest as she l[Ab]ooked at [Bbm]me[Ab]
+I knew we were b[Gb]ound to be to[Ab]gether
+B[Db]ound to be t[Ab]ogether
+
+{c:chug}
+Pre-Chorus:
+She t[Db/F]ook my ar[Gb]m
+[Db]I don't k[Ab/C]now how [Ab]it happen[Gb]ed
+We t[Db/F]ook the fl[Gb]oor and she said[Ab]
+
+{d_time: 1:30}
+Chorus:
+Oh, don't you [Db]dare look [Gb]back
+Just keep your [Bbm]eyes on [Ab]me
+I said you're [Db]holding b[Gb]ack
+She said shut [Bbm]up and d[Ab]ance with [Db]me!
+This w[Gb]oman is my [Bbm]destin[Ab]y
+She said [Db]ooh-oh-[Gb]hooh!
+Shut [Bbm]up and [Ab]dance with [Gb]me
+
+{d_time: 1:45}
+Solo:
+[Bbm] [Db] [Gb] [Ab]
+[Bbm] [Db] [Gb] [Ab]
+[Bbm] [Db] [Gb] [Ab]
+[Bbm] [Db] [Gb] [Ab]
+
+{d_time: 2:04}
+Pre-Chorus:
+De[Db/F]ep in her[Gb]eyes
+[Db]I think [Ab/C]I see t[Ab]he futu[Gb]re
+[Db/F]I reali[Gb]ze t[Db]his is [Ab/C]my last c[Ab]hanc[Gb]e
+
+Sh[Db/F]e took my[Gb]arm
+[Db]I don't [Ab/C]know how i[Ab]t happe[Gb]ned
+We t[Db/F]ook the fl[Gb]oor and she said[Ab]
+
+{d_time: 2:19}
+Intro Riff:
+[Db] [Dbsus4] [Db] [Dbsus2]
+[Db] [Dbsus4] [Db] [Dbsus2]
+
+Chorus:
+Oh, don't you [Db]dare look [Dbsus4]back
+Just keep your [Db]eyes on[Dbsus2]me-
+I said you're [Db]holding b[Dbsus4]ack
+She said shut [Db]up and [Dbsus2]dance with me!
+[Db]This wo[Dbsus4]man is my d[Db]estin[Dbsus2]y
+She said [Db]ooh-oh-[Dbsus4]hooh!
+N.C.
+Shut up and dance!
+
+{d_time: 2:41}
+Oh, don't you [Db]dare look [Gb]back
+Just keep your [Bbm]eyes on [Ab]me
+I said you're [Db]holding b[Gb]ack
+She said shut [Bbm]up and d[Ab]ance with [Db]me!
+This w[Gb]oman is my [Bbm]destin[Ab]y
+She said [Db]ooh-oh-[Gb]hooh
+Shut [Bbm]up and [Ab]dance with [Db]me
+
+{d_time: 2:56}
+Outro:
+[Gb] [Bbm][Ab]
+[Db]Ooh-oh-[Gb]hooh, shut [Bbm]up and d[Ab]ance with 
+[Db]me [Gb] [Bbm][Ab]
+[Db]Ooh-oh-[Gb]hooh, shut [Bbm]up and d[Ab]ance with me
+[Bbm] [Db] [Gb] [Ab]

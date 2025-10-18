@@ -1,0 +1,101 @@
+{title:Rio}
+{artist:Duran Duran}
+{key:Em}
+{Duration:05:37}
+{tempo:141}
+
+Intro:
+[Em][C]
+[Em][C][A/C#][C]
+
+Verse:
+[Em]  Moving on the floo[C]r now babe you're a 
+[A]bird of para[C]dise
+[Em]  Cherry ice crea[C]m smile I 
+sup[A/C#]pose it's very ni[C]ce
+With a [Em]step to your left
+And a [C]flick to the right you 
+ca[A]tch that mirror way out [C]west
+[Em]  You know you're [C]something special and you 
+[A/C#]look like you're the [C]best[Em]
+
+Chorus:
+[E] Her name is [B]Rio and she 
+[D]dances on the sa[A]nd
+[E] Just like that [B]river twisting 
+[D]through a dusty la[A]nd
+[E] And when she [B]shines she really 
+show[D]s you all she [A]can
+[E] Oh Rio, [B]Rio dance 
+a[D]cross the Rio [A]Grande
+
+Interlude:
+[Em][C][A][C]
+
+[Em] [C][A/C#][C]
+
+Verse:
+[Em]  I've seen you on the [C]beach and 
+I[A]'ve seen you on T[C]V
+[Em]  Two[C] of a billion sta[A/C#]rs   
+[C] it means so [Em]much to me[C]
+Like a birthda[A]y or a pretty view[C]
+[Em]  But then I'm [C]sure that you 
+[A/C#]know it's just for you[C][Em]
+
+Chorus:
+[E] Her name is [B]Rio and she 
+[D]dances on the sa[A]nd
+[E] Just like that [B]river twisting 
+[D]through a dusty la[A]nd
+[E] And when she shi[B]nes she really 
+[D]shows you all she [A]can
+[E] Oh Rio, [B]Rio dance 
+a[D]cross the Rio [A]Grande
+
+Bridge:
+[C#m][A][F#][A][C#m]
+[A][F#][A][C#m]
+[F#][A][C#m][F#]
+[A][C#m][F#][A]
+[C#m][F#][A][C#m]
+[F#][A][C#m][F#]
+[A] [C#m]
+
+Verse:
+[Em]  Hey now woo[C] look at that did she 
+nea[A]rly run you dow[C]n
+At the [Em]end of the drive the [C]lawmen arrive
+[A/C#]You make me feel 
+ali[C]ve, alive ali[Em]ve
+[C] I'll take my cha[A]nce cause 
+[C]luck is on my [Em]side or something
+I [C]know what you're thinking
+I [A/C#]tell you something I 
+[C]know what you're thinki[Em]ng
+
+Chorus:
+[E] Her name is [B]Rio and she 
+[D]dances on the sa[A]nd
+[E] Just like that [B]river twists 
+a[D]cross a dusty la[A]nd
+[E] And when she shi[B]nes she really 
+show[D]s you all she [A]can
+[E] Oh Rio, [B]Rio dance 
+a[D]cross the Rio [A]Grande
+[E] Her name is [B]Rio she don't 
+[D]need to understa[A]nd
+[E] And I might [B]find her if I'm 
+[D]looking like I [A]can
+[E] Oh Rio, [B]Rio hear them 
+[D]shout across the la[A]nd
+[E] From mountains [B]in the north down 
+[D]to the Rio [A]Grande.
+
+Outro:
+[E][B][D][A]
+[E][B][D][A]
+
+{comment: (Fade out)}
+[E][B][D][A]
+[E][B][D]

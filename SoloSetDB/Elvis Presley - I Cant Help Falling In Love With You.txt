@@ -1,0 +1,41 @@
+{title:I Can't Help Falling In Love With You}
+{artist:Elvis Presley}
+{key:D major}
+{duration:3:02}
+{tempo:100}
+{color:P}
+
+{comment: Capo 2/4kc}
+
+Verse:
+[C]Wise [Em]men sa[Am]y, only f[F]ools r[C]ush i[G]n[G]
+But [F]I [G]can't [Am]help [F]falling in [C]love [G]with [C]you
+
+Instrumental:
+
+[Em][B7][Em][B7][Em][B7][A7][Dm7][G]
+
+Verse:
+[C]Wise [Em]men s[Am]ay, only[F] fools[C] rush[G] in[G]
+But [F]I [G]can't [Am]help [F]falling in [C]love [G]with [C]you
+[C]Shall [Em]I sta[Am]y, would it [F]be [C]a [G]sin[G]
+If [F]I [G]can't [Am]help f[F]alling in l[C]ove w[G]ith y[C]ou
+
+Chorus:
+[Em]As the river[B7] flows, g[Em]ently to [B7]the sea
+[Em]Darling so [B7]we go, s[A7]ome things were mea[Dm7]nt to be[G]
+
+[C]Take [G]my [Am]hand,[G] take my w[F]hole l[C]ife to[G]o[G]
+Cause [F]I [G]can't [Am]help [F]falling in [C]love [G]with [C]you
+
+[Em]As the river[B7] flows, g[Em]ently to t[B7]he sea
+[Em]Darling so [B7]we go, s[A7]ome things were [Dm7]meant to[G]be
+
+[C]Take [Em]my ha[Am]nd, take my wh[F]ole he[C]art to[G]o[G]
+Cause [F]I [G]can't [Am]help [F]falling in [C]love [G]with [C]you
+
+Outro:
+[F]I [G]can't [Am]help f[F]alling in l[C]ove w[G]ith y[C]ou
+[F]I [G]can't [Am]help f[F]alling in l[C]ove w[G]ith y[C]ou
+[F]I [G]can't [Am]help f[F]alling in l[C]ove w[G]ith y[C]ou
+

@@ -1,0 +1,55 @@
+{title:A Long December}
+{artist:Counting Crows}
+{key:F major}
+{duration:4:55}
+{tempo:71}
+{color:P}
+
+{comment: Capo 3}
+
+Intro:
+[D][G][Em][G][D][G][Em]
+
+Verse:
+[G]A long D[D]ecember and there's[A] reason to be[Em]lieve
+Maybe [G]this year will be[D] better than the[G]last
+I [Em]can't re[G]member the[D] last thing that you[A]said
+as you were [Em]leavin'
+Now the [D]days go by so [G]fast
+
+Chorus:
+And it's [D]one more day up [G]in the can[Em]yons[G]
+And it's [D]one more night in [G]Hollywoo[Em]d[Em]
+If you [D]think that I could [G]be forgiv[Em]en.[-stop-]..I wish you woul[D]d
+na[G]nana[Em]nana[G]nan[D]anan[G]a..[Em][Em]
+
+Verse:
+[G]The smell of [D]hospitals in [A]winter
+And the [Em]feeling that it's [G]all a lot of [D]oysters, but no [G]pearls
+[Em]All at [G]once you look a[D]cross a crowded [A]room
+To see the [Em]way that light a[D]ttaches to a [G]girl
+
+Chorus:
+And it's [D]one more day up [G]in the can[Em]yons[G]
+And it's [D]one more night i[G]n Hollywoo[Em]d[Em]
+If you th[D]ink you might come [G]to Califo[Em]rni[-stop-]a...I think you s[D]hould
+na[G]nana[Em]nana[G]nana[D]nana[G]..[Em]
+
+Verse:
+[G]Drove up to the [D]Hillside Manor [A]sometime after [Em]two a.m.
+And [G]talked a little [D]while about the [G]year
+[Em]I guess the [G]winter makes you [D]laugh a little [A]slower
+Makes you [Em]talk a little [D]lower about
+the [G]things you could not show her
+
+Chorus:
+And it's been a [G]long De[D]cember and there's [A]reason to bel[Em]ieve
+Maybe [G]this year will be [D]better than the [G]last
+[Em]I can't [G]remember all the [D]times I tried to [A]tell myself
+[Em]To hold on to these [D]moments as they [G]pass
+
+Outro:
+And it's been [D]one more day up [G]in the can[Em]yon[G]
+And it's [D]one more night i[G]n Hollywoo[Em]d[Em]
+It's been[D] so long since I've[G] seen the[Em] oc[-stop-]ean...I guess I s[D]hould
+na[G]nana[Em]nana[G]nana[D]nana[G]....[Em] (Rep[Em]eat)

@@ -1,0 +1,74 @@
+{title:Free Fallin}
+{artist:Tom Petty}
+{key:F major}
+{duration:4:16}
+{tempo:84}
+{color:P}
+
+{comment: Capo 1/0kc}
+
+Intro:
+[G][D][C][D]
+[G][D][C][D]
+[G][D][C][D]
+[G][D][C][D]
+
+Verse:
+I'll bet you've [G]never [D]heard ole [C]Marshall [D]Dillon say[G]
+Miss[D] Kitty have you [C]ever thought [D]of running away[G]
+Se[D]ttling down[C], would you [D]marry me[G]
+If [D]I asked you [C]twice and begged you [D]pretty please[G]
+She'd h[D]ave said ye[C]s in a New Yo[D]rk minute[G]
+They [D]never tied the kno[C]t
+[D]His heart wasn't [G]in it
+H[D]e just stole a [C]kiss as he ro[D]de away
+[G]He never hu[D]ng his h[C]at up at Kit[Cadd9]ty's place
+
+Chorus:
+I should've been a [G]cowboy[D][C]
+[D]I should've learned to [G]rope and [D]ride[C][D]
+Wearing [G]my six-shoo[D]ter, ri[C]ding by p[D]ony on a cattle dri[G]ve[D][C]
+[D]Stealing a y[G]oung girl's [D]heart[C][D]
+[G]Just like [D]Gene and R[C]oy
+[D]Singing those [G]campfire s[D]ongs
+[C]Oh I sh[D]ould've been a c[G]owboy[D][C][Cadd9]
+
+Verse:
+I might of [G]had a side [D]kick with a [C]funny n[D]ame
+Running w[G]ild through the [D]hills cha[C]sing Jesse [D]James
+[G]Ending [D]up on the [C]brink of [D]danger
+[G]Riding shotg[D]un for the [C]Texas R[D]angers
+Go w[G]est young [D]man, haven'[C]t you been [D]told
+Cali[G]fornia's fu[D]ll of whisk[C]y, women a[D]nd gold
+Sleeping [G]out all ni[D]ght beneath the[C] desert [D]stars
+A d[G]ream in my [D]eye and a [C]prayer in my[Cadd9]heart
+
+Chorus:
+I should've been a [G]cowboy[D][C]
+[D]I should've learned to [G]rope and [D]ride[C][D]
+Wearing [G]my six-shoo[D]ter, ri[C]ding by p[D]ony on a cattle dri[G]ve[D][C]
+[D]Stealing a y[G]oung girl's [D]heart[C][D]
+[G]Just like [D]Gene and R[C]oy
+[D]Singing those [G]campfire [D]songs
+[C]Oh I sh[D]ould've been a c[G]owboy[D][C][D]
+
+Instrumental:
+[G][D][C][D]
+[G][D][C][Cadd9]
+
+Chorus:
+I should've been a [G]cowboy[D][C]
+[D]I should've learned to [G]rope and [D]ride[C][D]
+Wearing [G]my six-shoo[D]ter, ri[C]ding by p[D]ony on a cattle dri[G]ve[D][C]
+[D]Stealing a y[G]oung girl's [D]heart[C][D]
+[G]Just like [D]Gene and R[C]oy
+[D]Singing those [G]campfire [D]songs
+[C]Oh I sh[D]ould've been a c[G]owboy[D][C]
+
+[D]Should've been a [G]cowbo[D]y[C]
+[D]Should've been a [G]cowbo[D]y[C]
+
+Slowly Fade:
+[D][G][D][C]
+[D][G][D][C]
+[D][G]

@@ -1,0 +1,114 @@
+{title:Closing Time}
+{artist:Semisonic}
+{key:G major}
+{duration:3:34}
+{tempo:105}
+{color:P}
+
+{comment: Capo 0}
+{c: arps}
+{c: shaker throughout}
+Intro:
+[G][D][Am][C]
+[G][D][Am][C]
+
+{d_time: 0:10}
+Verse:
+[G]Closing t[D]ime
+[Am]Open all the d[C]oors and 
+l[G]et you out i[D]nto the w[Am]orld[C]
+
+[G]Closing ti[D]me
+T[Am]urn all of the lig[C]hts on 
+over ev[G]ery boy and ev[D]ery g[Am]irl[C]
+
+{c: chugs}
+{c: Lisa harmony}
+[G]Closing ti[D]me
+[Am]One last call for alco[C]hol so 
+fin[G]ish your wh[D]iskey or [Am]beer[C]
+
+{c: Lisa harmony}
+[G]Closing ti[D]me
+[Am]You don't have to [C]go home but you 
+[G]can't [D]stay [Am]here[C]
+
+{d_time: 0:46}
+{c: big chug, then 4 floor}
+{c: Lisa harmony}
+Chorus:
+[G]I know w[D]ho I [Am]want to take me h[C]ome
+[G]I know w[D]ho I [Am]want to take me h[C]ome
+[G]I know w[D]ho I [Am]want to take me h[C]ome
+[G]Take me [D]home[Am][C]
+
+{d_time: 1:05}
+{c: arps}
+Verse:
+[G]Closing ti[D]me
+[Am]Time for you to g[C]o out to the 
+p[G]laces you w[D]ill be f[Am]rom[C]
+
+{c: Lisa harmony}
+[G]Closing ti[D]me
+[Am]This room won't be o[C]pen till your 
+brot[G]hers or your si[D]sters [Am]come[C]
+
+{c: chugs}
+{c: Lisa harmony}
+So gat[G]her up your jack[D]ets 
+mo[Am]ve it to the exi[C]ts
+I ho[G]pe you have f[D]ound a fr[Am]iend[C]
+
+{c: Lisa harmony}
+[G]Closing t[D]ime
+[Am]Every new begi[C]nning comes from 
+s[G]ome other be[D]ginning's [Am]end...
+[C]yeah
+
+{d_time: 1:41}
+{c: Lisa harmony}
+Chorus:
+I[G] know wh[D]o I w[Am]ant to take me ho[C]me
+[G]I know w[D]ho I [Am]want to take me h[C]ome
+[G]I know w[D]ho I [Am]want to take me h[C]ome
+[G]Take me [D]home[Am][C]
+
+{d_time: 2:00}
+Bridge:
+[Bb][Ab][Eb][Cm]
+[Bb][Ab][Eb][Cm]
+[G][D][Am][C]
+
+Solo:
+[G][D][Am][C]
+[G][D][Am][C]
+[G][D][Am][C]
+[G][D][Am][C]
+
+{d_time: 2:32}
+[G]Closing t[D]ime
+[Am]Time for you to g[C]o out to the 
+p[G]laces you w[D]ill be fr[Am]om[C]
+
+{d_time: 2:42}
+{c: Lisa harmony}
+Chorus:
+[G]I know w[D]ho I [Am]want to take me h[C]ome
+[G]I know w[D]ho I [Am]want to take me h[C]ome
+[G]I know w[D]ho I [Am]want to take me h[C]ome
+[G]Take me [D]home[Am][C]
+
+[G]Take me [D]home[Am][C]
+[G]Take me [D]home[Am][C]
+
+Instrumental:
+[G][D][Am][C]
+[G][D][Am][C]
+
+{d_time: 3:18}
+{c: Lisa harmony}
+Outro:
+[G]Closing time
+Every new beginning comes from 
+some other beginning's end

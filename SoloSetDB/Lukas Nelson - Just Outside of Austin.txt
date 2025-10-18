@@ -1,0 +1,68 @@
+{title:Just Outside of Austin}
+{artist:Lukas Nelson}
+{key:C}
+{Duration:4:48}
+{tempo:93}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[C][Cmaj7][Dm][DmM7][D7sus2][D6sus2][Gsus2][G][G+add5]
+[C] [C#dim][G7/D][D#+]
+
+Verse:
+[C]The cedar trees, the morning air
+The [Cmaj7]way the dew sits on her hair
+So pe[A#6]acefully below a Texas [A7]sky
+I t[Dm]hink I’ll leave her lying there
+[DmM7]Take a walk I don’t know where
+Just ba[Gsus2]thing in the su[G]nlight in my l[C]ife
+
+Verse:
+I h[C]ear the sound of windy leaves
+[Cmaj7]Summer birds and gently flowing
+R[A#6]ivers creeks and pools up from the s[A7]pring
+The m[Dm]usic of the water on the [DmM7]rocks is getting louder
+As I w[Gsus2]alk towards wha[G]tever life may b[C]ring
+
+Chorus:
+J[C]ust out[Cmaj7]side of Au[Dm]sti[DmM7]n[D7sus2][D6sus2]
+[Gsus2]High a[G]s I have ever b[C]een[C#dim][G7/D][D#+]
+[C]Just o[G7/B]utside of [A#6]Austi[A7]n
+I t[Dm]hink I fell in l[G]ove with you a[C]gain[G][G+add5]
+
+Verse:
+I went [C]out to play the other day
+The c[Cmaj7]ity and it’s city ways
+A t[A#6]ime and place for everything you’d [A7]say
+But[Dm]I just want to sit at home
+R[DmM7]ide my horse or write a song
+[Gsus2]A little bit of w[G]eed and I’m o[C]kay
+
+Verse:
+Those ni[C]ghts when it’s just you and me
+Or m[Cmaj7]aybe soon we could be three
+It [A#6]ain’t so bad a place to raise a [A7]kid
+Or [Dm]maybe we should wait awhile
+No n[DmM7]eed to hurry nothing
+I’m just[Gsus2] saying I’d be h[G]appy if we [C]did
+
+Chorus:
+J[C]ust out[Cmaj7]side of Au[Dm]sti[DmM7]n[D7sus2][D6sus2]
+[Gsus2]High a[G]s I have ever b[C]een[C#dim][G7/D][D#+]
+[C]Just o[G7/B]utside of [A#6]Austi[A7]n
+I t[Dm]hink I fell in l[G]ove with you a[C]gain[G][G+add5]
+
+Interlude:
+[C][Cmaj7][Dm][DmM7][D7sus2][D6sus2][Gsus2][G][G+add5]
+[C][C#dim][G7/D][D#+]
+
+Chorus:
+J[C]ust out[Cmaj7]side of Au[Dm]sti[DmM7]n[D7sus2][D6sus2]
+[Gsus2]High a[G]s I have ever b[C]een[C#dim][G7/D][D#+]
+[C]Just o[G7/B]utside of [A#6]Austi[A7]n
+I t[Dm]hink I fell in l[G]ove with you a[C]gain
+
+Outro:
+I t[Dm]hink I fell in l[Fdim7]ove wit[G#dim7]h you ag[C]ain[G7/B][C]

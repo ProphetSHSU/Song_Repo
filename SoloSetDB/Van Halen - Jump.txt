@@ -1,0 +1,65 @@
+{title:Jump}
+{artist:Van Halen}
+{key:A♯/B♭ major}
+{duration:2:55}
+{tempo:129}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[C][C][C][F][Gsus4]
+[C][C][C][F][Gsus4]
+[C][C][C][F][Gsus4]
+[C] [C][C][F][Gsus4]
+
+Verse:
+I get [C]up, and nothing gets me down.[F][Gsus4]
+You got it t[C]ough, I've seen the toughest around[F].[Gsus4]
+And I k[C]now, baby, just how you feel.[F][Gsus4]
+You've got to [C]roll with the punches to get to what's real[F][Gsus4]
+
+Pre Chorus:
+Oh, can't you [Am]see me standing [Am/G]here,
+I've got my [F]back against the [C]record[Dm7]machine
+[C]I ain't the [Dm7]worst that you've [F]seen.
+Oh, can't you see what I [Gsus4]mean?
+
+Chorus:
+Might as well j[C]ump. Jump!
+Might as well jump.[F][Gsus4]
+Go ahead, j[C]ump. Jump!
+Go ahead, jump.[F][Gsus4]
+
+Verse:
+Aaa ohh, hey [C]you! Who said that?
+Baby, how you been[F]?[Gsus4]
+You say you don't k[C]now, you won't know
+Until we begin.[F][Gsus4]
+
+Pre Chorus:
+Well, can't you s[Am]ee me standing h[Am/G]ere,
+I've got my b[F]ack against the [C]record [Dm7]machine
+[C]I ain't the [Dm7]worst that you've [F]seen.
+Oh, can't you see what I [Gsus4]mean?
+
+Chorus:
+Might as well [C]jump. Jump!
+Might as well jump.[F][Gsus4]
+Go ahead, j[C]ump. Jump!
+Go ahead, jump.[F][Gsus4]
+
+(Guitar Solo)
+
+(Keyboard Solo)
+
+Riff:
+[C][C][C][F][Gsus4]
+[C] [C][C][F][Gsus4]
+
+Chorus:
+Might as well [C]jump. Jump!
+Might as well jump.[F][Gsus4]
+Go ahead, j[C]ump. Jump!
+Go ahead, jump.[F][G]
+

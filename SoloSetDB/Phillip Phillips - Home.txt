@@ -1,0 +1,39 @@
+{title:Home}
+{artist:Phillip Phillips}
+{key:C major}
+{duration:3:30}
+{tempo:121}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[C][F][C][F]
+
+Verse:
+[C]Hold on[F] to me as we g[C]o[F]
+As we[C] role down[F] this unfamiliar [C]road[F]
+Although this weight is[Am] strin[F]ging us along[C][F]
+Just know[C] yo[G/B]u're [Am]not [G]alo[Am]ne
+Cuz I'm gonna m[F]ake[C/E] this[G] place your h[C]ome
+
+Chorus:
+[C]Settle down[F] it will all be [C]clear[F]
+[C]Don't pay no mind to the [F]demons they fill you with f[C]ear[F]
+[Am]Trouble it might drag you[F]down
+If you get [C]lost you can always be [G]found
+Just know[C] yo[G/B]u're [Am]not [G]alo[Am]ne
+Cuz I'm gonna [F]mak[C/E]e thi[G]s place your [C]home
+
+Refrain:
+[F]ohh[C]h   [Am]ohhh[G]h   [F]ohh[C]hh [G]2x
+
+Chorus:
+[C]Settle down[F] it will all be [C]clear[F]
+[C]Don't pay no mind to the [F]demons they fill you with f[C]ear[F]
+[Am]Trouble it might drag you[F]down
+If you get [C]lost you can always be [G]found
+Just know[C] yo[G/B]u're [Am]not [G]alo[Am]ne
+Cuz I'm gonna [F]mak[C/E]e thi[G]s place your [C]home
+Refrain:
+[F]ohh[C]h   [Am]ohhh[G]h   [F]ohh[C]hh [G]2x

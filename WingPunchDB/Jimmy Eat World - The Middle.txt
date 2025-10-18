@@ -1,0 +1,66 @@
+{title:The Middle}
+{artist:Jimmy Eat World}
+{key:D}
+{Duration:02:43}
+{tempo:162}
+{color:P}
+
+{c: straight chugs, no ghost beat}
+Verse:
+[D]Hey, don't write yourself off [A]yet.
+It's only in your head you [G]feel left out [A]or looked down [D]on.
+Just try your [D]best, try everything you [A]can.
+And don't you worry what they [G]tell themselves [A]when you're [D]away.
+
+Chorus:
+It just [D]takes some time, little girl you're in the middle 
+[A]of the ride everything,
+Everything will [G]be just fine, everything, everything will 
+[D]be all right (all right)
+
+Verse:
+[D]Hey, you know they're all the [A]same.
+You know you're doing better [G]on your own (on your own, [A]so don't buy [D]in.
+Live right [D]now.       
+Yeah, just be [A]yourself.
+It doesn't matter if it's [G]good enough (good enough) [A]for someone [D]else.
+
+Chorus:
+{c: Lisa harmony up}
+It just [D]takes some time, little girl you're in the middle 
+[A]of the ride everything,
+Everything will [G]be just fine, everything, everything will 
+[D]be all right (all right)
+
+It just [D]takes some time, little girl you're in the middle 
+[A]of the ride everything,
+Everything will [G]be just fine, everything, everything will 
+[D]be all right (all right)
+
+Solo:
+{c: Lisa cowbell on beat}
+[A    D]
+[A    D]
+[G    D]
+[A    A]
+
+Verse:
+[D]Hey, don't write yourself off [A]yet.
+It's only in your head you [G]feel left out (feel left out)[A]     or looked down [D]on.
+Just do your [D]best (do your best), do everything you [A]can (do everything you can).
+And don't you worry what the [G]bitter hearts (bitter hearts) [A]are gonna [D]say.
+
+Chorus:
+{c: Lisa harmony up}
+It just [D]takes some time, little girl you're in the middle 
+[A]of the ride everything,
+Everything will [G]be just fine, everything, everything will 
+[D]be all right (all right)
+
+It just [D]takes some time, little girl you're in the middle 
+[A]of the ride everything,
+Everything will [G]be just fine, everything, everything will 
+[D]be all right (all right)
+
+End:
+[D]

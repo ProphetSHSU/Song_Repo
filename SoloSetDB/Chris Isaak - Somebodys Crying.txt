@@ -1,0 +1,48 @@
+{title:Somebody's Crying}
+{artist:Chris Isaak}
+{key:F major}
+{duration:2:48}
+{tempo:114}
+{color:P}
+
+{comment: Capo 5}
+
+Intro:
+[C][Am][F][C]
+
+[C][Am][F][C]
+
+[C][Am][F][C]
+
+[C][Am][F][C]
+
+Verse:
+[C]I know some[Am]body and they [F]cry for[C]you.
+[C]They lie aw[Am]ake at night and [F]dream of[C]you.
+[C]I bet you [Am]never even [F]know they[C] do, but somebody's[Am] cryin[F]g.[C]
+
+[C]I know some[Am]body and they [F]called your[C]name.
+[C]A million [Am]times and still you [F]never[C]came.
+[C]They go on [Am]loving you [F]just the[C] same, I know that somebody's[Am] tryin[F]g.[C]
+
+Chorus:
+So [C]pl[Am]ease[C], return the [F]love you[C] took from[F]me.
+Or [C]pl[Am]ease[C], let me [F]know if it[C] can't be[F]me, I know when,
+[C]Somebody's [Am]lying[F], [C]  I know when somebody's[Am] lyin[F]g.[C]
+
+Interlude:
+[C][F][C][F][C][F][C][F][C][F]
+
+I know that [C]somebody's [Am]lyin[F]g,[C]   I know that somebody's[Am] lyin[F]g.[C]
+
+Verse:
+[C]Give me a [Am]sign and let me [F]know we're[C]through.
+[C]If you don't [Am]love me like [F]I love[C]you.
+[C]But if you [Am]cry at night the [F]way I[C] do I'll know that somebody's[Am] lying[F]. [C]
+
+Chorus:
+So [C]pl[Am]ease[C], return the [F]love you[C] took from[F]me.
+Or [C]pl[Am]ease[C], let me [F]know if it[C] can't be[F]me, I know when,
+[C]Somebody's [Am]lying[F], [C]  I know when somebody's[Am] lyin[F]g.[C]
+
+[C]Oh[F] I,[C] o[F]h I[C]..[F]..[C]..[F][C][F]

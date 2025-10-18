@@ -1,0 +1,44 @@
+{title:Everybody Hurts}
+{artist:R.E.M.}
+{key:D major}
+{duration:5:21}
+{tempo:188}
+{color:P}
+
+{comment: Capo 0}
+
+Verse:
+[D]When the day is long[G] and the night, [D]   the night is yours al[G]one[D]
+When you're sure you've had eno[G]ugh of this life, [D]   well hang on[G]
+
+Chorus:
+[Em]Don't let yourself g[A]o, [Em]       everybody cri[A]es[Em]
+and everybody hu[A]rts sometimes[D][G]
+
+Verse:
+Sometimes everything is wro[D]ng,  [G]   now it's time to sing al[D]ong
+When your day is night alon[G]e             (hold [D]on, hold on)
+If you feel like letting g[G]o              (hold[D]on)
+When you think you've had too [G]much of this li[D]fe,     well hang [G]on
+
+Chorus:
+[Em]     Everybody hu[A]rts[Em],        take comfort in your frie[A]nds[Em]
+Everybody hu[A]rts,
+
+Bridge:
+[F#]   Don't throw your h[Bm]and,      [F#]oh    [Bm]no,    [F#]    don't throw your h[Bm]and
+[C]     when you feel like you're alone, [G]      [C]no, no, no, you are not alone[Am]
+Verse:
+[D]    If you're on your own [G]   in this life, [D]   the days and nights are long[G]
+[D]    When you think you've had too[G] much, of this life, [D]   to hang on[G]
+
+Chorus:
+[Em]    Well everybody hurts, [A]  somet[Em]imes
+Everybody cries, [A]     [Em]     everybody hurts, [A]  someti[D]mes[G]
+
+Verse:
+But everybody hurts [D]  somet[G]imes so ho[D/A]ld on, hol[G]d on, hol[D]d on,
+Hold on,[G] hold on,[D] hold on,[G] hold on,[D] hold on,[G]
+Everybody [D]hurts[G][D][G]
+[D]You are not alone[G][D][G][D][G]
+

@@ -1,0 +1,45 @@
+{title:Straight Tequila Night}
+{artist:John Anderson}
+{key:A major}
+{duration:2:53}
+{tempo:109}
+{color:P}
+
+{comment: Capo 2}
+
+Intro:
+ [Em][D]
+ [Em][D]
+
+Verse:
+ If you [G]really wanna [D]know, she [C]comes here a lot
+ She just [G]loves to hear the [D]music and [C]dance
+ [G]K-[D]13 is her [C]favorite [G]song, if you [D]play it you [C]might have a [G]chance
+ To[Em]night she's only[D]sipping white wine
+ She's [C]friendly and fun loving [D]most of the time
+
+Chorus:
+ [G]But don't [D]ask her on a [C]straight te[D]quila [G]night
+ [G]She'll start [D]thinking about [C]him, then she's [D]ready to [G]fight
+ [G]Blames her [D]broken [C]heart on every [D]man in [G]sight
+ [D]On a [C]straight te[D]quila [Em]nigh[(C)]t[D][Em][(C)][D]
+
+Verse:
+ Here's a g[G]lass of Chab[D]lis, some q[C]uarters in change
+ Maybe you [G]can turn her l[D]ove life a[C]round
+ Th[G-D]en she won't ne[C]ed the salt or the li[G]me anymore, to shoo[D]t that ol[C]d memory do[G]wn
+ Just [Em]remember her he[D]art's on the mend
+ If you e[C]ver come back to[D]see her again
+
+Chorus:
+ [G]But don't [D]ask her on a [C]straight te[D]quila [G]night
+ [G]She'll start [D]thinking about [C]him, then she's [D]ready to [G]fight
+ [G]Blames her [D]broken [C]heart on every [D]man in [G]sight
+[D] On a[C] straight t[D]equila[Em] nig[(C)]ht[D][Em][(C)][D]
+
+Chorus:
+ [G]But don't [D]ask her on a [C]straight te[D]quila [G]night
+ [G]She'll start [D]thinking about [C]him, then she's [D]ready to [G]fight
+ [G]Blames her [D]broken [C]heart on every [D]man in [G]sight
+[D] On a[C] straight t[D]equila[Em] nig[(C)]ht[D][Em][(C)][D]
+

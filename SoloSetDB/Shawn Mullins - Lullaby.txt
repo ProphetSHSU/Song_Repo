@@ -1,0 +1,68 @@
+{title:Lullaby}
+{artist:Shawn Mullins}
+{key:G major}
+{duration:4:32}
+{tempo:80}
+{color:P}
+
+{comment: Capo 0}
+
+Verse:
+[G]She grew up[D] with the children of the st[G/B]ars[Cadd9]
+[G]In the Hollywood hi[D]lls and the boulev[G/B]ards[Cadd9]
+[G]Her parents t[D]hrew big parties,[G/B] everyone was th[Cadd9]ere
+[G]They hung o[D]ut with folks lik[G/B]e Dennis Hopper, and Bob Seger, an[Cadd9]d Sonny and Cher
+
+Int:
+[G] [D][G/B][Cadd9]
+
+[G]Now, she feels sa[D]fe in this[G/B] bar on Fairfa[Cadd9]x
+[G]And from the st[D]age I can tell that she [G/B]can't let go and she[Cadd9]can't relax
+[G]And just befo[D]re she hangs her h[G/B]ead to cr[Cadd9]y
+[G]I sing to h[D]er a lulla[G/B]by,      [Cadd9]I sing
+
+Chorus:
+[G]Everythi[D]ng's gonna[Cadd9]be all right
+Rockab[G]ye, [D]rocka[Cadd9]bye
+[G]Everythi[D]ng's gonna [Cadd9]be all right
+Rocka[A]bye, rockab[Cadd9]ye, rockabye[G]
+
+Int:
+[G] [D][G/B][Cadd9]
+
+Verse:
+[G]She still li[D]ves with her mom outs[G/B]ide the city[Cadd9]
+[G]Down that st[D]reet about a half a mil[G/B]e[Cadd9]
+[G]And all her fr[D]iends tell h[G/B]er she's so prett[Cadd9]y
+[G]But she'd be a wh[D]ole lot prettier if she s[G/B]miled once in a whi[Cadd9]le
+[G]`cause even her s[D]mile looks like a f[G/B]rown[Cadd9]
+[G]She's seen her sh[D]are of devils in t[G/B]his angel town[Cadd9]
+
+Chorus:
+[G]Everythi[D]ng's gonna [Cadd9]be all right
+Rockab[G]ye, [D]rocka[Cadd9]bye
+[G]Everythi[D]ng's gonna [Cadd9]be all right
+Rocka[A]bye, rockab[Cadd9]ye, rockabye
+
+Solo:
+[G][D][G/B][Cadd9]
+[G][D][G/B][Cadd9]
+[A] [Cadd9][A][Cadd9][D]
+[G][D][G/B][Cadd9]
+
+Verse:
+[G]I told her I ain't so s[D]ure about this pla[G/B]ce[Cadd9]
+[G]It's hard to p[D]lay a gig in this tow[G/B]n and keep a straight face[Cadd9]
+[G]Seems like e[D]verybody’s here's got a p[G/B]lan[Cadd9]
+[G]It's kind of like N[D]ashville with a t[G/B]an[Cadd9]
+
+Chorus:
+But, e[G]veryth[D]ing's gonna [Cadd9]be all right
+Rocka[G]bye,[Bm7] rockab[Am]ye
+[G]Everyth[D]ing's gonna [Cadd9]be all right
+Rocka[A]bye, rockab[Cadd9]ye
+[G]Everyth[D]ing's gonna [Cadd9]be all right
+Rockab[G]ye,[D] rocka[Cadd9]bye
+[G]Everyth[D]ing's gonna [Cadd9]be all right
+Rockab[A]ye, rockab[C]ye, rocka[A]bye, b[Cadd9]ye bye, bye bye
+

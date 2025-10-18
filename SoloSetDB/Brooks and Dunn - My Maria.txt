@@ -1,0 +1,54 @@
+{title:My Maria}
+{artist:Brooks and Dunn}
+{key:D♯/E♭ major}
+{duration:3:28}
+{tempo:126}
+{color:P}
+
+{comment: Capo 0}
+
+Verse:
+[D]My Mar[A]ia[G]...
+[G]Don't you k[D]now I've come a [A]long, long, [G]way?
+[D]I been long[A]in' to see [G]her.
+[D]when she's around she takes my [A]blues a[G]way.
+[D]Sweet [A]Ma[G]ria...
+[D]the sunlight surely hu[A]rts my [G]eyes.
+[D]I'm a l[A]onely drea[G]mer, on a high[D]way in t[A]he ski[G]es.
+
+Chorus:
+Mar...[D]i...[A]i...[G]i...[D]i...[G]i.i.i.i...[D]ia,
+(Oh Maria love you girl, oh my Maria)
+
+Mar...[D]i...[A]i...[G]i...[D]i...[G]ia, I love [D]you.
+(Oh Maria love you girl, Maria I love you)
+
+Instrumental:
+
+[D][A][G][D][A][G]
+
+Verse:
+M[D]y Maria[A]..[G].
+there were s[D]ome blue[A] and sorrowed[G]times.
+Just my th[D]oughts a[A]bout you, bring back my pe[A]ace of mi[G]nd.
+[D]Gypsy[G] l[A]ady... your[D] a miracle wor[A]ked for[G]me.
+[D]You set my s[A]oul fre[G]e, like a ship sai[D]ling on the s[G]ea.
+
+Chorus:
+My Mar...[D]i...[A]i...[G]i...[D]i...[G]i.i.i.i...[D]ia,
+(Oh Maria love you girl, oh my Maria)
+
+Mar...[D]i...[A]i...[G]i...[D]i...[G]ia, Maria I[D]love you.
+(Oh Maria love you girl, oh my Maria)
+
+Mar...[D]i...[A]i...[G]i...[D]i...[G]i.i.i.i...[D]ia,
+(Oh Maria love you girl, oh my Maria)
+
+Mar...[D]i...[A]i...[G]i...[D]i...[G]ia, I love [D]you.
+(Oh Maria love you girl, Maria I love you)
+
+Mar...[D]i...[A]i...[G]i...[D]i...[G]i.i.i.i...[D]ia,
+(Oh Maria love you girl, oh my Maria)
+
+Mar...[D]i...[A]i...[G]i...[D]i...[G]ia, I love [D]you.
+(Oh Maria love you girl, Maria I love you)

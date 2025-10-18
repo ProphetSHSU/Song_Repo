@@ -1,0 +1,71 @@
+{title:With A Little Help From My Friends}
+{artist:Joe Cocker}
+{key:D major}
+{duration:5:13}
+{tempo:142}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G][D][A]
+[G][D][A]
+[G][D][A]
+[G][D][A]
+[G][D][A]
+
+Verse:
+[A]What would you [E]do if I [Bm]sang out of tune,
+would you [E]stand up and [E7]walk out on [A]me?
+Lend me your [E]ears and I'll [Bm]sing you a song
+and I'll [E]try not to [E7]sing out of [A]key.
+
+Chorus:
+[A]Oh, I'm gonna get [G]by with a little [D]help from my [A]friends.
+I just keep trying, [G]high with a little [D]help from my [A]friends.
+I wanna get high, [G]high with a little [D]help from my [A]friends.
+I just hold [G]on [D]with my [A]friends.
+
+Verse:
+[A]What do I [E]do when my [Bm]love is away?
+Does it [E]worry you to [E7]be a[A]lone? Oh no!
+How do I [E]feel by the [Bm]end of the day ?
+Are you [E]sad because you're [E7]on your [A]own? (I don't get sad!)
+
+Chorus:
+[A]Oh, I'm gonna get [G]by with a little [D]help from my [A]friends.
+I just keep trying, [G]high with a little [D]help from my [A]friends.
+I wanna get high, [G]high with a little [D]help from my [A]friends.
+I just hold [G]on [D]with my [A]friends.
+
+[A]Do you need any[F#m]body?...I [A]need some[G]body to [A]love.
+Could it be any[F#m]body? All I need is [E]someone,
+[E7]Lord, I need someone...[G]I want some[D]body to [A]love.
+
+Chorus:
+[A]Oh, I'm gonna get [G]by with a little [D]help from my [A]friends.
+I just keep trying, [G]high with a little [D]help from my [A]friends.
+I wanna get high, [G]high with a little [D]help from my [A]friends.
+I just hold [G]on [D]with my [A]friends.
+
+Verse:
+[A]Would you be[E]lieve in a [Bm]love at first sight?
+I'm [E]certain that it [E7]happens all the [A]time.
+What [E]do you see when you [Bm]turn out the light?
+I don't [E]see too much, but I [E7]know it's [A]mine.
+
+Chorus:
+[A]Oh, I'm gonna get [G]by with a little [D]help from my [A]friends.
+I just keep trying, [G]high with a little [D]help from my [A]friends.
+I wanna get high, [G]high with a little [D]help from my [A]friends.
+I just hold [G]on [D]with my [A]friends.
+
+[A]Do you need any[F#m]body?...[A]I need some[G]body to [A]love.
+Could it be any[F#m]body? All I need is [E]someone,
+[E7]Lord, I need someone...[G]I want some[D]body to [A]love.
+
+Chorus:
+[A]Oh, I'm gonna get [G]by with a little [D]help from my [A]friends.
+I just keep trying, [G]high with a little [D]help from my [A]friends.
+I wanna get high, [G]high with a little [D]help from my [A]friends.
+I just hold [G]on [D]with my [A]friends.

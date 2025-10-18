@@ -1,0 +1,49 @@
+{title:Brown Eyed Girl}
+{artist:Van Morrison}
+{key:G major}
+{duration:3:04}
+{tempo:149}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[G][C][G][D]
+[G][C][G][D]
+
+Verse:
+[G]   Hey where did [C]we go, [G]  days when the [D]rains came
+[G]   Down in the [C]hollow, [G]  playin' a [D]new game
+[G]   Laughin' and a-[C]runnin' hey, hey, [G]  skippin’ and a-[D]jumpin’
+[G]   In the misty [C]mornin' fog with, [G]  ah, our [D]hearts thumpin' with [C]you
+[D]   My brown-eyed [G]girl, [Em]     [C]  you’re my[D] brown-eyed [G]girl[D7]
+
+Verse:
+[G]   Whatever [C]happened,[G]  to Tuesday i[D]s so slow
+[G]   Goin’ down the [C]old mine with a [G]  transistor [D]radio
+[G]   Standin’ in the [C]sunlight laughin’, [G]  hidin’ behind a [D]rainbow's wall
+[G]   Slippin’ and a-[C]slidin’ [G]  all along the [D]waterfall with yo[C]u
+[D]   My brown-eyed [G]girl, [Em]     [C]  you’re my[D] brown-eyed [G]girl
+
+Chorus:
+[D7]   Do you remember when we used to [G]sing
+   Sha la la [C]la la la la [G]la la la la te [D]da (just like that)
+[G]   Sha la la [C]la la la la [G]la la la la te [D]da, la te [G]da
+
+Bass Solo:
+[G][C][G][D]
+
+Verse:
+[G]   So hard to fi[C]nd my way, [G]  now that I'm all[D]on my own
+[G]   I saw you just the [C]other day, [G]  my, [D]you have grown
+[G]   Cast my memory [C]back there, Lord, [G]  sometimes I'm [D]overcome thinkin’ about
+[G]   Makin’ love in the [C]green grass, [G]  behind the [D]stadium with [C]you
+[D]   My brown-eyed [G]girl, [Em]     [C]  a-you’re my[D] brown-eyed [G]girl
+
+Chorus:
+[D7]   Do you remember when we used to [G]sing
+   Sha la la [C]la la la la [G]la la la la te [D]da
+[G]   Sha la la [C]la la la la [G]la la la la te [D]da
+[G]   Sha la la [C]la la la la [G]la la la la te [D]da
+[G]   Sha la la [C]la la la la [G]la la la la te [D]da
+

@@ -1,0 +1,72 @@
+{title:Child Is My Name}
+{artist:Kemopetrol}
+{key:Bm}
+{duration:4:41}
+{tempo:130}
+{color:P}
+
+Intro:
+[Bm] [A/B][Gmaj7/B][F#m7/B]
+
+Verse:
+[Bm]     Immortal [A/B]angels
+[Gmaj7/B]     Dressed up as [F#m7/B]junkies
+[Bm]     I'm going [A/B]out tonight
+[Gmaj7/B]     And It's gonna [F#m7/B]be alright
+{c: B B B C# A A}
+[Bm]     (It's gonna [A/B]happen)
+[Gmaj7/B]     It's gonna [F#m7/B]happen, right
+[Bm]     It's gonna [A/B]happen
+[Gmaj7/B]     (It's gonna ha[F#m7/B]ppen)
+
+Chorus:
+[Bm]   I take the [A/C#]blame
+   And (child is my [D]name)
+   And I [C]believe your words, whatever you might [Bm]say
+   This is my [A/C#]hand
+   (Shaking and [D]raised
+   Reaching [C]out for something more), than mere [Bm]play
+
+Instrumental:
+[Bm] [A/B][Gmaj7/B][F#m7/B]
+
+Verse:
+[Bm]     Immortal [A/B]junkies
+[Gmaj7/B]     Dressed up as [F#m7/B]angels
+[Bm]     I'm meeting [A/B]you tonight (<BR>)
+
+[Gmaj7/B]     And it's gonna [F#m7/B]be alright
+
+[Bm]     It's gonna [A/B]happen
+{c: B C A}
+[Gmaj7/B]     (It's gonna [F#m7/B]happen, right)
+
+(next bass riff lets go of that B)
+
+[Bm]     It's gonna [A]happen
+[Gmaj7]     (It's gonna [F#m7]happen, right[F#m7/A])
+
+Chorus:
+[Bm]   I take the [A/C#]blame
+   {c: A D A A}
+   And (child is my [D]name)
+   And I [C]believe your words, whatever you might [Bm]say
+   This is my [A/C#]hand
+   {c: A D A A}
+   (Shaking and [D]raised
+   {c: A A A G# G G G}
+   Reaching [C]out for something more), than mere [Bm]play
+
+Chorus:
+[Bm]   I take the [A/C#]blame
+   And child is my [D]name
+   And I [C]believe your words, whatever you might [Bm]say
+   This is my [A/C#]hand
+   Shaking and [D]raised
+   Reaching [C]out for something more, than mere [Bm]play
+
+Outro:
+[Bm]     Than mere[A/B]play
+     Than mere[Gmaj7/B] play[F#m7/B]
+
+[Bm][A/B][Gmaj7/B][F#m7/B]

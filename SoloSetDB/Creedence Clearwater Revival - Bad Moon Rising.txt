@@ -1,0 +1,55 @@
+{title:Bad Moon Rising}
+{artist:Creedence Clearwater Revival}
+{key:D major}
+{duration:2:22}
+{tempo:179}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+[D][A][G][D]
+
+Verse:
+[D]I see a [A]bad [G]moon [D]rising
+[D]I see [A]trouble [G]on the[D]way
+[D]I see [A]earth[G]quakes and [D]lightning
+[D]I see [A]bad [G]times to[D]day
+
+Chorus:
+[G]Don't go around tonight
+[D]'Cause it's bound to take your life
+[A]There is a [G]bad moon on the [D]rise
+
+Verse:
+[D]I hear [A]hurri[G]canes a [D]blowing
+[D]I know the [A]end is [G]coming [D]soon
+[D]I fear [A]rivers [G]over[D]flowing
+[D]I hear the [A]voice of [G]rage and [D]ruin
+
+Chorus:
+[G]Don't go around tonight
+[D]'Cause it's bound to take your life
+[A]There is a [G]bad moon on the [D]rise
+
+[D][A][G][D]
+
+[D][A][G][D]
+
+[G][G][D][D]
+
+[A][G][D][D]
+
+Verse:
+[D]Hope you [A]got your [G]things t[D]ogether
+[D]Hope you are [A]quite [G]prepared to [D]die
+[D]Looks like we're [A]in for [G]nasty [D]weather
+[D]One eye is [A]taken [G]for an [D]eye
+
+Chorus:
+[G]Don't go around tonight
+[D]'Cause it's bound to take your life
+[A]There is a [G]bad moon on the [D]rise
+[G]Don't go around tonight
+[D]'Cause it's bound to take your life
+[A]There is a [G]bad moon on the [D]rise

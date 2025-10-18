@@ -1,0 +1,83 @@
+{title:Jack and Diane}
+{artist:John Mellencamp}
+{key:A major}
+{duration:4:14}
+{tempo:104}
+{color:P}
+
+{comment: Capo 0}
+
+Intro:
+{comment:(use barre chords)}
+[A][E][D][E][D][D]
+
+[A][E][D][E][D][D]
+
+[A][E][D][E][D][D]
+
+Verse:
+[A]A little [E]ditty bout[D] Jack and [E]Diane
+[A]Two American [E]kids grown up[D] in the[E] heartlan[A]d
+[A]Jack, he's gonna [E]be a foot[D]ball sta[E]r
+[A]Diane debu[E]tante, back seat o[D]f Jac[E]ky's c[A]ar
+
+Instrumental:
+[A][E][D][E]
+
+[A][E][D][E][D]
+
+Verse:
+[A]Suckin' on c[E]hili dog out[D]side the Tasty [E]Freeze
+[A]Diane sitt[E]in' on Jacky's lap, he got his [D]hands be[E]tween her k[A]nees
+[A]Jacky says "He[E]y Diane, lets run off b[D]ehind a shady t[E]ree"
+[A]Dribble off Bo[E]bby Brooks, let me d[D]o what[E] I pl[A]ease, sayin'
+
+Chorus:
+[A]Ooh [E]yeah, L[D]ife goes [E]on
+[A]Long after the [E]thrill of [D]livin' [E]is [A]gone, sayin'
+[A]Ooh [E]yeah, L[D]ife goes [E]on
+[A]Long after the [E]thrill of [D]livin' [E]is [A]gone
+
+Instrumental:
+[A][E][D][E][A][A]
+
+[A][E][D][E][A][A]
+
+Verse:
+[A]Jack, he sits b[E]ack, collects his [D]thoughts for a [E]moment
+[A]Scratches his [E]head and does his [D]best [E]James D[A]ean
+[A]"Well there Dia[E]ne, we gotta run o[D]ff to the city"[E]
+[A]Diane says, "B[E]aby we [D]ain't [E]nothin[A]g", but Jacky says
+
+Chorus:
+[A]Ooh [E]yeah, L[D]ife goes [E]on
+[A]Long after the [E]thrill of [D]livin' [E]is [A]gone, sayin'
+[A]Ooh [E]yeah, L[D]ife goes [E]on
+[A]Long after the [E]thrill of [D]livin' [E]is [A]gone
+
+Drum Solo:
+N.C.
+Oh, let it rock, let it roll.
+N.C.
+Let the Bible belt come and save my soul
+N.C.
+Holdin' on to sixteen as long as you can
+N.C.
+Change is comin' 'round real soon, make us women and men
+
+Instrumental:
+[A][E][D][E]
+
+[A][E][D][E][D]
+
+Chorus:
+[A]Ooh [E]yeah, L[D]ife goes [E]on
+[A]Long after the [E]thrill of [D]livin' [E]is [A]gone, sayin'
+[A]Ooh [E]yeah, L[D]ife goes [E]on
+[A]Long after the [E]thrill of [D]livin' [E]is [A]gone
+
+[A]A little [E]ditty bout [D]Jack and D[E]iane
+[A]Two American [E]kids doin' the [D]best [E]they [A]can
+
+Outro:
+ [A][E][D][E][D][D]

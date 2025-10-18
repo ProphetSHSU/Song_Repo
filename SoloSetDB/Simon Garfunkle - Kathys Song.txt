@@ -1,0 +1,38 @@
+{title:Kathy's Song}
+{artist:Simon & Garfunkle}
+{key:G♯/A♭ major}
+{duration:3:00}
+{tempo:93}
+{color:P}
+
+{comment: Capo 0}
+
+[G]I hear the [C]drizzle of the [G]rain
+[Am]Like a[Asus/G] memory i[C]t fal[Bm/F#]ls
+[G]Soft and [Bm]warm cont[G]inu[C]ing
+[Am]Tapping on my r[D]oof and w[G]alls[C][G]
+
+[G]And from the [C]shelter of my [G]mind
+[Am]Throug[Asus/G]h the win[C]dow o[Bm/F#]f my eyes
+[G]I gaze bey[Bm]ond the [G]rain drenched [C]streets
+[Am]To England wher[D]e my hear[G]t lie[C]s[G]
+
+[G]My mind's dis[C]tracted and dif[G]fused
+[Am]My tho[Asus/G]ughts are[C] many[Bm/F#]miles away
+[G]They lie with [Bm]you when [G]you're a[C]sleep
+[Am]And kiss you wh[D]en you st[G]art y[C]ou[G]r day
+
+[G]And a song I was [C]writing is left un[G]done
+[Am]I don'[Asus/G]t know wh[C]y I s[Bm/F#]pent my time
+[G]Writing [Bm]songs I[G] can't b[C]elieve
+[Am]With words that tear and[D] strain t[G]o rhy[C]me[G]
+
+[G]And so you [C]see I have come to [G]doubt
+[Am]All th[Asus/G]at I once[C] held[Bm/F#]as true
+[G]I stand a[Bm]lone with[G]out be[C]liefs
+[Am]The only truth [D]I know is[G] you[C][G]
+
+[G]And as I [C]watch the drops of [G]rain
+[Am]weave [Asus/G]their wea[C]ry pa[Bm/F#]ths and die
+[G]I know that [Bm]I am [G]like the [C]rain
+[Am]There but for t[D]he grace [G]of yo[C]u [G]go I

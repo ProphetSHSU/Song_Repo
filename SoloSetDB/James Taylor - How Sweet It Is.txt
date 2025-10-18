@@ -1,0 +1,54 @@
+{title:How Sweet It Is}
+{artist:James Taylor}
+{key:C major}
+{duration:3:34}
+{tempo:109}
+{color:P}
+
+{comment: Capo 0}
+
+Chorus:
+ [Cmaj7]How sweet[Bm7] it [Am7]is to be [Am7/D]loved by [G]yo[C/G]u[G][C/G][G][F][Em][F/D]
+ [Cmaj7]How sweet [Bm7]it i[Am7]s to be l[Am7/D]oved by y[G]ou[C/G][G][C/G][G][Am7/D,][Am7/D]
+
+Verse:
+I ne[G]eded the shelter of s[Em]omeone's arms and [D]there you [C]were[C7]
+I ne[G]eded someone to under[Em]stand my ups and downs, [D]there you [C]wer[C7]e
+[G]with sweet [G7]love and de[C]votion[C7]
+[Em]deeply touching my [C]emotion[C#Dim]
+I want to [G]stop, and thank you [C]baby
+I just want to [G]stop... and thank you [G]ba[F]by[Em][F/D]
+
+Chorus:
+ [Cmaj7]How sweet[Bm7] it [Am7]is to be [Am7/D]loved by [G]yo[C]u[G][C][G][F][Em][F/D]
+ [Cmaj7]How sweet[Bm7] it [Am7]is to be [Am7/D]loved by [G]yo[C]u[G][C][G][Am7/D,][Am7/D]
+
+Verse:
+I[G] close my eyes at n[Em]ight,
+w[D]ondering where would I be without y[C]ou in my [C7]life
+E[G]verything I did was j[Em]ust a bore,
+e[D]verywhere I went it seems I'd [C]been there be[C7]fore
+But y[G]ou brightened [G7]up for me [C]all of my [C7]days
+With a l[G]ove so sweet in [C]so many [C#dim]ways
+I want to [G]stop, and thank you [C]baby
+I want to [G]stop.... and thank you[G] b[F]ab[Em]y[F/D]
+
+Chorus:
+ [Cmaj7]How sweet[Bm7] it [Am7]is to be [Am7/D]loved by [G]yo[C]u[G][C][G][F][Em][F/D]
+ [Cmaj7]How sweet[Bm7] it [Am7]is to be [Am7/D]loved by [G]yo[C]u[G][C][G][Am7/D,][Am7/D]
+
+Instrumental Break:
+[G]G    [Em]Em   [D]D    [C]C
+
+Verse:
+Y[G]ou were better for [G7]me than I [C]was for my[C7]self
+[Em]For me, there's you and there ain't [C]nobody [C#dim]else
+I want to [G]stop, and thank you [C]baby
+I just want to [G]stop.... and thank you[(G] ba[F]by[Em][F/D)]
+
+Chorus:
+[Cmaj7] How sweet[Bm7] it [Am7]is to be [Am7/D]loved by y[G]ou[C][G][C(G][F][Em][F/D)]
+ [Cmaj7]How sweet[Bm7] it [Am7]is to be [Am7/D]loved by [G]yo[C]u[G][C][(G][F][Em][F/D)]
+[Cmaj7] How sweet[Bm7] it [Am7]is to be [Am7/D]loved by [G]yo[C]u[G][C][(G][F][Em][F/D)]
+ [Cmaj7]How sweet[Bm7] it [Am7]is to be [Am7/D]loved by yo[G]u
+

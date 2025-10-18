@@ -1,0 +1,33 @@
+{title:Am I Wrong}
+{artist:Nico & Vinz}
+{key:F♯/G♭ major}
+{duration:5:21}
+{tempo:145}
+{color:P}
+
+{comment: Capo 3}
+
+Intro:
+[Am][F][Dm][G][Am][F][F][G]
+
+[Am][F][Dm][G][Am][F][F][G]
+
+Verse:
+[Am]Am [F]I wrong for [Dm]thinking out the[G] box from whe[Am]re [F]I [G]stay?
+[Am]Am [F]I wrong for [Dm]saying that I c[G]hoose another[Am] wa[F]y?[G]
+I ain't t[Am]rying to do what e[F]verybody else [Dm]doin[G]g
+Just cause eve[Am]rybody doing what they all [F]do[G]
+If on[Am]e thing I k[F]now, I'll [Dm]fall but I'll [G]grow
+I'm w[Am]alking down this r[F]oad of mine, this[G]road that I call home
+
+Chorus:
+So am I [Am]wro[F]ng?
+For thi[Dm]nking that [G]we could [Am]be something fo[F]r [G]real?
+So am I[Am] wr[F]ong?
+For tryi[Dm]ng to re[G]ach the th[Am]ing[F]s [G]that I can't see?
+
+But that's just how I f[Am]eel[F],[Dm][G]
+That's just how I [Am]fee[F]l [G]
+That's just how I [Am]fee[F]l
+Tr[Dm]ying to reach the thi[G]ngs that I can't[Am] se[F]e[G]
+

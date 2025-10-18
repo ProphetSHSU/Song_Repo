@@ -1,0 +1,59 @@
+{title:Callin Baton Rouge}
+{artist:Garth Brooks}
+{key:D major}
+{duration:2:40}
+{tempo:108}
+{color:P}
+
+{comment: Capo 2}
+
+Intro:
+[C]
+
+Verse:
+[Am]I spent last [G]night in the arms of a
+[F]girl in Louisian[C]a
+[G]And though I'm out on t[C]he highway
+my th[F]oughts are still with [G]her
+
+(same chords)
+
+[Am]Such a strange combi[G]nation of a
+[F]woman and a c[C]hild
+[G]Such a strange situ[C]ation stoppin'
+[F]every hundred miles[G]callin' Baton Rouge
+
+(then play C for the fiddle part)
+
+Chorus:
+[C]Operator, won't you put on through?
+I gotta send my love down to Baton Rouge
+Hurry up, won't you put her on the line?
+I gotta talk to the girl just one more time.
+
+Solo:
+[F][G]
+
+[F][G]
+
+Bridge:
+[C]Hello, Sam[G]antha dear,
+I [Am]hope you're feelin [Gsus]fine
+[C]And it won't be l[G]ong until
+I'm [Am]with you all the [Gsus]time, but until
+[F]then I'll spend my [G]money up
+right [C]down to my last [F]dime,
+call-[G]in Baton Rouge
+
+(then play C again over fiddle part)
+
+(then back to chorus: "Operator..."
+
+Ending:
+
+[F]Call-[G]in Baton Rouge
+[C]     [G]     [Am]     [Gsus]Sweet Baton Rouge
+[F]     [C]     [Dm]   [C]  [F]My[G] Bato[Am]n Rouge
+[F]woah.[C]....[Dm][C]
+
+[Dm][C][F][G][C]

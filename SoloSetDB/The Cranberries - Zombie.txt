@@ -1,0 +1,45 @@
+{title:Zombie}
+{artist:The Cranberries}
+{key:G major}
+{duration:5:06}
+{tempo:167}
+{color:P}
+
+{comment: Capo 0/2kc}
+
+Intro:
+[Em][C][G][D/F#]
+[Em][C][G][D/F#]
+[Em][C][G][D/F#]
+[Em][C][G][D/F#]
+
+Verse:
+[Em]Another h[C]ead hangs lowly, [G]child is slowly t[D/F#]aken
+[Em]And the violence [C]caused such silence, [G]who are we mista[D/F#]ken
+But you [Em]see it's not me, it's not [C]my family
+In your [G]head, in your head, they are fig[D/F#]hting
+With their [Em]tanks and their bombs and their [C]bombs and their guns
+in your h[G]ead, in your head, they are cr[D/F#]ying
+
+Chorus 1:
+In your [Em]head, in your [C]head, zombie,[G] zombie, zombi[D/F#]e
+What's in your [Em]head, in your [C]head, zombie,[G] zombie, zombi[D/F#]e
+
+[Em][C][G][D/F#]
+[Em][C][G][D/F#]
+
+Verse:
+[Em]Another mo[C]ther's breaking hea[G]rt is taking ov[D/F#]er
+[Em]When the violence [C]causes silence, [G]we must be mi[D/F#]staken
+It's the [Em]same old theme since [C]1916
+In your [G]head, in your head, they're still f[D/F#]ighting
+With their [Em]tanks and their bombs and their [C]bombs and their guns
+In your [G]head, in your head, they're d[D/F#]ying
+
+Chorus 2:
+In your [Em]head, in your [C]head, zombie,[G] zombie, zombi[D/F#]e
+What's in your [Em]head, in your [C]head, zombie,[G] zombie, zombi[D/F#]e
+
+Outro:
+[Em][C][G][D/F#]
+

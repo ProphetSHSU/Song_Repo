@@ -1,0 +1,107 @@
+{title:You Oughta Know}
+{artist:Alanis Morissette}
+{key:E}
+{Duration:04:10}
+{tempo:105}
+
+{c:162 Chorus}
+{c: xx2222 (1x34)}
+{c: xx4444 (12x4)}}
+
+Verse 1:
+[F#m7add13]I want you to know, that [B7]I'm happy for you
+[F#m7add13]I wish nothing but the [B7]best for you both
+
+{c:<Arpeggios>}
+An older [F#m7add13]version of me
+Is she perverted like me?
+Would she go [B7]down on you in a theater?
+Does she speak [F#m7add13]eloquently
+And would she have your baby?
+I'm sure she'd [B7]make a really excellent mother
+ 
+ 
+Pre-Chorus:
+Cause the [F#m7add13]love     that you gave that we made
+Wasn't able to make it enough for you
+To be [B7]open wide, no
+And [F#m7add13]every time you speak her name
+Does she know how you told me
+You'd hold me until [B7]you died
+'Til you died, but you are still alive
+
+ 
+Chorus:
+{c:</Arpeggios> - one staccato hit downbeat}
+And I'm [F#]here,  to [E]remind you
+Of the [A]mess you left when you [B]went away
+It's not [F#]fair, to [E]deny me
+Of the [A]cross I bear that you [B]gave to me
+You, you, you oughta know
+
+Verse 2:
+{c:<Arpeggios>}
+[F#m7add13]You seem very well, [B7]things look peaceful
+[F#m7add13]I'm not quite as well, I [B7]thought you should know
+Did you [F#m7add13]forget about me, Mister Duplicity?
+I hate to [B7]bug you in the middle of dinner
+It was a [F#m7add13]slap in the face
+How quickly I was replaced
+And are you [B7]thinking of me when you fuck her?
+
+ 
+Pre-Chorus:
+Cause the [F#m7add13]love that you gave that we made
+Wasn't able to make it enough for you
+To be [B7]open wide, no
+And [F#m7add13]every time you speak her name
+Does she know how you told me
+You'd hold me [B7]until you died
+'Til you died, but you are still alive
+{c:</Arpeggios>}
+
+ 
+ 
+Chorus:
+{c:/Arpeggios - one staccato hit downbeat}
+And I'm [F#]here,  to [E]remind you
+Of the [A]mess you left when you [B]went away
+It's not [F#]fair, to [E]deny me
+Of the [A]cross I bear that you [B]gave to me
+You, you, you oughta know
+ 
+ 
+{c: lots of harmonies!}
+Bridge:
+{c:<bar chords> x22200 - x21202}
+[B7sus4 B7 B7sus4 B7]
+[B7sus4 B7 B7sus4 B7]
+{c:</bar chords>}
+ 
+ 
+Pre-Chorus:
+{c:<Arpeggios>}
+'Cause the [F#m7add13]joke that you laid in the bed
+That was me and I'm not gonna fade
+As soon as you [B7]close your eyes, and you know it
+And [F#m7add13]every time I scratch my nails
+Down someone else is back I hope you [B7]feel  it
+Well, can you feel it?
+
+ 
+ 
+Chorus:
+And I'm [F#]here,  to [E]remind you
+Of the [A]mess you left when you [B]went away
+It's not [F#]fair, to [E]deny me
+Of the [A]cross I bear that you [B]gave to me
+You, you, you oughta know
+
+ 
+ 
+Outro:
+And I'm [F#]here,  to [E]remind you
+Of the [A]mess you left when you [B]went away
+It's not [F#]fair, to [E]deny me
+Of the [A]cross I bear that you [B]gave to me
+You, you, you oughta know

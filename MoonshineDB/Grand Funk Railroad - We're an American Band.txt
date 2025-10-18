@@ -1,0 +1,79 @@
+{title:American Band}
+{artist:Grand Funk Railroad}
+{key:G}
+{Duration:03:27}
+{tempo:128}
+
+Intro:
+[D]
+
+Intro 2:
+[D C Bb C]
+[D C]
+
+Pre-Verse:
+[D][C]
+[D]
+
+{d_time:00:35}
+Verse:
+[D]On the road for forty days
+[C]Last night in Little Rock put me in a haze
+[D]Sweet, sweet Connie doing her act
+She [C]had the whole show and that's a natural fact
+
+Pre-Chorus:
+[G] Up all night[D]with Freddy King
+[C] I got to tell you po[D]ker's his thing
+[G] A booze and ladies [D]keep me right
+As [F]long as we can make it to the [G]show tonight
+
+Chorus:
+We're an A[D]merican band
+We're an A[C]merican band
+We're coming [Bb]to your town, we'll help you [C]party it down
+We're an A[D]merican band[C]
+
+Pre-Verse:
+[D][D][C][D]
+
+Verse:
+[D]Four young chiquitas in Omaha
+Was [C]waitin' for the band to return from the show
+[D]Feelin' good, feelin' right, it's Saturday night
+The [C]hotel detective, he was out a sight
+
+Pre-Chorus:
+[G] Now, these fine ladies,[D]they had a plan
+[C]They was out to meet the boys[D]in the band
+They said,[G] "Come on, dudes,[D]let's get it on,"
+And we pro[F]ceeded to tear that ho[G]tel down
+
+Chorus:
+We're an A[D]merican band
+We're an A[C]merican band
+We're coming [Bb]to your town, we'll help you [C]party it down
+We're an A[D]merican band
+[C] We're an A[D]merican band
+We're an A[C]merican band
+We're coming [Bb]to your town, we'll help you [C]party it down
+We're an A[D]merican band[C]
+
+Solo:
+[G D C D]
+[G D F G]
+[G] We're an A[D]merican band
+
+Chorus:
+We're an A[C]merican band
+We're coming [Bb]to your town, we'll help you [C]party it down
+We're an A[D]merican band
+[C] We're an A[D]merican band
+We're an A[C]merican band
+We're coming [Bb]to your town, we'll help you [C]party it down
+We're an A[D]merican band
+
+Outro:
+[C] We're an A[D]merican band, oooh[C]oooh
+We're an A[D]merican band, oooh[C]oooh
+We're an A[D]merican band, oooh[C] oooh[D]
