@@ -1,0 +1,80 @@
+{title:Girls Not Grey}
+{artist:AFI}
+{key:Abm}
+{duration:3:10}
+{tempo:122}
+
+{c: Capo -1}
+
+Intro:
+[Am] [F] [G] 
+[Am] [F] [G] [Am]
+[Am] [F] [G] 
+[Am] [F] [C5] [G/B] [G5] [A5]
+
+Main Riff:
+[Am] [G] [D#/G] [Fm/A#] 
+[Am] [G] [D#/G] [Fm/A#]
+
+Verse 1:
+[Am] I'l[G]l lay m[D#/G]e down [Fm/A#]tonight
+[Am] Muc[G]h furthe[D#/G]r dow[Fm/A#]n
+[Am] Swi[G]m in th[D#/G]e calm [Fm/A#]tonight
+[Am] Thi[G]s art doe[F]s dro[G]wn
+
+Chorus:
+[Am] (What[Am] follow[F]s) me as 
+th[G]e white[Am]st lace of light
+(Will [Am]swallo[F]w whole) 
+just begs to[G] be [Am]imbrued?
+(What [Am]follows[F]) has led 
+me[G] to thi[Am]s place
+Where I [Am]belong[F], 
+with[E] all erased
+
+Main Riff:
+What [Am]follow[G]s[D#/G][Fm/A#]
+[Am] [G] [D#/G] [Fm/A#]
+
+Verse 2:
+[Am] Al[G]l insect[D#/G]s sing [Fm/A#]tonight
+[Am] Th[G]e coldes[D#/G]t sou[Fm/A#]nd
+[Am] I'[G]d send God'[D#/G]s grace [Fm/A#]tonight
+[Am] Coul[G]d it b[F]e foun[G]d?
+
+Chorus:
+[Am]   (What[Am] follow[F]s) me as 
+th[G]e white[Am]st lace of light
+(Will [Am]swallo[F]w whole) 
+just begs to[G] be [Am]imbrued?
+(What [Am]follows[F]) has led 
+me[G] to thi[Am]s place
+Where I [Am]belong[F], with[E] all erased
+
+Bridge:
+[Dm] I'l[C]l lay me[G] down [Am]tonight
+[Dm] Muc[C]h further[G] do[Am]wn[G/B]
+[C] Watch[G] stars go[Am] ou[Am9/E]t
+[Am/E]  tonight
+[Dm]   O[C]n sinking[G] ground
+
+Interlude:
+[Am] [Em] [C] [E]
+[Am]   [Em]   [C]  [E]
+I'll lay[Am] me[G] [F]do[G]wn[Am],  
+[G]  [D/F#] I'l[F]l lay[E] me down
+
+Chorus:
+(What [F]follows)[C] me as the 
+[G]whitest lac[Am]e   of light
+(Will [F]swallow[C] whole) 
+just begs to [G]be imbrued[Am]?
+(What [F]follows)[C] has 
+led me [G]to this plac[Am]e
+Where I [F]belong,[C] with [E]all erased
+
+Outro:
+What [Am]follow[F]s [G]  [Am]
+wi[Am]ll swa[F]llow w[G]ho[Am]le
+What [Am]follow[F]s [G]  [Am]
+wi[Am]ll swa[F]llow w[C5]hol[G/B]e[G5][A5]
