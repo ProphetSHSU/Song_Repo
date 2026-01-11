@@ -1,0 +1,40 @@
+{title:Colorblind}
+{artist:Counting Crows}
+{key:F}
+{duration:3:25}
+{tempo:106}
+
+Intro:
+[Am7] [F/Bb] [F] [F/Bb]
+[Am7] [F/Bb] [F]
+[F/Bb]
+
+Verse 1:
+[Am7]   I am co[F/Bb]lorblind[F]
+[F/Bb]     [Am7]   Coffee black[F/Bb]    and egg white[F]
+[F/Bb]     [Am7]   Pull me out[F/Bb]    from inside[F]
+[F/Bb]     [Am7]   I am rea[F/Bb]dy, I am rea[F]dy, I am rea[F/Bb]dy,
+I am[Am7]
+
+Verse 2:
+Taffy stuck[F/Bb]    and tongue tied[F]
+[F/Bb]     [Am7]   Stutter shook[F/Bb]    and uptight[F]
+[F/Bb]     [Am7]   Pull me out[F/Bb]    from inside[F]
+[F/Bb]     [Am7]   I am rea[F/Bb]dy, I am rea[F]dy, I am rea[F/Bb]dy,
+I am[Am7]   fine
+[F/Bb] [F] [F/Bb]
+
+Verse 3:
+[Am7]   I am co[F/Bb]vered in skin[F]
+[F/Bb]     [Am7]   No one gets[F/Bb]    to come in[F]
+[F/Bb]     [Am7]   Pull me out[F/Bb]    from inside[F]
+[F/Bb]     [Am7]   I am fol[F/Bb]ded and unfol[F]ded and unfol[F/Bb]ding
+I am[Am7]   co[F/Bb]lorblind[F]
+[F/Bb]     [Am7]   Coffee black[F/Bb]    and egg white[F]
+[F/Bb]     [Am7]   Pull me out[F/Bb]    from inside[F]
+[F/Bb]     [Am7]   I am rea[F/Bb]dy, I am rea[F]dy, I am rea[F/Bb]dy,
+I am[F] fine
+
+Outro:
+[F/Bb]     [F]  [F/Bb]    I am[F] fine
+[F/Bb]     [F]  [F/Bb]    I am[F] fine
